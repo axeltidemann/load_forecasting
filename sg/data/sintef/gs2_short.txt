@@ -1,0 +1,5 @@
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Buskerud/133_4_2_2006010200_2006100123_20061129202638000_154753.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Buskerud/134_4_2_2006010200_2006100123_20061129132145000_154749.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Buskerud/Innlest/133_4_2_2006010200_2006010900_20060110203859000_144086.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Buskerud/Innlest/133_4_2_2006010900_2006011600_20060117153217000_144312.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Buskerud/Innlest/133_4_2_2006011600_2006012300_20060124154601000_144524.exp

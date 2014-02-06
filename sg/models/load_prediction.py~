@@ -1,0 +1,106 @@
+"""Initiates models, runs them through a genetic algorithm to find the
+optimal parameters, and tests the models in a production setting."""
+
+import random
+from datetime import timedelta as dt
+import numpy as np
+import mdp, Oger, pdb
+import matplotlib.pyplot as plt
+import scipy
+import scikits.timeseries as ts
+import itertools as it
+
+from pyevolve import GAllele
+import sg.data.bchydro as bchydro
+import sg.utils
+from model import Model
+from ga import run_GA
+import esn
+
+def _load_prediction():
+    """This is where the models are defined. The models are passed to the GA
+    engine for evolution of the optimal set of parameters. Afterwards,
+    the models are tested, and performance is measured."""
+
+    dataset = bchydro.Dataset(period=dt(days=7*3))
+    train, test = dataset.split()
+
+    alleles = GAllele.GAlleles()
+    alleles.add(GAllele.GAlleleRange(24,1000)) # Data length
+    alleles.add(GAllele.GAlleleRange(10, 250)) # Network size
+    alleles.add(GAllele.GAlleleRange(0, 1, real=True)) # Leak rate
+    alleles.add(GAllele.GAlleleRange(0, 1, real=True)) # Input scaling
+    alleles.add(GAllele.GAlleleRange(0, 1, real=True)) # Bias scaling
+    alleles.add(GAllele.GAlleleRange(0, 1, real=True)) # Spectral radius
+    alleles.add(GAllele.GAlleleRange(0,100000)) # Seed
+
+    ESN_feedforward = Model(genes = alleles, error_func = Oger.utils.nrmse,
+                            train_and_predict_func = esn.feedforward,
+                            dataset = train)
+
+    for model in [ ESN_feedforward ]:
+        run_GA(model)
+        print model.genome
+        day = model.genome.getParam('day')
+        i = 1
+        target = []
+        prediction = []
+        while day*i+model.genome[0] <= len(test.series):
+            test_day = sg.utils.scale(test.series[day*(i-1):day*i+model.genome[0]].data)
+            test_day.shape = [test_day.shape[0], 1]
+            ytest = model.train_and_predict_func(test_day[:-day],
+                                                 model.genome)
+            target.append(test_day[-day:])
+            prediction.append(ytest[-day:])
+            i += 1
+
+        target = [ e[0] for e in it.chain(*target) ]
+        prediction = [ e[0] for e in it.chain(*prediction) ]
+        plt.figure()
+        plt.title('Prediction through test phase, %i days, error = %3.2f'%\
+            (i,model.error_func(np.array(prediction),np.array(target))))
+        plt.plot(target, 'b', label='Target')
+        plt.plot(prediction, 'r', label='Prediction')
+        plt.legend(loc=3)
+    plt.show()
+    
+if __name__ == "__main__":
+    _load_prediction()
+
+
+    # Plot the best individual, with a red line showing when the
+    # prediction started.
+    # plt.figure()
+    # plt.title('Target, test, real life plots')
+    # plt.plot(top_dog.target, 'b', label='Target')
+    # plt.plot(top_dog.xtest, top_dog.ytest,
+    #          'g', label='%s, Error=%3.2f'%(top_dog.label,top_dog.score))
+    # plt.axvline(top_dog.xtest[0], plt.ylim()[0], plt.ylim()[1], color='r')
+    # # Plot real life example, magenta line showing real life performance start.
+    # plt.plot(top_dog.xreal, top_dog.yreal,
+    #          'c', label='Real life prediction, Error=%3.2f' \
+    #          %top_dog.getParam('error_func')(top_dog.yreal, top_dog.target[-24:]))
+    # plt.plot(top_dog.xreal, top_dog.retrain,
+    #          'k', label='Retrained, Error=%3.2f' \
+    #          %top_dog.getParam('error_func')(top_dog.retrain, top_dog.target[-24:]))
+    # plt.axvline(top_dog.xreal[0], plt.ylim()[0], plt.ylim()[1], color='m')
+    # plt.legend(loc=3)
+    # # Plot real life performance
+    # plt.figure()
+    # plt.title('Real life Error')
+    # plt.errorbar(np.arange(0,len(real_avg),1), real_avg, yerr=real_std, label='Mean')
+    # plt.plot(real_max, label='Max')
+    # plt.plot(real_min, label='Min')
+    # plt.legend()
+    # # Scatter plot of tested error vs actual error
+    # plt.figure()
+    # plt.scatter([ I.score for I in ga.getPopulation() ],
+    #             [ I.getParam('error_func')(I.yreal, I.target[-24:]) for I in ga.getPopulation() ])
+    # plt.xlabel('Raw score')
+    # plt.ylabel('Real life score')
+    # plt.show()
+
+    # We store the result for plotting purposes.
+    # chromosome.target = load_data
+    # chromosome.ytest = ytest[-day:]
+    # chromosome.xtest = scipy.arange(len(load_data)-day*2, len(load_data)-day, 1)

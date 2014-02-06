@@ -1,0 +1,4 @@
+# Don't redirect error messages -> get mail alert on failure 
+0 10 * * * $HOME/sg-shared/src/sg/data/yr.no/get-forecasts.sh >>sg-shared/data/yr.no/forecasts_log.sh
+0 22 * * * $HOME/sg-shared/src/sg/data/yr.no/get-forecasts.sh >>sg-shared/data/yr.no/forecasts_log.sh
+

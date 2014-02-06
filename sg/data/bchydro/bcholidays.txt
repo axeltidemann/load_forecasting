@@ -1,0 +1,12 @@
+Holiday	Day Observed	Notes
+New Year's Day	January 1	
+Good Friday	Friday before Easter Sunday	
+Easter Monday	Monday after Easter Sunday	Not a statutory holiday, but bank holiday and federally regulated employers give the day off.
+Victoria Day	Monday before May 25	
+Canada Day	July 1 or July 2 if July 1 is a Sunday	
+Civic Holiday	First Monday of August	A.k.a. British Columbia Day in BC
+Labour Day	First Monday of September	
+Thanksgiving	Second Monday of October	
+Remembrance Day	November 11	
+Christmas Day	December 25	
+Family Day	Second Monday of February	Introduced in 2013	

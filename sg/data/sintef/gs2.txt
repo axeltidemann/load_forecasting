@@ -1,0 +1,1073 @@
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Buskerud/133_4_2_2006010200_2006100123_20061129202638000_154753.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Buskerud/134_4_2_2006010200_2006100123_20061129132145000_154749.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Buskerud/Innlest/133_4_2_2006010200_2006010900_20060110203859000_144086.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Buskerud/Innlest/133_4_2_2006010900_2006011600_20060117153217000_144312.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Buskerud/Innlest/133_4_2_2006011600_2006012300_20060124154601000_144524.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Buskerud/Innlest/133_4_2_2006012300_2006013000_20060131150137000_144765.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Buskerud/Innlest/133_4_2_2006013000_2006020600_20060208095805000_145006.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Buskerud/Innlest/133_4_2_2006020600_2006021300_20060214150025000_145206.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Buskerud/Innlest/133_4_2_2006021300_2006022000_20060222092841000_145462.EXP
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Buskerud/Innlest/133_4_2_2006022000_2006022700_20060301090016000_145691.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Buskerud/Innlest/133_4_2_2006022700_2006030600_20060308094931000_145929.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Buskerud/Innlest/133_4_2_2006030600_2006031300_20060314150135000_146134.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Buskerud/Innlest/133_4_2_2006031300_2006032000_20060322102526000_146381.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Buskerud/Innlest/133_4_2_2006032000_2006032623_20060329084452000_146608.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Buskerud/Innlest/133_4_2_2006032623_2006040223_20060405093805000_146945.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Buskerud/Innlest/133_4_2_2006040223_2006040923_20060411140802000_147243.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Buskerud/Innlest/133_4_2_2006040923_2006041623_20060419114347000_147487.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Buskerud/Innlest/133_4_2_2006041623_2006042323_20060426090252000_147707.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Buskerud/Innlest/133_4_2_2006042323_2006043023_20060503114511000_147927.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Buskerud/Innlest/133_4_2_2006043023_2006050723_20060510081319000_148144.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Buskerud/Innlest/133_4_2_2006050723_2006051423_20060518092927000_148435.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Buskerud/Innlest/133_4_2_2006051423_2006052123_20060524082220000_148646.EXP
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Buskerud/Innlest/133_4_2_2006052123_2006052823_20060531112351000_148869.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Buskerud/Innlest/133_4_2_2006052823_2006060423_20061019123840000_153385.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Buskerud/Innlest/133_4_2_2006060423_2006061123_20060614092444000_149338.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Buskerud/Innlest/133_4_2_2006061123_2006061823_20060621114617000_149604.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Buskerud/Innlest/133_4_2_2006061823_2006062523_20060628120431000_149854.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Buskerud/Innlest/133_4_2_2006062523_2006070223_20060705120148000_150104.EXP
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Buskerud/Innlest/133_4_2_2006070223_2006070923_20060712113349000_150331.EXP
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Buskerud/Innlest/133_4_2_2006070923_2006071623_20060719080406000_150560.EXP
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Buskerud/Innlest/133_4_2_2006071623_2006072323_20060726101836000_150761.EXP
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Buskerud/Innlest/133_4_2_2006072323_2006073023_20060802095341000_150951.EXP
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Buskerud/Innlest/133_4_2_2006073023_2006080623_20060809114549000_151278.EXP
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Buskerud/Innlest/133_4_2_2006080623_2006081323_20060816094906000_151485.EXP
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Buskerud/Innlest/133_4_2_2006081323_2006082023_20060823092421000_151706.EXP
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Buskerud/Innlest/133_4_2_2006082023_2006082723_20060830120241000_151913.EXP
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Buskerud/Innlest/133_4_2_2006082723_2006090323_20060906111549000_152128.EXP
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Buskerud/Innlest/133_4_2_2006090323_2006091023_20060913125841000_152342.EXP
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Buskerud/Innlest/133_4_2_2006091023_2006091723_20060920113850000_152560.EXP
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Buskerud/Innlest/133_4_2_2006091723_2006092423_20060927121123000_152752.EXP
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Buskerud/Innlest/133_4_2_2006092423_2006100123_20061004095138000_152958.EXP
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Buskerud/Innlest/133_4_2_2006100123_2006100823_20061011081004000_153149.EXP
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Buskerud/Innlest/134_4_2_2006010200_2006010900_20060110203155000_144085.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Buskerud/Innlest/134_4_2_2006010900_2006011600_20060117153319000_144313.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Buskerud/Innlest/134_4_2_2006011600_2006012300_20060124154514000_144523.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Buskerud/Innlest/134_4_2_2006012300_2006013000_20060131150041000_144764.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Buskerud/Innlest/134_4_2_2006013000_2006020600_20060208095712000_145005.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Buskerud/Innlest/134_4_2_2006020600_2006021300_20060214145914000_145205.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Buskerud/Innlest/134_4_2_2006021300_2006022000_20060222092944000_145463.EXP
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Buskerud/Innlest/134_4_2_2006022000_2006022700_20060301085913000_145690.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Buskerud/Innlest/134_4_2_2006022700_2006030600_20060308094843000_145928.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Buskerud/Innlest/134_4_2_2006030600_2006031300_20060314150326000_146135.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Buskerud/Innlest/134_4_2_2006031300_2006032000_20060322102424000_146380.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Buskerud/Innlest/134_4_2_2006032000_2006032623_20060329084252000_146607.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Buskerud/Innlest/134_4_2_2006032623_2006040223_20060405093858000_146946.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Buskerud/Innlest/134_4_2_2006040223_2006040923_20060411140703000_147242.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Buskerud/Innlest/134_4_2_2006040923_2006041623_20060419114247000_147486.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Buskerud/Innlest/134_4_2_2006041623_2006042323_20060426090057000_147706.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Buskerud/Innlest/134_4_2_2006042323_2006043023_20060503114409000_147926.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Buskerud/Innlest/134_4_2_2006043023_2006050723_20060510081226000_148143.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Buskerud/Innlest/134_4_2_2006050723_2006051423_20060518092706000_148434.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Buskerud/Innlest/134_4_2_2006051423_2006052123_20060524082127000_148645.EXP
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Buskerud/Innlest/134_4_2_2006052123_2006052823_20060531112433000_148870.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Buskerud/Innlest/134_4_2_2006052823_2006060423_20061019123924000_153386.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Buskerud/Innlest/134_4_2_2006060423_2006061123_20060614092358000_149337.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Buskerud/Innlest/134_4_2_2006061123_2006061823_20060621114750000_149605.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Buskerud/Innlest/134_4_2_2006061823_2006062523_20060628120347000_149853.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Buskerud/Innlest/134_4_2_2006062523_2006070223_20060705120058000_150103.EXP
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Buskerud/Innlest/134_4_2_2006070223_2006070923_20060712113303000_150330.EXP
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Buskerud/Innlest/134_4_2_2006070923_2006071623_20060719080325000_150559.EXP
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Buskerud/Innlest/134_4_2_2006071623_2006072323_20060726102330000_150762.EXP
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Buskerud/Innlest/134_4_2_2006072323_2006073023_20060802095258000_150950.EXP
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Buskerud/Innlest/134_4_2_2006073023_2006080623_20060809114859000_151279.EXP
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Buskerud/Innlest/134_4_2_2006080623_2006081323_20060816094953000_151486.EXP
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Buskerud/Innlest/134_4_2_2006081323_2006082023_20060823092811000_151707.EXP
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Buskerud/Innlest/134_4_2_2006082023_2006082723_20060830120157000_151912.EXP
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Buskerud/Innlest/134_4_2_2006082723_2006090323_20060906112855000_152133.EXP
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Buskerud/Innlest/134_4_2_2006090323_2006091023_20060913125747000_152341.EXP
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Buskerud/Innlest/134_4_2_2006091023_2006091723_20060920113806000_152559.EXP
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Buskerud/Innlest/134_4_2_2006091723_2006092423_20060927120930000_152751.EXP
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Buskerud/Innlest/134_4_2_2006092423_2006100123_20061004095249000_152959.EXP
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Buskerud/Innlest/134_4_2_2006100123_2006100823_20061011080258000_153148.EXP
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Buskerud/Innlest/Buskerud 2004/100_4_26_2003122900_2004010500_20040115144017000_101881.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Buskerud/Innlest/Buskerud 2004/111_4_26_2003122900_2004010500_20040115143850000_101879.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Buskerud/Innlest/Buskerud 2004/111_4_26_2004010500_2004011200_20040114122433000_101799.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Buskerud/Innlest/Buskerud 2004/133_4_2_2003110100_2004010100_20041116200616000_117743.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Buskerud/Innlest/Buskerud 2004/133_4_2_2004010100_2004033123_20041125082839000_118303.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Buskerud/Innlest/Buskerud 2004/133_4_2_2004010100_2004033123_20041125082924000_118304.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Buskerud/Innlest/Buskerud 2004/133_4_2_2004010100_2004033123_20041125082954000_118305.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Buskerud/Innlest/Buskerud 2004/133_4_2_2004033123_2004043023_20041130152653000_118518.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Buskerud/Innlest/Buskerud 2004/133_4_2_2004033123_2004043023_20041130152715000_118519.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Buskerud/Innlest/Buskerud 2004/133_4_2_2004033123_2004043023_20041130152738000_118520.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Buskerud/Innlest/Buskerud 2004/133_4_2_2004050223_2004053023_20040914081022000_113522.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Buskerud/Innlest/Buskerud 2004/133_4_2_2004052323_2004053023_20040606140444000_109625.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Buskerud/Innlest/Buskerud 2004/133_4_2_2004053023_2004060623_20040608153237000_109776.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Buskerud/Innlest/Buskerud 2004/133_4_2_2004060623_2004061323_20040615210024000_110020.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Buskerud/Innlest/Buskerud 2004/133_4_2_2004061323_2004062023_20040622200933000_110258.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Buskerud/Innlest/Buskerud 2004/133_4_2_2004062023_2004062723_20040630140451000_110618.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Buskerud/Innlest/Buskerud 2004/133_4_2_2004062723_2004070423_20040707124641000_110889.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Buskerud/Innlest/Buskerud 2004/133_4_2_2004070423_2004071123_20040714194511000_111293.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Buskerud/Innlest/Buskerud 2004/133_4_2_2004071123_2004071823_20040721160124000_111527.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Buskerud/Innlest/Buskerud 2004/133_4_2_2004071823_2004072523_20040728130921000_111813.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Buskerud/Innlest/Buskerud 2004/133_4_2_2004072523_2004080123_20040804134157000_112014.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Buskerud/Innlest/Buskerud 2004/133_4_2_2004080123_2004080823_20040811150327000_112246.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Buskerud/Innlest/Buskerud 2004/133_4_2_2004080823_2004081523_20040818102441000_112417.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Buskerud/Innlest/Buskerud 2004/133_4_2_2004081523_2004082223_20040825102132000_112712.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Buskerud/Innlest/Buskerud 2004/133_4_2_2004082223_2004082923_20040901114731000_112930.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Buskerud/Innlest/Buskerud 2004/133_4_2_2004082923_2004090523_20040908061734000_113346.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Buskerud/Innlest/Buskerud 2004/133_4_2_2004090523_2004091223_20040915121940000_113708.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Buskerud/Innlest/Buskerud 2004/133_4_2_2004091223_2004091923_20040922123729000_114007.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Buskerud/Innlest/Buskerud 2004/133_4_2_2004091923_2004092623_20040929115032000_114634.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Buskerud/Innlest/Buskerud 2004/133_4_2_2004092623_2004100323_20041006123852000_115104.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Buskerud/Innlest/Buskerud 2004/133_4_2_2004100323_2004101023_20041013073729000_115924.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Buskerud/Innlest/Buskerud 2004/133_4_2_2004101023_2004101723_20041020120349000_116322.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Buskerud/Innlest/Buskerud 2004/133_4_2_2004101723_2004102423_20041026115856000_116729.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Buskerud/Innlest/Buskerud 2004/133_4_2_2004102423_2004110100_20041103121953000_117082.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Buskerud/Innlest/Buskerud 2004/133_4_2_2004110100_2004110800_20041110140620000_117497.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Buskerud/Innlest/Buskerud 2004/133_4_2_2004112200_2004112900_20041201125423000_118579.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Buskerud/Innlest/Buskerud 2004/133_4_2_2004112900_2004120600_20041207163046000_118937.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Buskerud/Innlest/Buskerud 2004/133_4_2_2004120600_2004121300_20041215105743000_119257.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Buskerud/Innlest/Buskerud 2004/133_4_2_2004121300_2004122000_20041222105318000_119684.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Buskerud/Innlest/Buskerud 2004/134_4_2_2003110100_2004010100_20041116202159000_117748.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Buskerud/Innlest/Buskerud 2004/134_4_2_2004050223_2004053023_20040914092225000_113532.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Buskerud/Innlest/Buskerud 2004/134_4_2_2004053023_2004060623_20040608153848000_109777.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Buskerud/Innlest/Buskerud 2004/134_4_2_2004060623_2004061323_20040615210546000_110021.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Buskerud/Innlest/Buskerud 2004/134_4_2_2004061323_2004062023_20040622201525000_110259.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Buskerud/Innlest/Buskerud 2004/134_4_2_2004062023_2004062723_20040630141203000_110619.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Buskerud/Innlest/Buskerud 2004/134_4_2_2004062723_2004070423_20040707125048000_110890.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Buskerud/Innlest/Buskerud 2004/134_4_2_2004070423_2004071123_20040714194940000_111294.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Buskerud/Innlest/Buskerud 2004/134_4_2_2004071123_2004071823_20040721155751000_111525.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Buskerud/Innlest/Buskerud 2004/134_4_2_2004071823_2004072523_20040728125025000_111811.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Buskerud/Innlest/Buskerud 2004/134_4_2_2004072523_2004080123_20040804134702000_112015.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Buskerud/Innlest/Buskerud 2004/134_4_2_2004080123_2004080823_20040811150731000_112247.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Buskerud/Innlest/Buskerud 2004/134_4_2_2004080823_2004081523_20040818102926000_112418.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Buskerud/Innlest/Buskerud 2004/134_4_2_2004081523_2004082223_20040825102542000_112713.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Buskerud/Innlest/Buskerud 2004/134_4_2_2004082223_2004082923_20040901115637000_112931.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Buskerud/Innlest/Buskerud 2004/134_4_2_2004082923_2004090523_20040908062318000_113347.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Buskerud/Innlest/Buskerud 2004/134_4_2_2004090523_2004091223_20040915122428000_113709.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Buskerud/Innlest/Buskerud 2004/134_4_2_2004091223_2004091923_20040922124337000_114008.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Buskerud/Innlest/Buskerud 2004/134_4_2_2004091923_2004092623_20040929120544000_114635.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Buskerud/Innlest/Buskerud 2004/134_4_2_2004092623_2004100323_20041006124433000_115105.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Buskerud/Innlest/Buskerud 2004/134_4_2_2004100323_2004101023_20041013074216000_115925.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Buskerud/Innlest/Buskerud 2004/134_4_2_2004101023_2004101723_20041020121134000_116323.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Buskerud/Innlest/Buskerud 2004/134_4_2_2004101723_2004102423_20041026120558000_116730.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Buskerud/Innlest/Buskerud 2004/134_4_2_2004102423_2004110100_20041103132747000_117090.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Buskerud/Innlest/Buskerud 2004/134_4_2_2004110100_2004110800_20041110141153000_117499.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Buskerud/Innlest/Buskerud 2004/134_4_2_2004112200_2004112900_20041201125840000_118580.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Buskerud/Innlest/Buskerud 2004/134_4_2_2004112900_2004120600_20041207164207000_118939.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Buskerud/Innlest/Buskerud 2004/134_4_2_2004120600_2004121300_20041215110243000_119258.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Buskerud/Innlest/Buskerud 2004/134_4_2_2004121300_2004122000_20041222105803000_119685.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Buskerud/Innlest/Buskerud 2004/2003_08_sskala2_drm.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Buskerud/Innlest/Buskerud 2004/2003_08_sskala_drm.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Buskerud/Innlest/Buskerud 2004/2003_08_sskalakbg.gs2
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Buskerud/Innlest/Buskerud 2004/2003_09_sskala2_drm.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Buskerud/Innlest/Buskerud 2004/2003_09_sskala_drm.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Buskerud/Innlest/Buskerud 2004/2003_09_sskala_kbg.gs2
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Buskerud/Innlest/Buskerud 2004/2003_10_sskala2_drm.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Buskerud/Innlest/Buskerud 2004/2003_10_sskala_drm.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Buskerud/Innlest/Buskerud 2004/2003_10_sskala_kbg.gs2
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Buskerud/Innlest/Buskerud 2004/2003_11_sskala2_drm.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Buskerud/Innlest/Buskerud 2004/2003_11_sskala_drm.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Buskerud/Innlest/Buskerud 2004/2003_11_sskala_kbg.gs2
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Buskerud/Innlest/Buskerud 2004/2003_12_sskala2_drm.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Buskerud/Innlest/Buskerud 2004/2003_12_sskala_drm.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Buskerud/Innlest/Buskerud 2004/2003_12_sskala_kbg.gs2
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Buskerud/Innlest/Buskerud 2004/2004-11-sskala_kbg.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Buskerud/Innlest/Buskerud 2004/2004_010104_120104_sskala2_drm.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Buskerud/Innlest/Buskerud 2004/2004_010104_120104_sskala_drm.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Buskerud/Innlest/Buskerud 2004/2004_01_sskala_kbg.gs2.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Buskerud/Innlest/Buskerud 2004/2004_07_sskala_kbg.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Buskerud/Innlest/Buskerud 2004/2004_08_sskala_drm.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Buskerud/Innlest/Buskerud 2004/2004_08_sskala_drm2.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Buskerud/Innlest/Buskerud 2004/2004_08_sskala_kbg.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Buskerud/Innlest/Buskerud 2004/2004_09_sskala_drm.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Buskerud/Innlest/Buskerud 2004/2004_09_sskala_drm2.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Buskerud/Innlest/Buskerud 2004/2004_09_sskala_kbg.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Buskerud/Innlest/Buskerud 2004/2004_10_sskala_drm.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Buskerud/Innlest/Buskerud 2004/2004_10_sskala_drm2.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Buskerud/Innlest/Buskerud 2004/2004_10_sskala_kbg.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Buskerud/Innlest/Buskerud 2004/2004_11_sskala_drm.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Buskerud/Innlest/Buskerud 2004/2004_11_sskala_drm2.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Buskerud/Innlest/Buskerud 2004/2004_12_sskala_drm.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Buskerud/Innlest/Buskerud 2004/2004_12_sskala_drm2.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Buskerud/Innlest/Buskerud 2004/2004_12_sskala_kbg.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Buskerud/Innlest/Buskerud 2004/2004_13_sskala_drm.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Buskerud/Innlest/Buskerud 2004/2004_13_sskala_drm2.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Buskerud/Innlest/Buskerud 2004/2004_13_sskala_kbg.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Buskerud/Innlest/Buskerud 2004/2004_14_sskala_drm.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Buskerud/Innlest/Buskerud 2004/2004_14_sskala_drm2.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Buskerud/Innlest/Buskerud 2004/2004_14_sskala_kbg.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Buskerud/Innlest/Buskerud 2004/2004_15_sskala_drm.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Buskerud/Innlest/Buskerud 2004/2004_15_sskala_drm2.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Buskerud/Innlest/Buskerud 2004/2004_15_sskala_kbg.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Buskerud/Innlest/Buskerud 2004/2004_16_sskala_drm.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Buskerud/Innlest/Buskerud 2004/2004_16_sskala_drm2.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Buskerud/Innlest/Buskerud 2004/2004_16_sskala_kbg.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Buskerud/Innlest/Buskerud 2004/2004_17_sskala_drm.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Buskerud/Innlest/Buskerud 2004/2004_17_sskala_drm2.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Buskerud/Innlest/Buskerud 2004/2004_17_sskala_kbg.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Buskerud/Innlest/Buskerud 2004/2004_18_sskala_drm.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Buskerud/Innlest/Buskerud 2004/2004_18_sskala_drm2.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Buskerud/Innlest/Buskerud 2004/2004_18_sskala_kbg.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Buskerud/Innlest/Buskerud 2004/2004_u3_sskala_drm1.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Buskerud/Innlest/Buskerud 2004/2004_u3_sskala_drm2.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Buskerud/Innlest/Buskerud 2004/2004_u4_sskala_drm.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Buskerud/Innlest/Buskerud 2004/2004_u4_sskala_drm2.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Buskerud/Innlest/Buskerud 2004/2004_u4_sskala_kbg.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Buskerud/Innlest/Buskerud 2004/2004_u5_sskala_drm.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Buskerud/Innlest/Buskerud 2004/2004_u5_sskala_drm2.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Buskerud/Innlest/Buskerud 2004/2004_u5_sskala_kbg.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Buskerud/Innlest/Buskerud 2004/2004_u6_sskala_drm.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Buskerud/Innlest/Buskerud 2004/2004_u6_sskala_drm2.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Buskerud/Innlest/Buskerud 2004/2004_u6_sskala_kbg.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Buskerud/Innlest/Buskerud 2004/2004_u7_sskala_drm.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Buskerud/Innlest/Buskerud 2004/2004_u7_sskala_drm2.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Buskerud/Innlest/Buskerud 2005/133_4_2_2004110800_2004111500_20050302135943000_127246.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Buskerud/Innlest/Buskerud 2005/133_4_2_2004111500_2004112200_20041124153046000_118288.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Buskerud/Innlest/Buskerud 2005/133_4_2_2004122000_2004122700_20041228131449000_120099.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Buskerud/Innlest/Buskerud 2005/133_4_2_2004122700_2005010300_20050105094352000_120355.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Buskerud/Innlest/Buskerud 2005/133_4_2_2005010300_2005011000_20050302135148000_127245.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Buskerud/Innlest/Buskerud 2005/133_4_2_2005011000_2005011700_20050119104808000_123297.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Buskerud/Innlest/Buskerud 2005/133_4_2_2005011700_2005012400_20050126124709000_123671.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Buskerud/Innlest/Buskerud 2005/133_4_2_2005012400_2005013100_20050202122523000_124024.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Buskerud/Innlest/Buskerud 2005/133_4_2_2005013100_2005020700_20050209124751000_124885.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Buskerud/Innlest/Buskerud 2005/133_4_2_2005020700_2005021400_20050216130554000_125682.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Buskerud/Innlest/Buskerud 2005/133_4_2_2005021400_2005022100_20050222190523000_126395.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Buskerud/Innlest/Buskerud 2005/133_4_2_2005022100_2005022800_20050302105558000_127242.EXP
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Buskerud/Innlest/Buskerud 2005/133_4_2_2005022800_2005030700_20050309111229000_127998.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Buskerud/Innlest/Buskerud 2005/133_4_2_2005030700_2005031400_20050316103257000_128844.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Buskerud/Innlest/Buskerud 2005/133_4_2_2005031400_2005032100_20050322143114000_129602.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Buskerud/Innlest/Buskerud 2005/133_4_2_2005032100_2005032723_20050331111606000_130618.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Buskerud/Innlest/Buskerud 2005/133_4_2_2005032723_2005040323_20050406100856000_131178.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Buskerud/Innlest/Buskerud 2005/133_4_2_2005040323_2005041023_20050413092304000_132103.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Buskerud/Innlest/Buskerud 2005/133_4_2_2005041023_2005041723_20050420092427000_132987.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Buskerud/Innlest/Buskerud 2005/133_4_2_2005041723_2005042423_20050427080722000_133776.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Buskerud/Innlest/Buskerud 2005/133_4_2_2005042423_2005050123_20050504091119000_134542.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Buskerud/Innlest/Buskerud 2005/133_4_2_2005050123_2005050823_20050510171105000_135340.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Buskerud/Innlest/Buskerud 2005/133_4_2_2005050823_2005051523_20050519122608000_136072.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Buskerud/Innlest/Buskerud 2005/133_4_2_2005051523_2005052223_20050525132910000_136348.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Buskerud/Innlest/Buskerud 2005/133_4_2_2005052223_2005052923_20050601094434000_136656.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Buskerud/Innlest/Buskerud 2005/133_4_2_2005052923_2005060523_20050607130725000_136937.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Buskerud/Innlest/Buskerud 2005/133_4_2_2005060523_2005061223_20050615104942000_137197.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Buskerud/Innlest/Buskerud 2005/133_4_2_2005061223_2005061923_20050622101340000_137413.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Buskerud/Innlest/Buskerud 2005/133_4_2_2005061923_2005062623_20050629093122000_137635.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Buskerud/Innlest/Buskerud 2005/133_4_2_2005062623_2005070323_20050706085506000_137881.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Buskerud/Innlest/Buskerud 2005/133_4_2_2005070323_2005071023_20050713092823000_138113.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Buskerud/Innlest/Buskerud 2005/133_4_2_2005071023_2005071723_20050720091430000_138313.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Buskerud/Innlest/Buskerud 2005/133_4_2_2005071723_2005072423_20050727094407000_138514.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Buskerud/Innlest/Buskerud 2005/133_4_2_2005072423_2005073123_20050803085414000_138701.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Buskerud/Innlest/Buskerud 2005/133_4_2_2005073123_2005080723_20050810081104000_138905.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Buskerud/Innlest/Buskerud 2005/133_4_2_2005080723_2005081423_20050817093443000_139118.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Buskerud/Innlest/Buskerud 2005/133_4_2_2005081423_2005082123_20050824122308000_139340.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Buskerud/Innlest/Buskerud 2005/133_4_2_2005082123_2005082823_20050831114737000_139556.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Buskerud/Innlest/Buskerud 2005/133_4_2_2005082823_2005090423_20050907090431000_139789.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Buskerud/Innlest/Buskerud 2005/133_4_2_2005090423_2005091123_20050914085907000_140000.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Buskerud/Innlest/Buskerud 2005/133_4_2_2005091123_2005091823_20050921085343000_140206.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Buskerud/Innlest/Buskerud 2005/133_4_2_2005091823_2005092523_20050928111920000_140510.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Buskerud/Innlest/Buskerud 2005/133_4_2_2005092523_2005100223_20051005084123000_140765.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Buskerud/Innlest/Buskerud 2005/133_4_2_2005100223_2005100923_20051012085436000_141009.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Buskerud/Innlest/Buskerud 2005/133_4_2_2005100923_2005101623_20051018131132000_141207.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Buskerud/Innlest/Buskerud 2005/133_4_2_2005101623_2005102323_20051026091715000_141438.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Buskerud/Innlest/Buskerud 2005/133_4_2_2005102323_2005103100_20051102101829000_141679.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Buskerud/Innlest/Buskerud 2005/133_4_2_2005103100_2005110700_20051109091014000_141892.EXP
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Buskerud/Innlest/Buskerud 2005/133_4_2_2005110700_2005111400_20051116104841000_142196.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Buskerud/Innlest/Buskerud 2005/133_4_2_2005111400_2005112100_20051123085653000_142406.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Buskerud/Innlest/Buskerud 2005/133_4_2_2005112100_2005112800_20051130100630000_142620.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Buskerud/Innlest/Buskerud 2005/133_4_2_2005112800_2005120500_20051207093629000_142863.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Buskerud/Innlest/Buskerud 2005/133_4_2_2005120500_2005121200_20051214100220000_143181.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Buskerud/Innlest/Buskerud 2005/133_4_2_2005121200_2005121900_20051221094245000_143402.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Buskerud/Innlest/Buskerud 2005/133_4_2_2005121900_2005122600_20051228095252000_143632.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Buskerud/Innlest/Buskerud 2005/133_4_2_2005122600_2006010200_20060104123913000_143855.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Buskerud/Innlest/Buskerud 2005/134_4_2_2004110800_2004111500_20050302145610000_127258.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Buskerud/Innlest/Buskerud 2005/134_4_2_2004111500_2004112200_20041124154411000_118289.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Buskerud/Innlest/Buskerud 2005/134_4_2_2004122000_2004122700_20041228135601000_120102.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Buskerud/Innlest/Buskerud 2005/134_4_2_2004122700_2005010300_20050105095225000_120356.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Buskerud/Innlest/Buskerud 2005/134_4_2_2005010300_2005011000_20050302145114000_127257.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Buskerud/Innlest/Buskerud 2005/134_4_2_2005011000_2005011700_20050119105729000_123298.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Buskerud/Innlest/Buskerud 2005/134_4_2_2005011700_2005012400_20050126125208000_123672.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Buskerud/Innlest/Buskerud 2005/134_4_2_2005012400_2005013100_20050202122929000_124025.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Buskerud/Innlest/Buskerud 2005/134_4_2_2005013100_2005020700_20050209124141000_124883.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Buskerud/Innlest/Buskerud 2005/134_4_2_2005020700_2005021400_20050216131056000_125683.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Buskerud/Innlest/Buskerud 2005/134_4_2_2005021400_2005022100_20050222191201000_126396.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Buskerud/Innlest/Buskerud 2005/134_4_2_2005022100_2005022800_20050302114728000_127243.EXP
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Buskerud/Innlest/Buskerud 2005/134_4_2_2005022800_2005030700_20050309114544000_127999.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Buskerud/Innlest/Buskerud 2005/134_4_2_2005030700_2005031400_20050316104820000_128845.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Buskerud/Innlest/Buskerud 2005/134_4_2_2005031400_2005032100_20050322141521000_129598.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Buskerud/Innlest/Buskerud 2005/134_4_2_2005032100_2005032723_20050331112155000_130621.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Buskerud/Innlest/Buskerud 2005/134_4_2_2005032723_2005040323_20050406101543000_131179.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Buskerud/Innlest/Buskerud 2005/134_4_2_2005040323_2005041023_20050413105030000_132126.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Buskerud/Innlest/Buskerud 2005/134_4_2_2005041023_2005041723_20050420093123000_132988.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Buskerud/Innlest/Buskerud 2005/134_4_2_2005041723_2005042423_20050427081417000_133777.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Buskerud/Innlest/Buskerud 2005/134_4_2_2005042423_2005050123_20050504091826000_134543.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Buskerud/Innlest/Buskerud 2005/134_4_2_2005050123_2005050823_20050510171535000_135341.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Buskerud/Innlest/Buskerud 2005/134_4_2_2005050823_2005051523_20050519123518000_136073.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Buskerud/Innlest/Buskerud 2005/134_4_2_2005051523_2005052223_20050525135509000_136350.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Buskerud/Innlest/Buskerud 2005/134_4_2_2005052223_2005052923_20050601095035000_136657.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Buskerud/Innlest/Buskerud 2005/134_4_2_2005052923_2005060523_20050607131732000_136938.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Buskerud/Innlest/Buskerud 2005/134_4_2_2005060523_2005061223_20050615104123000_137196.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Buskerud/Innlest/Buskerud 2005/134_4_2_2005061223_2005061923_20050622102332000_137414.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Buskerud/Innlest/Buskerud 2005/134_4_2_2005061923_2005062623_20050629091951000_137634.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Buskerud/Innlest/Buskerud 2005/134_4_2_2005062623_2005070323_20050706091156000_137884.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Buskerud/Innlest/Buskerud 2005/134_4_2_2005070323_2005071023_20050713095415000_138115.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Buskerud/Innlest/Buskerud 2005/134_4_2_2005071023_2005071723_20050720085307000_138311.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Buskerud/Innlest/Buskerud 2005/134_4_2_2005071723_2005072423_20050727095938000_138515.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Buskerud/Innlest/Buskerud 2005/134_4_2_2005072423_2005073123_20050803092611000_138707.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Buskerud/Innlest/Buskerud 2005/134_4_2_2005073123_2005080723_20050810083939000_138915.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Buskerud/Innlest/Buskerud 2005/134_4_2_2005080723_2005081423_20050817092405000_139115.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Buskerud/Innlest/Buskerud 2005/134_4_2_2005081423_2005082123_20050824121521000_139339.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Buskerud/Innlest/Buskerud 2005/134_4_2_2005082123_2005082823_20050831120051000_139557.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Buskerud/Innlest/Buskerud 2005/134_4_2_2005082823_2005090423_20050907091659000_139790.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Buskerud/Innlest/Buskerud 2005/134_4_2_2005090423_2005091123_20050914084419000_139998.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Buskerud/Innlest/Buskerud 2005/134_4_2_2005091123_2005091823_20050921093126000_140217.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Buskerud/Innlest/Buskerud 2005/134_4_2_2005091823_2005092523_20050928115800000_140514.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Buskerud/Innlest/Buskerud 2005/134_4_2_2005092523_2005100223_20051005085150000_140767.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Buskerud/Innlest/Buskerud 2005/134_4_2_2005100223_2005100923_20051012084324000_141006.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Buskerud/Innlest/Buskerud 2005/134_4_2_2005100923_2005101623_20051018132325000_141210.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Buskerud/Innlest/Buskerud 2005/134_4_2_2005101623_2005102323_20051026092621000_141439.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Buskerud/Innlest/Buskerud 2005/134_4_2_2005102323_2005103100_20051102103149000_141680.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Buskerud/Innlest/Buskerud 2005/134_4_2_2005103100_2005110700_20051109085910000_141889.EXP
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Buskerud/Innlest/Buskerud 2005/134_4_2_2005110700_2005111400_20051116105844000_142201.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Buskerud/Innlest/Buskerud 2005/134_4_2_2005111400_2005112100_20051123090425000_142407.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Buskerud/Innlest/Buskerud 2005/134_4_2_2005112100_2005112800_20051130101630000_142621.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Buskerud/Innlest/Buskerud 2005/134_4_2_2005112800_2005120500_20051207091857000_142860.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Buskerud/Innlest/Buskerud 2005/134_4_2_2005120500_2005121200_20051214101302000_143182.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Buskerud/Innlest/Buskerud 2005/134_4_2_2005121200_2005121900_20051221093149000_143399.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Buskerud/Innlest/Buskerud 2005/134_4_2_2005121900_2005122600_20051228095932000_143633.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Buskerud/Innlest/Buskerud 2005/134_4_2_2005122600_2006010200_20060104125234000_143858.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Buskerud/Innlest/Buskerud 2005/140_4_2_2005011700_2005012400_20050128104005000_123736.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Buskerud/Innlest/Buskerud 2005/140_4_2_2005090423_2005091123_20050922134809000_140249.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Buskerud/Uke1-uke40/133_4_2_2006010200_2006100123_20061129202638000_154753.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Buskerud/Uke1-uke40/134_4_2_2006010200_2006100123_20061129132145000_154749.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Hafslund/DP2-Mabfot_uke_2306.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Hafslund/DP2-Mabfot_uke_2406.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Hafslund/DP2-Mabfot_uke_2506.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Hafslund/DP2-Mabfot_uke_2606.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Hafslund/DP2-Mabfot_uke_2706.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Hafslund/DP2-Mabfot_uke_2806.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Hafslund/DP2-Mabfot_uke_2906.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Hafslund/DP2-Mabfot_uke_3006.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Hafslund/DP2-Mabfot_uke_3106.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Hafslund/DP2-Mabfot_uke_3206.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Hafslund/DP2-Mabfot_uke_3306.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Hafslund/DP2-Mabfot_uke_3406.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Hafslund/DP2-Mabfot_uke_3506.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Hafslund/Innlest/DP2-Mabfot_uke_0105.gs2
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Hafslund/Innlest/DP2-Mabfot_uke_0106.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Hafslund/Innlest/DP2-Mabfot_uke_0205.gs2
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Hafslund/Innlest/DP2-Mabfot_uke_0206.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Hafslund/Innlest/DP2-Mabfot_uke_0305.gs2
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Hafslund/Innlest/DP2-Mabfot_uke_0306.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Hafslund/Innlest/DP2-Mabfot_uke_0405.gs2
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Hafslund/Innlest/DP2-Mabfot_uke_0406.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Hafslund/Innlest/DP2-Mabfot_uke_0505.gs2
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Hafslund/Innlest/DP2-Mabfot_uke_0506.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Hafslund/Innlest/DP2-Mabfot_uke_0531.gs2
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Hafslund/Innlest/DP2-Mabfot_uke_0532.gs2
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Hafslund/Innlest/DP2-Mabfot_uke_0533.gs2
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Hafslund/Innlest/DP2-Mabfot_uke_0534.gs2
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Hafslund/Innlest/DP2-Mabfot_uke_0535.gs2
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Hafslund/Innlest/DP2-Mabfot_uke_0536.gs2
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Hafslund/Innlest/DP2-Mabfot_uke_0537.gs2
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Hafslund/Innlest/DP2-Mabfot_uke_0538.gs2
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Hafslund/Innlest/DP2-Mabfot_uke_0539.gs2
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Hafslund/Innlest/DP2-Mabfot_uke_0540.gs2
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Hafslund/Innlest/DP2-Mabfot_uke_0541.gs2
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Hafslund/Innlest/DP2-Mabfot_uke_0542.gs2
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Hafslund/Innlest/DP2-Mabfot_uke_0543.gs2
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Hafslund/Innlest/DP2-Mabfot_uke_0605.gs2
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Hafslund/Innlest/DP2-Mabfot_uke_0606.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Hafslund/Innlest/DP2-Mabfot_uke_0705.gs2
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Hafslund/Innlest/DP2-Mabfot_uke_0706.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Hafslund/Innlest/DP2-Mabfot_uke_0805.gs2
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Hafslund/Innlest/DP2-Mabfot_uke_0806.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Hafslund/Innlest/DP2-Mabfot_uke_0905.gs2
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Hafslund/Innlest/DP2-Mabfot_uke_0906.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Hafslund/Innlest/DP2-Mabfot_uke_1005.gs2
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Hafslund/Innlest/DP2-Mabfot_uke_1006.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Hafslund/Innlest/DP2-Mabfot_uke_1105.gs2
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Hafslund/Innlest/DP2-Mabfot_uke_1106.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Hafslund/Innlest/DP2-Mabfot_uke_1205.gs2
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Hafslund/Innlest/DP2-Mabfot_uke_1206.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Hafslund/Innlest/DP2-Mabfot_uke_1305.gs2
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Hafslund/Innlest/DP2-Mabfot_uke_1306.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Hafslund/Innlest/DP2-Mabfot_uke_1405.gs2
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Hafslund/Innlest/DP2-Mabfot_uke_1406.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Hafslund/Innlest/DP2-Mabfot_uke_1505.gs2
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Hafslund/Innlest/DP2-Mabfot_uke_1506.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Hafslund/Innlest/DP2-Mabfot_uke_1605.gs2
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Hafslund/Innlest/DP2-Mabfot_uke_1606.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Hafslund/Innlest/DP2-Mabfot_uke_1705.gs2
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Hafslund/Innlest/DP2-Mabfot_uke_1706.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Hafslund/Innlest/DP2-Mabfot_uke_1805.gs2
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Hafslund/Innlest/DP2-Mabfot_uke_1806.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Hafslund/Innlest/DP2-Mabfot_uke_1905.gs2
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Hafslund/Innlest/DP2-Mabfot_uke_1906.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Hafslund/Innlest/DP2-Mabfot_uke_2005.gs2
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Hafslund/Innlest/DP2-Mabfot_uke_2006.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Hafslund/Innlest/DP2-Mabfot_uke_2105.gs2
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Hafslund/Innlest/DP2-Mabfot_uke_2106.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Hafslund/Innlest/DP2-Mabfot_uke_2205.gs2
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Hafslund/Innlest/DP2-Mabfot_uke_2206.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Hafslund/Innlest/DP2-Mabfot_uke_2305.gs2
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Hafslund/Innlest/DP2-Mabfot_uke_2405.gs2
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Hafslund/Innlest/DP2-Mabfot_uke_2505.gs2
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Hafslund/Innlest/DP2-Mabfot_uke_2605.gs2
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Hafslund/Innlest/DP2-Mabfot_uke_2705.gs2
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Hafslund/Innlest/DP2-Mabfot_uke_2805.gs2
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Hafslund/Innlest/DP2-Mabfot_uke_2905.gs2
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Hafslund/Innlest/DP2-Mabfot_uke_3005.gs2
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Hafslund/Innlest/DP2-Mabfot_uke_3105_Ny.gs2
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Hafslund/Innlest/DP2-Mabfot_uke_3205_Ny.gs2
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Hafslund/Innlest/DP2-Mabfot_uke_3305_Ny.gs2
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Hafslund/Innlest/DP2-Mabfot_uke_3405_Ny.gs2
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Hafslund/Innlest/DP2-Mabfot_uke_3505_Ny.gs2
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Hafslund/Innlest/DP2-Mabfot_uke_3605_Ny.gs2
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Hafslund/Innlest/DP2-Mabfot_uke_3705_Ny.gs2
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Hafslund/Innlest/DP2-Mabfot_uke_3805_Ny.gs2
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Hafslund/Innlest/DP2-Mabfot_uke_3905_Ny.gs2
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Hafslund/Innlest/DP2-Mabfot_uke_4005_Ny.gs2
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Hafslund/Innlest/DP2-Mabfot_uke_4105_Ny.gs2
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Hafslund/Innlest/DP2-Mabfot_uke_4205_Ny.gs2
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Hafslund/Innlest/DP2-Mabfot_uke_4305_Ny.gs2
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Hafslund/Innlest/DP2-Mabfot_uke_4405.gs2
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Hafslund/Innlest/DP2-Mabfot_uke_4505.gs2
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Hafslund/Innlest/DP2-Mabfot_uke_4605.gs2
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Hafslund/Innlest/DP2-Mabfot_uke_4705.gs2
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Hafslund/Innlest/DP2-Mabfot_uke_4805.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Hafslund/Innlest/DP2-Mabfot_uke_4905.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Hafslund/Innlest/DP2-Mabfot_uke_5005.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Hafslund/Innlest/DP2-Mabfot_uke_5105.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Hafslund/Innlest/DP2-Mabfot_uke_5205.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Hafslund/Innlest/DP2-Mabfot_uke_5304.gs2
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Istad/168_4_2_2000010100_2001010100_20070321001759000_3294001.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Istad/168_4_2_2001010100_2002010100_20070321001649000_3293998.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Istad/168_4_2_2002010100_2003010100_20070321001541000_3293996.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Istad/Innlest/168_4_2_2003010100_2004010100_20070321001400000_3293992.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Istad/Innlest/168_4_2_2004010100_2005010100_20070321000948000_3293966.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Istad/Innlest/168_4_2_2006010100_2007010300_20070301093540000_3197397.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Istad/Innlest/168_4_2_2007010100_2007010300_20070301092128000_3197359.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Istad/Innlest/46_4_2_2000010100_2006010100_20061117140629000_2000-2006.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Istad/Innlest/46_4_2_2006010100_2006020100_20060522091806000_Januar.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Istad/Innlest/46_4_2_2006020100_2006030100_20060522095450000_Februar.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Istad/Innlest/46_4_2_2006030100_2006033123_20060522095313000_Mars.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Istad/Innlest/46_4_2_2006033123_2006043023_20060522102753000_April.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Istad/Innlest/46_4_2_2006043023_2006053123_20060606111736000_Mai.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Istad/Innlest/46_4_2_2006053123_2006063023_20060710104925000_Juni.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Istad/Innlest/46_4_2_2006062523_2006070223_20061130162557000_2914514.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Istad/Innlest/46_4_2_2006062523_2006070223_20061204093611000_2923527.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Istad/Innlest/46_4_2_2006063123_2006073023_20060809230445000_Juli.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Istad/Innlest/46_4_2_2006073023_2006080623_20061130162614000_2914515.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Istad/Innlest/46_4_2_2006073023_2006080623_20061204093829000_2923528.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Istad/Innlest/46_4_2_2006073123_2006083023_20060909230440000_August.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Istad/Innlest/46_4_2_2006082723_2006090323_20061130162625000_2914516.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Istad/Innlest/46_4_2_2006082723_2006090323_20061204093923000_2923530.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Istad/Innlest/46_4_2_2006083123_2006093023_20061009230450000_2778769.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Istad/Innlest/46_4_2_2006093123_2006103023_20061110000455000_Oktober.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Istad/Innlest/46_4_2_2007010100_2007010800_20070301091850000_3197352.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Istad/Innlest/Istad 168_4_2_2004010100_2005010100_20070321000948000_3293966.exp 168_4_2_2003010100_2004010100_20070321001400000_3293992.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak/176 filer/176_4_2_2006010200_2006010900_20070108081333000_1246716.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak/176 filer/176_4_2_2006010900_2006011600_20070108081418000_1246718.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak/176 filer/176_4_2_2006011600_2006012300_20070108081455000_1246722.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak/176 filer/176_4_2_2006012300_2006013000_20070108081548000_1246723.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak/176 filer/176_4_2_2006013000_2006020600_20070108082432000_1246744.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak/176 filer/176_4_2_2006020600_2006021300_20070108082517000_1246745.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak/176 filer/176_4_2_2006021300_2006022000_20070108082634000_1246748.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak/176 filer/176_4_2_2006022000_2006022700_20070108082718000_1246749.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak/176 filer/176_4_2_2006022700_2006030600_20070108082915000_1246751.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak/176 filer/176_4_2_2006030600_2006031300_20070108082955000_1246752.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak/176 filer/176_4_2_2006031300_2006032000_20070108083432000_1246761.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak/176 filer/176_4_2_2006032000_2006032623_20070108083509000_1246763.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak/176 filer/176_4_2_2006032623_2006040223_20070108083549000_1246764.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak/176 filer/176_4_2_2006040223_2006040923_20070108083652000_1246769.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak/176 filer/176_4_2_2006040923_2006041623_20070108083735000_1246770.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak/176 filer/176_4_2_2006041623_2006042323_20070108083825000_1246771.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak/176 filer/176_4_2_2006042323_2006043023_20070108083913000_1246772.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak/176 filer/176_4_2_2006043023_2006050723_20070108084022000_1246774.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak/176 filer/176_4_2_2006050723_2006051423_20070108084151000_1246777.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak/176 filer/176_4_2_2006051423_2006052123_20070111095531000_1250971.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak/176 filer/176_4_2_2006052123_2006052823_20070108084356000_1246782.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak/176 filer/176_4_2_2006052823_2006060423_20070108085635000_1246809.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak/176 filer/176_4_2_2006060423_2006061123_20070108085728000_1246814.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak/176 filer/176_4_2_2006061123_2006061823_20070108085942000_1246818.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak/176 filer/176_4_2_2006061823_2006062523_20070108090621000_1246854.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak/176 filer/176_4_2_2006062523_2006070223_20070108090709000_1246855.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak/176 filer/176_4_2_2006070223_2006070923_20070108090747000_1246856.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak/176 filer/176_4_2_2006070923_2006071623_20070108091714000_1246869.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak/176 filer/176_4_2_2006071623_2006072323_20070108091758000_1246872.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak/176 filer/176_4_2_2006072323_2006073023_20070108091838000_1246873.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak/176 filer/176_4_2_2006073023_2006080623_20070108091934000_1246874.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak/176 filer/176_4_2_2006080623_2006081323_20070108092035000_1246878.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak/176 filer/176_4_2_2006081323_2006082023_20070108092115000_1246880.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak/176 filer/176_4_2_2006082023_2006082723_20070108092153000_1246883.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak/176 filer/176_4_2_2006082723_2006090323_20070108092241000_1246886.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak/176 filer/176_4_2_2006090323_2006091023_20070108092320000_1246888.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak/176 filer/176_4_2_2006091023_2006091723_20070108092402000_1246890.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak/176 filer/176_4_2_2006091723_2006092423_20070108092440000_1246893.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak/176 filer/176_4_2_2006092423_2006100123_20070108092611000_1246896.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak/176 filer/176_4_2_2006100123_2006100823_20070108092723000_1246898.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak/176 filer/176_4_2_2006100823_2006101523_20070207134127000_1275511.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak/176 filer/176_4_2_2006101523_2006102223_20070207134339000_1275517.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak/176 filer/176_4_2_2006102223_2006103000_20070207134641000_1275521.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak/176 filer/176_4_2_2006103000_2006110600_20070207135325000_1275530.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak/176 filer/176_4_2_2006110600_2006111300_20070207135821000_1275534.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak/176 filer/176_4_2_2006111300_2006112000_20070207140140000_1275546.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak/176 filer/176_4_2_2006112000_2006112700_20070207140841000_1275569.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak/176 filer/176_4_2_2006112700_2006120400_20070207141156000_1275576.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak/176 filer/176_4_2_2006120400_2006121100_20070207141641000_1275584.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak/176 filer/176_4_2_2006121100_2006121800_20070207141830000_1275586.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak/176 filer/176_4_2_2006121800_2006122500_20070207142703000_1275597.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak/176 filer/176_4_2_2006122500_2007010100_20070207142900000_1275599.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak/176 filer/176_4_2_2007010100_2007010800_20070207144138000_1275615.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak/176 filer/176_4_2_2007010800_2007011500_20070207144959000_1275623.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak/176 filer/176_4_2_2007011500_2007012200_20070207145210000_1275628.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak/176_4_2_2006100823_2006101523_20070207134127000_1275511.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak/176_4_2_2006101523_2006102223_20070207134339000_1275517.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak/176_4_2_2006102223_2006103000_20070207134641000_1275521.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak/176_4_2_2006103000_2006110600_20070207135325000_1275530.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak/176_4_2_2006110600_2006111300_20070207135821000_1275534.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak/176_4_2_2006111300_2006112000_20070207140140000_1275546.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak/176_4_2_2006112000_2006112700_20070207140841000_1275569.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak/176_4_2_2006112700_2006120400_20070207141156000_1275576.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak/176_4_2_2006120400_2006121100_20070207141641000_1275584.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak/176_4_2_2006121100_2006121800_20070207141830000_1275586.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak/176_4_2_2006121800_2006122500_20070207142703000_1275597.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak/176_4_2_2006122500_2007010100_20070207142900000_1275599.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak/176_4_2_2007010100_2007010800_20070207144138000_1275615.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak/176_4_2_2007010800_2007011500_20070207144959000_1275623.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak/176_4_2_2007011500_2007012200_20070207145210000_1275628.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak/202 filer/202_4_2_2006010200_2006010900_20070108095351000_1246951.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak/202 filer/202_4_2_2006010900_2006011600_20070108094441000_1246934.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak/202 filer/202_4_2_2006011600_2006012300_20070108095249000_1246949.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak/202 filer/202_4_2_2006012300_2006013000_20070108100055000_1246968.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak/202 filer/202_4_2_2006013000_2006020600_20070108100719000_1247002.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak/202 filer/202_4_2_2006020600_2006021300_20070108101659000_1247021.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak/202 filer/202_4_2_2006021300_2006022000_20070108102323000_1247040.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak/202 filer/202_4_2_2006022000_2006022700_20070108102537000_1247046.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak/202 filer/202_4_2_2006022700_2006030600_20070108103150000_1247067.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak/202 filer/202_4_2_2006030600_2006031300_20070108103633000_1247079.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak/202 filer/202_4_2_2006031300_2006032000_20070108104016000_1247087.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak/202 filer/202_4_2_2006032000_2006032623_20070108104546000_1247103.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak/202 filer/202_4_2_2006032623_2006040223_20070108110528000_1247163.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak/202 filer/202_4_2_2006040223_2006040923_20070108112351000_1247221.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak/202 filer/202_4_2_2006040923_2006041623_20070108120146000_1247261.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak/202 filer/202_4_2_2006041623_2006042323_20070108122033000_1247297.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak/202 filer/202_4_2_2006042323_2006043023_20070108122755000_1247311.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak/202 filer/202_4_2_2006043023_2006050723_20070108124149000_1247335.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak/202 filer/202_4_2_2006050723_2006051423_20070108124857000_1247354.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak/202 filer/202_4_2_2006051423_2006052123_20070108125434000_1247366.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak/202 filer/202_4_2_2006051423_2006052123_20070111094703000_1250959.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak/202 filer/202_4_2_2006052123_2006052823_20070108130126000_1247383.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak/202 filer/202_4_2_2006052823_2006060423_20070108131350000_1247405.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak/202 filer/202_4_2_2006060423_2006061123_20070108131906000_1247416.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak/202 filer/202_4_2_2006061123_2006061823_20070108132640000_1247433.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak/202 filer/202_4_2_2006061823_2006062523_20070108133229000_1247447.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak/202 filer/202_4_2_2006062523_2006070223_20070108152055000_1247675.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak/202 filer/202_4_2_2006070223_2006070923_20070108154403000_1247699.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak/202 filer/202_4_2_2006070923_2006071623_20070108145147000_1247611.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak/202 filer/202_4_2_2006071623_2006072323_20070108145641000_1247620.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak/202 filer/202_4_2_2006072323_2006073023_20070108145820000_1247623.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak/202 filer/202_4_2_2006073023_2006080623_20070108145902000_1247625.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak/202 filer/202_4_2_2006080623_2006081323_20070108150033000_1247629.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak/202 filer/202_4_2_2006081323_2006082023_20070108150125000_1247635.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak/202 filer/202_4_2_2006082023_2006082723_20070108150251000_1247638.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak/202 filer/202_4_2_2006082723_2006090323_20070108150403000_1247640.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak/202 filer/202_4_2_2006090323_2006091023_20070108150455000_1247642.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak/202 filer/202_4_2_2006091023_2006091723_20070108150647000_1247647.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak/202 filer/202_4_2_2006091723_2006092423_20070108150755000_1247650.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak/202 filer/202_4_2_2006092423_2006100123_20070108150838000_1247653.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak/202 filer/202_4_2_2006100123_2006100823_20070108151004000_1247657.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak/202 filer/202_4_2_2006100823_2006101523_20070207134549000_1275519.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak/202 filer/202_4_2_2006101523_2006102223_20070207134711000_1275522.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak/202 filer/202_4_2_2006101523_2006102223_20070207134749000_1275523.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak/202 filer/202_4_2_2006102223_2006103000_20070207134909000_1275524.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak/202 filer/202_4_2_2006110600_2006111300_20070207135852000_1275536.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak/202 filer/202_4_2_2006110600_2006111300_20070207135924000_1275537.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak/202 filer/202_4_2_2006112000_2006112700_20070207140913000_1275570.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak/202 filer/202_4_2_2006112700_2006120400_20070207141227000_1275579.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak/202 filer/202_4_2_2006120400_2006121100_20070207141712000_1275585.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak/202 filer/202_4_2_2006121100_2006121800_20070207141902000_1275587.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak/202 filer/202_4_2_2006121800_2006122500_20070207142734000_1275598.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak/202 filer/202_4_2_2006122500_2007010100_20070207142931000_1275600.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak/202 filer/202_4_2_2007010100_2007010800_20070207144108000_1275614.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak/202 filer/202_4_2_2007010800_2007011500_20070207145030000_1275624.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak/202 filer/202_4_2_2007011500_2007012200_20070207145242000_1275629.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak/202_4_2_2006100823_2006101523_20070207134549000_1275519.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak/202_4_2_2006101523_2006102223_20070207134711000_1275522.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak/202_4_2_2006101523_2006102223_20070207134749000_1275523.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak/202_4_2_2006102223_2006103000_20070207134909000_1275524.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak/202_4_2_2006110600_2006111300_20070207135852000_1275536.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak/202_4_2_2006110600_2006111300_20070207135924000_1275537.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak/202_4_2_2006112000_2006112700_20070207140913000_1275570.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak/202_4_2_2006112700_2006120400_20070207141227000_1275579.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak/202_4_2_2006120400_2006121100_20070207141712000_1275585.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak/202_4_2_2006121100_2006121800_20070207141902000_1275587.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak/202_4_2_2006121800_2006122500_20070207142734000_1275598.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak/202_4_2_2006122500_2007010100_20070207142931000_1275600.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak/202_4_2_2007010100_2007010800_20070207144108000_1275614.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak/202_4_2_2007010800_2007011500_20070207145030000_1275624.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak/202_4_2_2007011500_2007012200_20070207145242000_1275629.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak/222_4_2_2006100823_2006101523_20070207133520000_1275506.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak/222_4_2_2006101523_2006102223_20070207133424000_1275505.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak/222_4_2_2006102223_2006103000_20070207133309000_1275504.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak/222_4_2_2006103000_2006110600_20070207132640000_1275500.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak/222_4_2_2006110600_2006111300_20070207132529000_1275498.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak/222_4_2_2006111300_2006112000_20070207132426000_1275497.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak/222_4_2_2006112000_2006112700_20070207131507000_1275484.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak/222_4_2_2006112700_2006120400_20070207131221000_1275478.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak/222_4_2_2006120400_2006121100_20070207131102000_1275473.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak/222_4_2_2006121100_2006121800_20070207130907000_1275471.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak/222_4_2_2006121800_2006122500_20070207125943000_1275442.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak/222_4_2_2006122500_2007010100_20070207125809000_1275441.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak/222_4_2_2007010100_2007010800_20070207125331000_1275438.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak/222_4_2_2007010800_2007011500_20070207124949000_1275431.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak/222_4_2_2007011500_2007012200_20070207121949000_1275382.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak/Opprinnelige filer oversendt 2006 for husholdninger/176_4_11_2006040923_2006041623_20060530082014000_1051876.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak/Opprinnelige filer oversendt 2006 for husholdninger/176_4_11_2006041623_2006042323_20060530082549000_1051891.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak/Opprinnelige filer oversendt 2006 for husholdninger/176_4_11_2006042323_2006043023_20060530083247000_1051908.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak/Opprinnelige filer oversendt 2006 for husholdninger/176_4_11_2006043023_2006050723_20060530084938000_1051929.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak/Opprinnelige filer oversendt 2006 for husholdninger/176_4_11_2006050723_2006051423_20060530090218000_1051968.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak/Opprinnelige filer oversendt 2006 for husholdninger/176_4_11_2006051423_2006052123_20060627074708000_1075913.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak/Opprinnelige filer oversendt 2006 for husholdninger/176_4_11_2006052123_2006052823_20060627074848000_1075914.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak/Opprinnelige filer oversendt 2006 for husholdninger/176_4_11_2006052823_2006060423_20061025140037000_1177454.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak/Opprinnelige filer oversendt 2006 for husholdninger/176_4_11_2006060423_2006061123_20060627080450000_1075984.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak/Opprinnelige filer oversendt 2006 for husholdninger/176_4_11_2006061123_2006061823_20061025140154000_1177466.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak/Opprinnelige filer oversendt 2006 for husholdninger/176_4_11_2006061823_2006062523_20060901100202000_1130447.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak/Opprinnelige filer oversendt 2006 for husholdninger/176_4_11_2006062523_2006070223_20060901100245000_1130449.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak/Opprinnelige filer oversendt 2006 for husholdninger/176_4_11_2006070223_2006070923_20060901110209000_1130539.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak/Opprinnelige filer oversendt 2006 for husholdninger/176_4_11_2006070923_2006071623_20060901110701000_1130549.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak/Opprinnelige filer oversendt 2006 for husholdninger/176_4_11_2006071623_2006072323_20060901122542000_1130614.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak/Opprinnelige filer oversendt 2006 for husholdninger/176_4_11_2006072323_2006073023_20060904090851000_1132422.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak/Opprinnelige filer oversendt 2006 for husholdninger/176_4_11_2006073023_2006080623_20060904091032000_1132424.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak/Opprinnelige filer oversendt 2006 for husholdninger/176_4_11_2006080623_2006081323_20060904091838000_1132442.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak/Opprinnelige filer oversendt 2006 for husholdninger/176_4_11_2006081323_2006082023_20060904091950000_1132444.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak/Opprinnelige filer oversendt 2006 for husholdninger/176_4_11_2006082023_2006082723_20060904100051000_1132504.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak/Opprinnelige filer oversendt 2006 for husholdninger/176_4_11_2006082023_2006082723_20061025184407000_1177647.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak/Opprinnelige filer oversendt 2006 for husholdninger/176_4_11_2006082723_2006090323_20061025185359000_1177655.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak/Opprinnelige filer oversendt 2006 for husholdninger/176_4_11_2006090323_2006091023_20061025190120000_1177662.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak/Opprinnelige filer oversendt 2006 for husholdninger/176_4_11_2006091023_2006091723_20061025191133000_1177668.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak/Opprinnelige filer oversendt 2006 for husholdninger/176_4_11_2006091723_2006092423_20061025191708000_1177674.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak/Opprinnelige filer oversendt 2006 for husholdninger/176_4_11_2006092423_2006100123_20061025192328000_1177679.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak/Opprinnelige filer oversendt 2006 for husholdninger/176_4_11_2006100123_2006100823_20061025192631000_1177682.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak/Opprinnelige filer oversendt 2006 for husholdninger/176_4_11_2006100823_2006101523_20061025193236000_1177686.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak/Opprinnelige filer oversendt 2006 for husholdninger/176_4_11_2006_Uke 01_2006010200_2006010900_20060119124627000_950225.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak/Opprinnelige filer oversendt 2006 for husholdninger/176_4_11_2006_Uke 02_2006010900_2006011600_20060131094751000_960048.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak/Opprinnelige filer oversendt 2006 for husholdninger/176_4_11_2006_Uke 03_2006011600_2006012300_20060317123330000_995717.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak/Opprinnelige filer oversendt 2006 for husholdninger/176_4_11_2006_Uke 04_2006012300_2006013000_20060317140700000_995795.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak/Opprinnelige filer oversendt 2006 for husholdninger/176_4_11_2006_Uke 05_2006013000_2006020600_20060317130945000_995757.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak/Opprinnelige filer oversendt 2006 for husholdninger/176_4_11_2006_Uke 06_2006020600_2006021300_20060303133532000_985202.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak/Opprinnelige filer oversendt 2006 for husholdninger/176_4_11_2006_Uke 07_2006021300_2006022000_20060303134627000_985214.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak/Opprinnelige filer oversendt 2006 for husholdninger/176_4_11_2006_Uke 08_2006022000_2006022700_20060303135106000_985217.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak/Opprinnelige filer oversendt 2006 for husholdninger/176_4_11_2006_Uke 09_2006022700_2006030600_20060317124342000_995736.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak/Opprinnelige filer oversendt 2006 for husholdninger/176_4_11_2006_Uke 10_2006030600_2006031300_20060327122318000_1002619.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak/Opprinnelige filer oversendt 2006 for husholdninger/176_4_11_2006_Uke 11_2006031300_2006032000_20060327123218000_1002626.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak/Opprinnelige filer oversendt 2006 for husholdninger/176_4_11_2006_Uke 12_2006032000_2006032623_20060419130846000_1020464.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak/Opprinnelige filer oversendt 2006 for husholdninger/176_4_11_2006_Uke 13_2006032623_2006040223_20060419130959000_1020467.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak/Opprinnelige filer oversendt 2006 for husholdninger/176_4_11_2006_Uke 14_2006040223_2006040923_20060419131745000_1020484.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak/Opprinnelige filer oversendt 2006 for husholdninger/202_4_11_2006040923_2006041623_20060530082101000_1051883.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak/Opprinnelige filer oversendt 2006 for husholdninger/202_4_11_2006041623_2006042323_20060530082728000_1051895.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak/Opprinnelige filer oversendt 2006 for husholdninger/202_4_11_2006042323_2006043023_20060530083328000_1051909.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak/Opprinnelige filer oversendt 2006 for husholdninger/202_4_11_2006043023_2006050723_20060530085103000_1051931.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak/Opprinnelige filer oversendt 2006 for husholdninger/202_4_11_2006050723_2006051423_20060530090307000_1051969.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak/Opprinnelige filer oversendt 2006 for husholdninger/202_4_11_2006052123_2006052823_20060627081810000_1076027.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak/Opprinnelige filer oversendt 2006 for husholdninger/202_4_11_2006052823_2006060423_20061025140107000_1177458.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak/Opprinnelige filer oversendt 2006 for husholdninger/202_4_11_2006060423_2006061123_20060627082204000_1076042.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak/Opprinnelige filer oversendt 2006 for husholdninger/202_4_11_2006061123_2006061823_20061025140225000_1177473.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak/Opprinnelige filer oversendt 2006 for husholdninger/202_4_11_2006061823_2006062523_20060904100138000_1132513.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak/Opprinnelige filer oversendt 2006 for husholdninger/202_4_11_2006062523_2006070223_20060904120148000_1132682.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak/Opprinnelige filer oversendt 2006 for husholdninger/202_4_11_2006070223_2006070923_20060904120541000_1132693.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak/Opprinnelige filer oversendt 2006 for husholdninger/202_4_11_2006070923_2006071623_20060904120632000_1132699.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak/Opprinnelige filer oversendt 2006 for husholdninger/202_4_11_2006071623_2006072323_20060904121221000_1132708.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak/Opprinnelige filer oversendt 2006 for husholdninger/202_4_11_2006072323_2006073023_20060904121259000_1132709.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak/Opprinnelige filer oversendt 2006 for husholdninger/202_4_11_2006073023_2006080623_20060904122115000_1132716.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak/Opprinnelige filer oversendt 2006 for husholdninger/202_4_11_2006080623_2006081323_20060904122154000_1132718.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak/Opprinnelige filer oversendt 2006 for husholdninger/202_4_11_2006081323_2006082023_20060904123556000_1132772.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak/Opprinnelige filer oversendt 2006 for husholdninger/202_4_11_2006082023_2006082723_20060904123635000_1132774.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak/Opprinnelige filer oversendt 2006 for husholdninger/202_4_11_2006082023_2006082723_20061025184437000_1177648.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak/Opprinnelige filer oversendt 2006 for husholdninger/202_4_11_2006082723_2006090323_20061025185430000_1177656.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak/Opprinnelige filer oversendt 2006 for husholdninger/202_4_11_2006090323_2006091023_20061025190150000_1177663.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak/Opprinnelige filer oversendt 2006 for husholdninger/202_4_11_2006091023_2006091723_20061025191203000_1177669.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak/Opprinnelige filer oversendt 2006 for husholdninger/202_4_11_2006091723_2006092423_20061025191738000_1177675.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak/Opprinnelige filer oversendt 2006 for husholdninger/202_4_11_2006092423_2006100123_20061025192359000_1177680.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak/Opprinnelige filer oversendt 2006 for husholdninger/202_4_11_2006100123_2006100823_20061025192701000_1177683.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak/Opprinnelige filer oversendt 2006 for husholdninger/202_4_11_2006100823_2006101523_20061025193306000_1177687.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak/Opprinnelige filer oversendt 2006 for husholdninger/202_4_11_2006_Uke 01_2006010200_2006010900_20060119124705000_950226.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak/Opprinnelige filer oversendt 2006 for husholdninger/202_4_11_2006_Uke 02_2006010900_2006011600_20060131094830000_960050.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak/Opprinnelige filer oversendt 2006 for husholdninger/202_4_11_2006_Uke 03_2006011600_2006012300_20060317123418000_995720.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak/Opprinnelige filer oversendt 2006 for husholdninger/202_4_11_2006_Uke 04_2006012300_2006013000_20060317130553000_995754.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak/Opprinnelige filer oversendt 2006 for husholdninger/202_4_11_2006_Uke 05_2006013000_2006020600_20060317131022000_995758.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak/Opprinnelige filer oversendt 2006 for husholdninger/202_4_11_2006_Uke 06_2006020600_2006021300_20060303133717000_985206.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak/Opprinnelige filer oversendt 2006 for husholdninger/202_4_11_2006_Uke 07_2006021300_2006022000_20060303134706000_985215.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak/Opprinnelige filer oversendt 2006 for husholdninger/202_4_11_2006_Uke 08_2006022000_2006022700_20060303135143000_985220.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak/Opprinnelige filer oversendt 2006 for husholdninger/202_4_11_2006_Uke 09_2006022700_2006030600_20060317124419000_995737.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak/Opprinnelige filer oversendt 2006 for husholdninger/202_4_11_2006_Uke 10_2006030600_2006031300_20060327122356000_1002620.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak/Opprinnelige filer oversendt 2006 for husholdninger/202_4_11_2006_Uke 11_2006031300_2006032000_20060327123256000_1002627.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak/Opprinnelige filer oversendt 2006 for husholdninger/202_4_11_2006_Uke 12_2006032000_2006032623_20060419131835000_1020486.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak/Opprinnelige filer oversendt 2006 for husholdninger/202_4_11_2006_Uke 13_2006032623_2006040223_20060419134546000_1020508.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak/Opprinnelige filer oversendt 2006 for husholdninger/202_4_11_2006_Uke 14_2006040223_2006040923_20060419134652000_1020511.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak/Opprinnelige filer oversendt 2006 for husholdninger/Meiersvingen.gs2
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak/Opprinnelige filer oversendt 2006 for husholdninger/Skagerak 2004/176_4_11_2004_Uke 01_2003122900_2004010500_20040108122114000_591322.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak/Opprinnelige filer oversendt 2006 for husholdninger/Skagerak 2004/176_4_11_2004_Uke 02_2004010500_2004011200_20040122093511000_595481.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak/Opprinnelige filer oversendt 2006 for husholdninger/Skagerak 2004/176_4_11_2004_Uke 03_2004011200_2004011900_20040122093738000_595482.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak/Opprinnelige filer oversendt 2006 for husholdninger/Skagerak 2004/176_4_11_2004_Uke 04_2004011900_2004012600_20040130085114000_597827.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak/Opprinnelige filer oversendt 2006 for husholdninger/Skagerak 2004/176_4_11_2004_Uke 05_2004012600_2004020200_20040206133603000_600071.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak/Opprinnelige filer oversendt 2006 for husholdninger/Skagerak 2004/176_4_11_2004_Uke 06_2004020200_2004020900_20040223090115000_605231.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak/Opprinnelige filer oversendt 2006 for husholdninger/Skagerak 2004/176_4_11_2004_Uke 07_2004020900_2004021600_20040223090229000_605232.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak/Opprinnelige filer oversendt 2006 for husholdninger/Skagerak 2004/176_4_11_2004_Uke 08_2004021600_2004022300_20040223093401000_605268.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak/Opprinnelige filer oversendt 2006 for husholdninger/Skagerak 2004/176_4_11_2004_Uke 09_2004022300_2004030100_20040317130816000_613399.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak/Opprinnelige filer oversendt 2006 for husholdninger/Skagerak 2004/176_4_11_2004_Uke 10_2004030100_2004030800_20040317153358000_613444.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak/Opprinnelige filer oversendt 2006 for husholdninger/Skagerak 2004/176_4_11_2004_Uke 11_2004030800_2004031500_20040325095749000_615681.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak/Opprinnelige filer oversendt 2006 for husholdninger/Skagerak 2004/176_4_11_2004_Uke 12_2004031500_2004032200_20040325095842000_615683.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak/Opprinnelige filer oversendt 2006 for husholdninger/Skagerak 2004/176_4_11_2004_Uke 13_2004032200_2004032823_20040401093112000_617693.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak/Opprinnelige filer oversendt 2006 for husholdninger/Skagerak 2004/176_4_11_2004_Uke 14_2004032823_2004040423_20040408193129000_619816.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak/Opprinnelige filer oversendt 2006 for husholdninger/Skagerak 2004/176_4_11_2004_Uke 15_2004040423_2004041123_20040415193131000_621493.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak/Opprinnelige filer oversendt 2006 for husholdninger/Skagerak 2004/176_4_11_2004_Uke 16_2004041123_2004041823_20040426080049000_624327.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak/Opprinnelige filer oversendt 2006 for husholdninger/Skagerak 2004/176_4_11_2004_Uke 17_2004041823_2004042523_20040429085606000_625683.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak/Opprinnelige filer oversendt 2006 for husholdninger/Skagerak 2004/176_4_11_2004_Uke 18_2004042523_2004050223_20040507131706000_628610.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak/Opprinnelige filer oversendt 2006 for husholdninger/Skagerak 2004/176_4_11_2004_Uke 19_2004050223_2004050923_20040513111417000_630764.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak/Opprinnelige filer oversendt 2006 for husholdninger/Skagerak 2004/176_4_11_2004_Uke 20_2004050923_2004051623_20040524080945000_633653.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak/Opprinnelige filer oversendt 2006 for husholdninger/Skagerak 2004/176_4_11_2004_Uke 21_2004051623_2004052323_20040527093915000_635149.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak/Opprinnelige filer oversendt 2006 for husholdninger/Skagerak 2004/176_4_11_2004_Uke 22_2004052323_2004053023_20040607080824000_638227.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak/Opprinnelige filer oversendt 2006 for husholdninger/Skagerak 2004/176_4_11_2004_Uke 23_2004053023_2004060623_20041207083123000_703137.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak/Opprinnelige filer oversendt 2006 for husholdninger/Skagerak 2004/176_4_11_2004_Uke 23_2004060623_2004061323_20040617124014000_641831.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak/Opprinnelige filer oversendt 2006 for husholdninger/Skagerak 2004/176_4_11_2004_Uke 24_2004060623_2004061323_20040617124014000_641831.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak/Opprinnelige filer oversendt 2006 for husholdninger/Skagerak 2004/176_4_11_2004_Uke 24_2004060623_2004061323_20040617135123000_641849.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak/Opprinnelige filer oversendt 2006 for husholdninger/Skagerak 2004/176_4_11_2004_Uke 25_2004061323_2004062023_20040716075749000_650191.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak/Opprinnelige filer oversendt 2006 for husholdninger/Skagerak 2004/176_4_11_2004_Uke 26_2004062023_2004062723_20040716075841000_650192.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak/Opprinnelige filer oversendt 2006 for husholdninger/Skagerak 2004/176_4_11_2004_Uke 27_2004062723_2004070423_20040716081829000_650220.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak/Opprinnelige filer oversendt 2006 for husholdninger/Skagerak 2004/176_4_11_2004_Uke 28_2004070423_2004071123_20040716081931000_650221.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak/Opprinnelige filer oversendt 2006 for husholdninger/Skagerak 2004/176_4_11_2004_Uke 29_2004071123_2004071823_20040813080713000_658911.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak/Opprinnelige filer oversendt 2006 for husholdninger/Skagerak 2004/176_4_11_2004_Uke 30_2004071823_2004072523_20040813080804000_658912.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak/Opprinnelige filer oversendt 2006 for husholdninger/Skagerak 2004/176_4_11_2004_Uke 31_2004072523_2004080123_20040813080901000_658915.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak/Opprinnelige filer oversendt 2006 for husholdninger/Skagerak 2004/176_4_11_2004_Uke 32_2004080123_2004080823_20040813081010000_658916.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak/Opprinnelige filer oversendt 2006 for husholdninger/Skagerak 2004/176_4_11_2004_Uke 33_2004080823_2004081523_20041028094819000_687023.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak/Opprinnelige filer oversendt 2006 for husholdninger/Skagerak 2004/176_4_11_2004_Uke 34_2004081523_2004082223_20041028094937000_687024.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak/Opprinnelige filer oversendt 2006 for husholdninger/Skagerak 2004/176_4_11_2004_Uke 35_2004082223_2004082923_20041028101906000_687032.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak/Opprinnelige filer oversendt 2006 for husholdninger/Skagerak 2004/176_4_11_2004_Uke 36_2004082923_2004090523_20041028101955000_687033.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak/Opprinnelige filer oversendt 2006 for husholdninger/Skagerak 2004/176_4_11_2004_Uke 37_2004090523_2004091223_20041028104422000_687036.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak/Opprinnelige filer oversendt 2006 for husholdninger/Skagerak 2004/176_4_11_2004_Uke 38_2004091223_2004091923_20041028104508000_687037.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak/Opprinnelige filer oversendt 2006 for husholdninger/Skagerak 2004/176_4_11_2004_Uke 39_2004091923_2004092623_20041029085045000_687346.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak/Opprinnelige filer oversendt 2006 for husholdninger/Skagerak 2004/176_4_11_2004_Uke 40_2004092623_2004100323_20041029085134000_687347.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak/Opprinnelige filer oversendt 2006 for husholdninger/Skagerak 2004/176_4_11_2004_Uke 41_2004093023_2004100923_20041018170144000_683262.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak/Opprinnelige filer oversendt 2006 for husholdninger/Skagerak 2004/176_4_11_2004_Uke 41_2004100323_2004101023_20041102084525000_688565.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak/Opprinnelige filer oversendt 2006 for husholdninger/Skagerak 2004/176_4_11_2004_Uke 42_2004101023_2004101723_20041102084620000_688572.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak/Opprinnelige filer oversendt 2006 for husholdninger/Skagerak 2004/176_4_11_2004_Uke 42_2004101023_2004101723_20041108084304000_691192.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak/Opprinnelige filer oversendt 2006 for husholdninger/Skagerak 2004/176_4_11_2004_Uke 43_2004101723_2004102423_20041108090542000_691236.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak/Opprinnelige filer oversendt 2006 for husholdninger/Skagerak 2004/176_4_11_2004_Uke 44_2004102423_2004110100_20041108090647000_691240.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak/Opprinnelige filer oversendt 2006 for husholdninger/Skagerak 2004/176_4_11_2004_Uke 45_2004110100_2004110800_20041122093149000_696658.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak/Opprinnelige filer oversendt 2006 for husholdninger/Skagerak 2004/176_4_11_2004_Uke 46_2004110800_2004111500_20041202094740000_701556.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak/Opprinnelige filer oversendt 2006 for husholdninger/Skagerak 2004/176_4_11_2004_Uke 47_2004111500_2004112200_20041202094855000_701559.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak/Opprinnelige filer oversendt 2006 for husholdninger/Skagerak 2004/176_4_11_2004_Uke 48_2004112200_2004112900_20041202101035000_701578.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak/Opprinnelige filer oversendt 2006 for husholdninger/Skagerak 2004/176_4_11_2004_Uke 49_2004112900_2004120600_20041220093811000_708492.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak/Opprinnelige filer oversendt 2006 for husholdninger/Skagerak 2004/176_4_11_2004_Uke 50_2004120600_2004121300_20041220093856000_708494.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak/Opprinnelige filer oversendt 2006 for husholdninger/Skagerak 2004/202_4_11_2003_08_2003073123_2003083123_20040122135429000_595586.gs2
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak/Opprinnelige filer oversendt 2006 for husholdninger/Skagerak 2004/202_4_11_2003_09_2003083123_2003093023_20040124151443000_596044.gs2
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak/Opprinnelige filer oversendt 2006 for husholdninger/Skagerak 2004/202_4_11_2003_10_2003093023_2003110100_20040125141046000_596179.gs2
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak/Opprinnelige filer oversendt 2006 for husholdninger/Skagerak 2004/202_4_11_2003_11_2003110100_2003120100_20040125141132000_596180.gs2
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak/Opprinnelige filer oversendt 2006 for husholdninger/Skagerak 2004/202_4_11_2003_12_2003120100_2004010100_20040124190120000_596056.gs2
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak/Opprinnelige filer oversendt 2006 for husholdninger/Skagerak 2004/202_4_11_2004_01_2004010100_2004011900_20040128162037000_597437.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak/Opprinnelige filer oversendt 2006 for husholdninger/Skagerak 2004/202_4_11_2004_Uke 04_2004011900_2004012600_20040206135512000_600082.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak/Opprinnelige filer oversendt 2006 for husholdninger/Skagerak 2004/202_4_11_2004_Uke 04_2004011900_2004012600_20040319081619000_613879.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak/Opprinnelige filer oversendt 2006 for husholdninger/Skagerak 2004/202_4_11_2004_Uke 05_2004012600_2004020200_20040319082307000_613887.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak/Opprinnelige filer oversendt 2006 for husholdninger/Skagerak 2004/202_4_11_2004_Uke 06_2004020200_2004020900_20040319083025000_613902.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak/Opprinnelige filer oversendt 2006 for husholdninger/Skagerak 2004/202_4_11_2004_Uke 07_2004020900_2004021600_20040319125500000_614023.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak/Opprinnelige filer oversendt 2006 for husholdninger/Skagerak 2004/202_4_11_2004_Uke 08_2004021600_2004022300_20040319090712000_613936.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak/Opprinnelige filer oversendt 2006 for husholdninger/Skagerak 2004/202_4_11_2004_Uke 09_2004022300_2004030100_20040319092059000_613948.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak/Opprinnelige filer oversendt 2006 for husholdninger/Skagerak 2004/202_4_11_2004_Uke 10_2004030100_2004030800_20040319104934000_613992.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak/Opprinnelige filer oversendt 2006 for husholdninger/Skagerak 2004/202_4_11_2004_Uke 11_2004030800_2004031500_20040401132010000_617772.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak/Opprinnelige filer oversendt 2006 for husholdninger/Skagerak 2004/202_4_11_2004_Uke 12_2004031500_2004032200_20040401094811000_617712.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak/Opprinnelige filer oversendt 2006 for husholdninger/Skagerak 2004/202_4_11_2004_Uke 13_2004032200_2004032823_20040402080441000_617922.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak/Opprinnelige filer oversendt 2006 for husholdninger/Skagerak 2004/202_4_11_2004_Uke 14_2004032823_2004040423_20040416101141000_621677.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak/Opprinnelige filer oversendt 2006 for husholdninger/Skagerak 2004/202_4_11_2004_Uke 15_2004040423_2004041123_20040416111938000_621688.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak/Opprinnelige filer oversendt 2006 for husholdninger/Skagerak 2004/202_4_11_2004_Uke 16_2004041123_2004041823_20040429083242000_625660.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak/Opprinnelige filer oversendt 2006 for husholdninger/Skagerak 2004/202_4_11_2004_Uke 17_2004041823_2004042523_20040429083335000_625661.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak/Opprinnelige filer oversendt 2006 for husholdninger/Skagerak 2004/202_4_11_2004_Uke 18_2004042523_2004050223_20040507122819000_628601.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak/Opprinnelige filer oversendt 2006 for husholdninger/Skagerak 2004/202_4_11_2004_Uke 19_2004050223_2004050923_20040513114601000_630774.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak/Opprinnelige filer oversendt 2006 for husholdninger/Skagerak 2004/202_4_11_2004_Uke 20_2004050923_2004051623_20040524081404000_633654.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak/Opprinnelige filer oversendt 2006 for husholdninger/Skagerak 2004/202_4_11_2004_Uke 21_2004051623_2004052323_20040604085050000_637585.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak/Opprinnelige filer oversendt 2006 for husholdninger/Skagerak 2004/202_4_11_2004_Uke 22_2004052323_2004053023_20040607111051000_638432.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak/Opprinnelige filer oversendt 2006 for husholdninger/Skagerak 2004/202_4_11_2004_Uke 23_2004053023_2004060623_20040617133741000_641848.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak/Opprinnelige filer oversendt 2006 for husholdninger/Skagerak 2004/202_4_11_2004_Uke 25_2004061323_2004062023_20040716083420000_650232.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak/Opprinnelige filer oversendt 2006 for husholdninger/Skagerak 2004/202_4_11_2004_Uke 26_2004062023_2004062723_20040716083510000_650235.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak/Opprinnelige filer oversendt 2006 for husholdninger/Skagerak 2004/202_4_11_2004_Uke 27_2004062723_2004070423_20040716084557000_650238.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak/Opprinnelige filer oversendt 2006 for husholdninger/Skagerak 2004/202_4_11_2004_Uke 28_2004070423_2004071123_20040716090130000_650241.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak/Opprinnelige filer oversendt 2006 for husholdninger/Skagerak 2004/202_4_11_2004_Uke 29_2004071123_2004071823_20040813083820000_658944.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak/Opprinnelige filer oversendt 2006 for husholdninger/Skagerak 2004/202_4_11_2004_Uke 30_2004071823_2004072523_20040813083908000_658946.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak/Opprinnelige filer oversendt 2006 for husholdninger/Skagerak 2004/202_4_11_2004_Uke 31_2004072523_2004080123_20040813085538000_658953.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak/Opprinnelige filer oversendt 2006 for husholdninger/Skagerak 2004/202_4_11_2004_Uke 32_2004080123_2004080823_20040813085646000_658954.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak/Opprinnelige filer oversendt 2006 for husholdninger/Skagerak 2004/202_4_11_2004_Uke 33_2004080823_2004081523_20041022075037000_684784.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak/Opprinnelige filer oversendt 2006 for husholdninger/Skagerak 2004/202_4_11_2004_Uke 34_2004081523_2004082223_20041022075125000_684786.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak/Opprinnelige filer oversendt 2006 for husholdninger/Skagerak 2004/202_4_11_2004_Uke 35_2004082223_2004082923_20041022084410000_684841.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak/Opprinnelige filer oversendt 2006 for husholdninger/Skagerak 2004/202_4_11_2004_Uke 36_2004082923_2004090523_20041022081340000_684808.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak/Opprinnelige filer oversendt 2006 for husholdninger/Skagerak 2004/202_4_11_2004_Uke 37_2004090523_2004091223_20041022084507000_684843.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak/Opprinnelige filer oversendt 2006 for husholdninger/Skagerak 2004/202_4_11_2004_Uke 38_2004091223_2004091923_20041022090017000_684850.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak/Opprinnelige filer oversendt 2006 for husholdninger/Skagerak 2004/202_4_11_2004_Uke 39_2004091923_2004092623_20041022090230000_684852.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak/Opprinnelige filer oversendt 2006 for husholdninger/Skagerak 2004/202_4_11_2004_Uke 40_2004092623_2004100323_20041022092304000_684863.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak/Opprinnelige filer oversendt 2006 for husholdninger/Skagerak 2004/202_4_11_2004_Uke 41_2004093023_2004101023_20041019172724000_683833.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak/Opprinnelige filer oversendt 2006 for husholdninger/Skagerak 2004/202_4_11_2004_Uke 41_2004100323_2004101023_20041022092507000_684866.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak/Opprinnelige filer oversendt 2006 for husholdninger/Skagerak 2004/202_4_11_2004_Uke 42_2004101023_2004101723_20041110164150000_692484.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak/Opprinnelige filer oversendt 2006 for husholdninger/Skagerak 2004/202_4_11_2004_Uke 43_2004101723_2004102423_20041110164236000_692485.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak/Opprinnelige filer oversendt 2006 for husholdninger/Skagerak 2004/202_4_11_2004_Uke 44_2004102423_2004110100_20041111092233000_692704.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak/Opprinnelige filer oversendt 2006 for husholdninger/Skagerak 2004/202_4_11_2004_Uke 44_2004102423_2004110100_20041117162358000_695147.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak/Opprinnelige filer oversendt 2006 for husholdninger/Skagerak 2004/202_4_11_2004_Uke 45_2004110100_2004110800_20041117162508000_695148.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak/Opprinnelige filer oversendt 2006 for husholdninger/Skagerak 2004/202_4_11_2004_Uke 46_2004110800_2004111500_20041202101712000_701590.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak/Opprinnelige filer oversendt 2006 for husholdninger/Skagerak 2004/202_4_11_2004_Uke 47_2004111500_2004112200_20041202103208000_701607.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak/Opprinnelige filer oversendt 2006 for husholdninger/Skagerak 2004/202_4_11_2004_Uke 48_2004112200_2004112900_20041202103520000_701612.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak/Opprinnelige filer oversendt 2006 for husholdninger/Skagerak 2004/202_4_11_2004_Uke 49_2004112900_2004120600_20041220095626000_708511.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak/Opprinnelige filer oversendt 2006 for husholdninger/Skagerak 2004/202_4_11_2004_Uke 50_2004120600_2004121300_20041220095709000_708514.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak/Opprinnelige filer oversendt 2006 for husholdninger/Skagerak 2004/Test på filter.gs2
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak/Opprinnelige filer oversendt 2006 for husholdninger/Skagerak 2005/176_4_11_2004_Uke 51_2004121300_2004122000_20041229100455000_712025.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak/Opprinnelige filer oversendt 2006 for husholdninger/Skagerak 2005/176_4_11_2004_Uke 52_2004122000_2004122700_20050103091201000_713442.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak/Opprinnelige filer oversendt 2006 for husholdninger/Skagerak 2005/176_4_11_2004_Uke 53_2004122700_2005010300_20050110111639000_717667.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak/Opprinnelige filer oversendt 2006 for husholdninger/Skagerak 2005/176_4_11_2005_Uke 10_2005030700_2005031400_20050329083255000_753212.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak/Opprinnelige filer oversendt 2006 for husholdninger/Skagerak 2005/176_4_11_2005_Uke 11_2005031400_2005032100_20050329083339000_753217.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak/Opprinnelige filer oversendt 2006 for husholdninger/Skagerak 2005/176_4_11_2005_Uke 12_2005032100_2005032723_20050404082542000_756575.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak/Opprinnelige filer oversendt 2006 for husholdninger/Skagerak 2005/176_4_11_2005_Uke 13_2005032723_2005040323_20050411123348000_761312.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak/Opprinnelige filer oversendt 2006 for husholdninger/Skagerak 2005/176_4_11_2005_Uke 14_2005040323_2005041023_20050418082944000_765061.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak/Opprinnelige filer oversendt 2006 for husholdninger/Skagerak 2005/176_4_11_2005_Uke 15_2005041023_2005041723_20050829091128000_841926.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak/Opprinnelige filer oversendt 2006 for husholdninger/Skagerak 2005/176_4_11_2005_Uke 16_2005041723_2005042423_20050425132134000_769505.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak/Opprinnelige filer oversendt 2006 for husholdninger/Skagerak 2005/176_4_11_2005_Uke 17_2005042423_2005050123_20050503085349000_773392.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak/Opprinnelige filer oversendt 2006 for husholdninger/Skagerak 2005/176_4_11_2005_Uke 18_2005050123_2005050823_20050509100632000_776210.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak/Opprinnelige filer oversendt 2006 for husholdninger/Skagerak 2005/176_4_11_2005_Uke 19_2005050823_2005051523_20050519130125000_782012.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak/Opprinnelige filer oversendt 2006 for husholdninger/Skagerak 2005/176_4_11_2005_Uke 1_2005010300_2005011000_20050119145753000_722199.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak/Opprinnelige filer oversendt 2006 for husholdninger/Skagerak 2005/176_4_11_2005_Uke 20_2005051523_2005052223_20050526120917000_786056.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak/Opprinnelige filer oversendt 2006 for husholdninger/Skagerak 2005/176_4_11_2005_Uke 21_2005052223_2005052923_20050531133311000_788431.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak/Opprinnelige filer oversendt 2006 for husholdninger/Skagerak 2005/176_4_11_2005_Uke 22_2005052923_2005060523_20050608091351000_793184.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak/Opprinnelige filer oversendt 2006 for husholdninger/Skagerak 2005/176_4_11_2005_Uke 23_2005060523_2005061223_20050614111850000_796948.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak/Opprinnelige filer oversendt 2006 for husholdninger/Skagerak 2005/176_4_11_2005_Uke 24_2005061223_2005061923_20050621133803000_802506.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak/Opprinnelige filer oversendt 2006 for husholdninger/Skagerak 2005/176_4_11_2005_Uke 25_2005061923_2005062623_20050628133801000_806486.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak/Opprinnelige filer oversendt 2006 for husholdninger/Skagerak 2005/176_4_11_2005_Uke 26_2005062623_2005070323_20050705111934000_810718.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak/Opprinnelige filer oversendt 2006 for husholdninger/Skagerak 2005/176_4_11_2005_Uke 27_2005070323_2005071023_20050713075222000_815077.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak/Opprinnelige filer oversendt 2006 for husholdninger/Skagerak 2005/176_4_11_2005_Uke 28_2005071023_2005071723_20050719083329000_818233.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak/Opprinnelige filer oversendt 2006 for husholdninger/Skagerak 2005/176_4_11_2005_Uke 29_2005071723_2005072423_20050818081205000_835762.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak/Opprinnelige filer oversendt 2006 for husholdninger/Skagerak 2005/176_4_11_2005_Uke 2_2005011000_2005011700_20050131125041000_727516.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak/Opprinnelige filer oversendt 2006 for husholdninger/Skagerak 2005/176_4_11_2005_Uke 30_2005072423_2005073123_20050818081617000_835773.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak/Opprinnelige filer oversendt 2006 for husholdninger/Skagerak 2005/176_4_11_2005_Uke 31_2005073123_2005080723_20050818081740000_835776.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak/Opprinnelige filer oversendt 2006 for husholdninger/Skagerak 2005/176_4_11_2005_Uke 32_2005080723_2005081423_20050818082221000_835784.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak/Opprinnelige filer oversendt 2006 for husholdninger/Skagerak 2005/176_4_11_2005_Uke 33_2005081423_2005082123_20050829093254000_841961.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak/Opprinnelige filer oversendt 2006 for husholdninger/Skagerak 2005/176_4_11_2005_Uke 34_2005082123_2005082823_20050829093355000_841962.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak/Opprinnelige filer oversendt 2006 for husholdninger/Skagerak 2005/176_4_11_2005_Uke 35_2005082823_2005090423_20050906110531000_856532.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak/Opprinnelige filer oversendt 2006 for husholdninger/Skagerak 2005/176_4_11_2005_Uke 36_2005090423_2005091123_20050914130452000_861880.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak/Opprinnelige filer oversendt 2006 for husholdninger/Skagerak 2005/176_4_11_2005_Uke 37_2005091123_2005091823_20050921083430000_866062.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak/Opprinnelige filer oversendt 2006 for husholdninger/Skagerak 2005/176_4_11_2005_Uke 38_2005091823_2005092523_20050929074133000_871339.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak/Opprinnelige filer oversendt 2006 for husholdninger/Skagerak 2005/176_4_11_2005_Uke 39_2005092523_2005100223_20051010124718000_877966.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak/Opprinnelige filer oversendt 2006 for husholdninger/Skagerak 2005/176_4_11_2005_Uke 39_2005100223_2005100923_20051010124916000_877968.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak/Opprinnelige filer oversendt 2006 for husholdninger/Skagerak 2005/176_4_11_2005_Uke 3_2005011700_2005012400_20050131134046000_727548.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak/Opprinnelige filer oversendt 2006 for husholdninger/Skagerak 2005/176_4_11_2005_Uke 41_2005100923_2005101623_20051024121349000_887598.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak/Opprinnelige filer oversendt 2006 for husholdninger/Skagerak 2005/176_4_11_2005_Uke 43_2005102323_2005103100_20051102085950000_893315.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak/Opprinnelige filer oversendt 2006 for husholdninger/Skagerak 2005/176_4_11_2005_Uke 44_2005103100_2005110700_20051107122119000_896931.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak/Opprinnelige filer oversendt 2006 for husholdninger/Skagerak 2005/176_4_11_2005_Uke 45_2005110700_2005111400_20051114145011000_901689.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak/Opprinnelige filer oversendt 2006 for husholdninger/Skagerak 2005/176_4_11_2005_Uke 46_2005111400_2005112100_20051129134506000_911668.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak/Opprinnelige filer oversendt 2006 for husholdninger/Skagerak 2005/176_4_11_2005_Uke 47_2005112100_2005112800_20051129091012000_911413.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak/Opprinnelige filer oversendt 2006 for husholdninger/Skagerak 2005/176_4_11_2005_Uke 49_2005120500_2005121200_20051228102532000_932741.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak/Opprinnelige filer oversendt 2006 for husholdninger/Skagerak 2005/176_4_11_2005_Uke 4_2005012400_2005013100_20050215122511000_734108.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak/Opprinnelige filer oversendt 2006 for husholdninger/Skagerak 2005/176_4_11_2005_Uke 50_2005121200_2005121900_20051228103050000_932746.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak/Opprinnelige filer oversendt 2006 for husholdninger/Skagerak 2005/176_4_11_2005_Uke 51_2005121900_2005122600_20051228103810000_932752.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak/Opprinnelige filer oversendt 2006 for husholdninger/Skagerak 2005/176_4_11_2005_Uke 52_2005122600_2006010200_20060119124113000_950221.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak/Opprinnelige filer oversendt 2006 for husholdninger/Skagerak 2005/176_4_11_2005_Uke 5_2005013100_2005020700_20050215133053000_734149.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak/Opprinnelige filer oversendt 2006 for husholdninger/Skagerak 2005/176_4_11_2005_Uke 6_2005020700_2005021400_20050228091010000_739704.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak/Opprinnelige filer oversendt 2006 for husholdninger/Skagerak 2005/176_4_11_2005_Uke 7_2005021400_2005022100_20050228092824000_739744.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak/Opprinnelige filer oversendt 2006 for husholdninger/Skagerak 2005/176_4_11_2005_Uke 8_2005022100_2005022800_20050308151104000_744390.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak/Opprinnelige filer oversendt 2006 for husholdninger/Skagerak 2005/176_4_11_2005_Uke 9_2005022800_2005030700_20050314105219000_747092.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak/Opprinnelige filer oversendt 2006 for husholdninger/Skagerak 2005/176_4_2004_Uke 23_UKE-23.gs2
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak/Opprinnelige filer oversendt 2006 for husholdninger/Skagerak 2005/202_4_11_2004_Uke 24_2004060623_2004061323_20050113120413000_719446.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak/Opprinnelige filer oversendt 2006 for husholdninger/Skagerak 2005/202_4_11_2004_Uke 51_2004121300_2004122000_20041229100546000_712026.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak/Opprinnelige filer oversendt 2006 for husholdninger/Skagerak 2005/202_4_11_2004_Uke 52_2004122000_2004122700_20050103091319000_713444.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak/Opprinnelige filer oversendt 2006 for husholdninger/Skagerak 2005/202_4_11_2004_Uke 53_2004122700_2005010300_20050110111722000_717670.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak/Opprinnelige filer oversendt 2006 for husholdninger/Skagerak 2005/202_4_11_2005_Uke 10_2005031400_2005032100_20050329090104000_753248.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak/Opprinnelige filer oversendt 2006 for husholdninger/Skagerak 2005/202_4_11_2005_Uke 11_2005030700_2005031400_20050329090024000_753247.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak/Opprinnelige filer oversendt 2006 for husholdninger/Skagerak 2005/202_4_11_2005_Uke 12_2005032100_2005032723_20050404091856000_756653.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak/Opprinnelige filer oversendt 2006 for husholdninger/Skagerak 2005/202_4_11_2005_Uke 13_2005032723_2005040323_20050411123431000_761313.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak/Opprinnelige filer oversendt 2006 for husholdninger/Skagerak 2005/202_4_11_2005_Uke 14_2005040323_2005041023_20050418083028000_765063.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak/Opprinnelige filer oversendt 2006 for husholdninger/Skagerak 2005/202_4_11_2005_Uke 15_2005041023_2005041723_20050829091237000_841928.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak/Opprinnelige filer oversendt 2006 for husholdninger/Skagerak 2005/202_4_11_2005_Uke 16_2005041723_2005042423_20050425132238000_769508.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak/Opprinnelige filer oversendt 2006 for husholdninger/Skagerak 2005/202_4_11_2005_Uke 17_2005042423_2005050123_20050503085434000_773395.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak/Opprinnelige filer oversendt 2006 for husholdninger/Skagerak 2005/202_4_11_2005_Uke 18_2005050123_2005050823_20050509111441000_776272.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak/Opprinnelige filer oversendt 2006 for husholdninger/Skagerak 2005/202_4_11_2005_Uke 19_2005050823_2005051523_20050519131323000_782025.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak/Opprinnelige filer oversendt 2006 for husholdninger/Skagerak 2005/202_4_11_2005_Uke 1_2005010300_2005011000_20050119145924000_722200.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak/Opprinnelige filer oversendt 2006 for husholdninger/Skagerak 2005/202_4_11_2005_Uke 20_2005051523_2005052223_20050526120953000_786058.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak/Opprinnelige filer oversendt 2006 for husholdninger/Skagerak 2005/202_4_11_2005_Uke 21_2005052223_2005052923_20050531133509000_788432.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak/Opprinnelige filer oversendt 2006 for husholdninger/Skagerak 2005/202_4_11_2005_Uke 22_2005052923_2005060523_20050608092108000_793197.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak/Opprinnelige filer oversendt 2006 for husholdninger/Skagerak 2005/202_4_11_2005_Uke 23_2005060523_2005061223_20050614111928000_796951.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak/Opprinnelige filer oversendt 2006 for husholdninger/Skagerak 2005/202_4_11_2005_Uke 24_2005061223_2005061923_20050621133841000_802510.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak/Opprinnelige filer oversendt 2006 for husholdninger/Skagerak 2005/202_4_11_2005_Uke 25_2005061923_2005062623_20050628133841000_806488.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak/Opprinnelige filer oversendt 2006 for husholdninger/Skagerak 2005/202_4_11_2005_Uke 26_2005062623_2005070323_20050705112015000_810719.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak/Opprinnelige filer oversendt 2006 for husholdninger/Skagerak 2005/202_4_11_2005_Uke 27_2005070323_2005071023_20050713075309000_815078.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak/Opprinnelige filer oversendt 2006 for husholdninger/Skagerak 2005/202_4_11_2005_Uke 28_2005071023_2005071723_20050719083407000_818234.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak/Opprinnelige filer oversendt 2006 for husholdninger/Skagerak 2005/202_4_11_2005_Uke 29_2005071723_2005072423_20050818082314000_835785.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak/Opprinnelige filer oversendt 2006 for husholdninger/Skagerak 2005/202_4_11_2005_Uke 2_2005011000_2005011700_20050131125131000_727517.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak/Opprinnelige filer oversendt 2006 for husholdninger/Skagerak 2005/202_4_11_2005_Uke 30_2005072423_2005073123_20050818082625000_835788.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak/Opprinnelige filer oversendt 2006 for husholdninger/Skagerak 2005/202_4_11_2005_Uke 31_2005073123_2005080723_20050818082712000_835790.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak/Opprinnelige filer oversendt 2006 for husholdninger/Skagerak 2005/202_4_11_2005_Uke 32_2005080723_2005081423_20050818082850000_835791.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak/Opprinnelige filer oversendt 2006 for husholdninger/Skagerak 2005/202_4_11_2005_Uke 33_2005081423_2005082123_20050829093651000_841970.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak/Opprinnelige filer oversendt 2006 for husholdninger/Skagerak 2005/202_4_11_2005_Uke 34_2005082123_2005082823_20050829093732000_841971.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak/Opprinnelige filer oversendt 2006 for husholdninger/Skagerak 2005/202_4_11_2005_Uke 35_2005082823_2005090423_20050906110720000_856533.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak/Opprinnelige filer oversendt 2006 for husholdninger/Skagerak 2005/202_4_11_2005_Uke 36_2005090423_2005091123_20050914130558000_861882.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak/Opprinnelige filer oversendt 2006 for husholdninger/Skagerak 2005/202_4_11_2005_Uke 37_2005091123_2005091823_20050921083640000_866064.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak/Opprinnelige filer oversendt 2006 for husholdninger/Skagerak 2005/202_4_11_2005_Uke 38_2005102323_2005103100_20051103132800000_894772.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak/Opprinnelige filer oversendt 2006 for husholdninger/Skagerak 2005/202_4_11_2005_Uke 3_2005011700_2005012400_20050131135310000_727551.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak/Opprinnelige filer oversendt 2006 for husholdninger/Skagerak 2005/202_4_11_2005_Uke 40_2005092523_2005100223_20051010133901000_878032.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak/Opprinnelige filer oversendt 2006 for husholdninger/Skagerak 2005/202_4_11_2005_Uke 40_2005100223_2005100923_20051010135403000_878057.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak/Opprinnelige filer oversendt 2006 for husholdninger/Skagerak 2005/202_4_11_2005_Uke 41_2005100923_2005101623_20051024122537000_887609.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak/Opprinnelige filer oversendt 2006 for husholdninger/Skagerak 2005/202_4_11_2005_Uke 42_2005101623_2005102323_20051024122617000_887610.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak/Opprinnelige filer oversendt 2006 for husholdninger/Skagerak 2005/202_4_11_2005_Uke 43_2005102323_2005103100_20051102090048000_893324.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak/Opprinnelige filer oversendt 2006 for husholdninger/Skagerak 2005/202_4_11_2005_Uke 44_2005103100_2005110700_20051107122157000_896932.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak/Opprinnelige filer oversendt 2006 for husholdninger/Skagerak 2005/202_4_11_2005_Uke 45_2005110700_2005111400_20051114145050000_901690.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak/Opprinnelige filer oversendt 2006 for husholdninger/Skagerak 2005/202_4_11_2005_Uke 46_2005111400_2005112100_20051129134251000_911665.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak/Opprinnelige filer oversendt 2006 for husholdninger/Skagerak 2005/202_4_11_2005_Uke 47_2005112100_2005112800_20051129091050000_911415.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak/Opprinnelige filer oversendt 2006 for husholdninger/Skagerak 2005/202_4_11_2005_Uke 48_2005112800_2005120500_20051206105741000_916580.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak/Opprinnelige filer oversendt 2006 for husholdninger/Skagerak 2005/202_4_11_2005_Uke 49_2005120500_2005121200_20051228102701000_932742.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak/Opprinnelige filer oversendt 2006 for husholdninger/Skagerak 2005/202_4_11_2005_Uke 4_2005012400_2005013100_20050215130531000_734139.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak/Opprinnelige filer oversendt 2006 for husholdninger/Skagerak 2005/202_4_11_2005_Uke 50_2005121200_2005121900_20051228103132000_932749.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak/Opprinnelige filer oversendt 2006 for husholdninger/Skagerak 2005/202_4_11_2005_Uke 51_2005121900_2005122600_20051228103849000_932753.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak/Opprinnelige filer oversendt 2006 for husholdninger/Skagerak 2005/202_4_11_2005_Uke 52_2005122600_2006010200_20060119124153000_950222.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak/Opprinnelige filer oversendt 2006 for husholdninger/Skagerak 2005/202_4_11_2005_Uke 5_2005013100_2005020700_20050215133241000_734152.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak/Opprinnelige filer oversendt 2006 for husholdninger/Skagerak 2005/202_4_11_2005_Uke 6_2005020700_2005021400_20050228091124000_739707.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak/Opprinnelige filer oversendt 2006 for husholdninger/Skagerak 2005/202_4_11_2005_Uke 7_2005021400_2005022100_20050228092917000_739745.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak/Opprinnelige filer oversendt 2006 for husholdninger/Skagerak 2005/202_4_11_2005_Uke 8_2005022100_2005022800_20050308151145000_744391.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak/Opprinnelige filer oversendt 2006 for husholdninger/Skagerak 2005/202_4_11_2005_Uke 9_2005022800_2005030700_20050314105302000_747093.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak/Opprinnelige filer oversendt 2006 for husholdninger/Skagerak 2005/202_4_2004_Uke 04_UKE-24.gs2
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak 100000/222_4_2_2006010200_2006010900_20061217203650000_1228273.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak 100000/222_4_2_2006010900_2006011600_20061217204001000_1228274.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak 100000/222_4_2_2006011600_2006012300_20061217204056000_1228275.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak 100000/222_4_2_2006012300_2006013000_20061217204234000_1228277.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak 100000/222_4_2_2006013000_2006020600_20061217204351000_1228278.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak 100000/222_4_2_2006020600_2006021300_20061217204448000_1228280.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak 100000/222_4_2_2006021300_2006022000_20061217204539000_1228281.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak 100000/222_4_2_2006022000_2006022700_20061217204629000_1228283.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak 100000/222_4_2_2006022700_2006030600_20061217204741000_1228284.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak 100000/222_4_2_2006030600_2006031300_20061217204847000_1228285.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak 100000/222_4_2_2006031300_2006032000_20061217204930000_1228286.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak 100000/222_4_2_2006032000_2006032623_20061217205032000_1228287.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak 100000/222_4_2_2006032623_2006040223_20061217205351000_1228289.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak 100000/222_4_2_2006040223_2006040923_20061217205440000_1228290.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak 100000/222_4_2_2006040923_2006041623_20061217205642000_1228292.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak 100000/222_4_2_2006041623_2006042323_20061217205725000_1228293.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak 100000/222_4_2_2006042323_2006043023_20061217205811000_1228294.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak 100000/222_4_2_2006043023_2006050723_20061217205855000_1228295.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak 100000/222_4_2_2006050723_2006051423_20061217210008000_1228296.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak 100000/222_4_2_2006051423_2006052123_20061217210054000_1228297.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak 100000/222_4_2_2006052123_2006052823_20061217210155000_1228299.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak 100000/222_4_2_2006052823_2006060423_20061217210410000_1228300.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak 100000/222_4_2_2006060423_2006061123_20061217210454000_1228301.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak 100000/222_4_2_2006061123_2006061823_20061217210611000_1228304.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak 100000/222_4_2_2006061823_2006062523_20061217210724000_1228305.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak 100000/222_4_2_2006062523_2006070223_20061217210856000_1228306.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak 100000/222_4_2_2006070223_2006070923_20061217210950000_1228307.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak 100000/222_4_2_2006070923_2006071623_20061217211048000_1228308.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak 100000/222_4_2_2006070923_2006071623_20061217211226000_1228311.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak 100000/222_4_2_2006071623_2006072323_20061217211311000_1228312.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak 100000/222_4_2_2006072323_2006073023_20061217211410000_1228314.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak 100000/222_4_2_2006073023_2006080623_20061217213455000_1228319.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak 100000/222_4_2_2006080623_2006081323_20061217213544000_1228320.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak 100000/222_4_2_2006081323_2006082023_20061217213625000_1228322.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak 100000/222_4_2_2006082023_2006082723_20061217213704000_1228323.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak 100000/222_4_2_2006082723_2006090323_20061217213757000_1228324.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak 100000/222_4_2_2006090323_2006091023_20061217213843000_1228325.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak 100000/222_4_2_2006091023_2006091723_20061217213932000_1228326.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak 100000/222_4_2_2006091723_2006092423_20061217214055000_1228327.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak 100000/222_4_2_2006092423_2006100123_20061217214150000_1228329.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak 100000/222_4_2_2006100123_2006100823_20061217214242000_1228330.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak old/119_4_1_2002_01_2002010100_2002020100_20030904075456000_3436.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak old/119_4_1_2002_02_2002020100_2002030100_20030904075517000_3696.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak old/119_4_1_2002_03_2002030100_2002033123_20030904080839000_3184.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak old/119_4_1_2002_04_2002033123_2002043023_20030904081115000_2436.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak old/119_4_1_2002_05_2002043023_2002053123_20030904081506000_3788.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak old/119_4_1_2002_06_2002053123_2002063023_20030904081016000_3024.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak old/119_4_1_2002_08_2002073123_2002083123_20030904082023000_3792.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak old/119_4_1_2002_09_2002083123_2002093023_20030904082110000_3784.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak old/119_4_1_2002_10_2002093023_2002110100_20030904085010000_3576.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak old/119_4_1_2002_11_2002110100_2002120100_20030904090014000_3292.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak old/119_4_1_2003_01_2003010100_2003020100_20030904092437000_3828.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak old/119_4_1_2003_02_2003020100_2003030100_20030904095646000_3856.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak old/119_4_1_2003_03_2003030100_2003033123_20030904112814000_1880.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak old/119_4_1_2003_04_2003033123_2003043023_20030904113144000_2216.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak old/119_4_1_2003_05_2003043023_2003053123_20030904113225000_2996.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak old/119_4_1_2003_06_2003053123_2003063023_20030904122138000_2980.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak old/119_4_1_2003_07_2003063023_2003073123_20030904125253000_3568.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak old/119_4_1_2003_Uke 31_2003072723_2003080323_20031117111830000_563853.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak old/119_4_1_2003_Uke 31liten_2003073123_2003080323_20031103092227000_3508.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak old/119_4_1_2003_Uke 32_2003080323_2003081023_20031117111739000_563852.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak old/119_4_1_2003_Uke 33_2003081023_2003081723_20031117111639000_563851.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak old/119_4_1_2003_Uke 34_2003081723_2003082423_20031117111544000_563850.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak old/119_4_1_2003_Uke 35_2003082423_2003083123_20031117111405000_563849.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak old/119_4_1_2003_Uke 36_2003083123_2003090723_20031117111253000_563848.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak old/119_4_1_2003_Uke 37_2003090723_2003091423_20031117111143000_563846.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak old/119_4_1_2003_Uke 38_2003091423_2003092123_20031117111047000_563839.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak old/119_4_1_2003_Uke 39_2003092123_2003092823_20031117110934000_563836.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak old/119_4_1_2003_Uke 40_2003092823_2003100523_20031117110840000_563834.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak old/119_4_1_2003_Uke 41_2003100523_2003101223_20031117110802000_563833.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak old/119_4_1_2003_Uke 42_2003101223_2003101923_20031117110204000_563832.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak old/119_4_1_2003_Uke 43_2003101923_2003102700_20031118081236000_564089.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak old/119_4_1_2003_Uke 44_2003102700_2003110300_20031117105853000_563823.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak old/119_4_1_2003_Uke 45_2003110300_2003111000_20031117105724000_563822.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak old/119_4_1_2003_Uke 46_2003111000_2003111700_20031128101128000_566900.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak old/119_4_1_2003_Uke 47_2003111700_2003112400_20031128101251000_566901.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak old/176_4_11_2003_Uke 31_2003072723_2003080323_20031104102635000_4444.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak old/176_4_11_2003_Uke 32_2003080323_2003081023_20031104101916000_4528.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak old/176_4_11_2003_Uke 33_2003081023_2003081723_20031104101658000_3832.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak old/176_4_11_2003_Uke 34_2003081723_2003082423_20031104101511000_3928.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak old/176_4_11_2003_Uke 35_2003082423_2003083123_20031104093825000_4824.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak old/176_4_11_2003_Uke 36_2003083123_2003090723_20031104092926000_3480.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak old/176_4_11_2003_Uke 37_2003090723_2003091423_20031104091113000_4384.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak old/176_4_11_2003_Uke 38_2003091423_2003092123_20031104091041000_4344.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak old/176_4_11_2003_Uke 39_2003092123_2003092823_20031104090859000_3928.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak old/176_4_11_2003_Uke 40_2003092823_2003100523_20031104090605000_4376.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak old/176_4_11_2003_Uke 41_2003100523_2003101223_20031104090056000_3828.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak old/176_4_11_2003_Uke 42_2003101223_2003101923_20031104085904000_4324.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak old/176_4_11_2003_Uke 42b_2003101223_2003101923_20031117114903000_563868.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak old/176_4_11_2003_Uke 43_2003101923_2003102700_20031104085528000_4144.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak old/176_4_11_2003_Uke 44_2003102700_2003110300_20031117112105000_563859.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak old/176_4_11_2003_Uke 45_2003110300_2003111000_20031117112222000_563860.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak old/176_4_11_2003_Uke 46_2003111000_2003111700_20031121132254000_565202.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak old/176_4_11_2003_Uke 47_2003111700_2003112400_20031204084849000_568544.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak old/176_4_11_2003_Uke 48_2003112400_2003120100_20031212123431000_574372.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak old/176_4_11_2003_Uke 49_2003120100_2003120800_20031212130628000_574496.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak old/176_4_11_2003_Uke 50_2003120800_2003121500_20031230143151000_588782.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak old/176_4_11_2003_Uke 51_2003121500_2003122200_20031230143244000_588783.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak old/176_4_11_2003_Uke 52_2003122200_2003122900_20040108121033000_591318.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak old/176_4_11_2004_Uke 01_2003122900_2004010500_20040108122114000_591322.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak old/180_4_11_2003_Uke 31_2003073123_2003080323_20031103110221000_1616.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak old/180_4_11_2003_Uke 32_2003080323_2003081023_20031103110420000_1996.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak old/180_4_11_2003_Uke 33_2003081023_2003081723_20031103110452000_2108.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak old/180_4_11_2003_Uke 34_2003081723_2003082423_20031103110523000_1980.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak old/180_4_11_2003_Uke 35_2003082423_2003083123_20031103110551000_1656.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak old/180_4_11_2003_Uke 36_2003083123_2003090723_20031103110625000_2544.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak old/180_4_11_2003_Uke 37_2003090723_2003091423_20031103110709000_2004.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak old/180_4_11_2003_Uke 38_2003091423_2003092123_20031103110800000_1996.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak old/180_4_11_2003_Uke 39_2003092123_2003092823_20031103110841000_2472.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak old/180_4_11_2003_Uke 40_2003092823_2003100523_20031103111342000_2200.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak old/180_4_11_2003_Uke 41_2003100523_2003101223_20031103111425000_1852.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak old/180_4_11_2003_Uke 42_2003101223_2003101923_20031103111516000_2280.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak old/180_4_11_2003_Uke 43_2003101923_2003102700_20031103111538000_2288.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak old/180_4_11_2003_Uke 44_2003102700_2003110300_20031127120132000_566637.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak old/180_4_11_2003_Uke 45_2003110300_2003111000_20031127120219000_566638.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak old/180_4_11_2003_Uke 46_2003111000_2003111700_20031127111111000_566635.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak old/180_4_11_2003_Uke 47_2003111700_2003112400_20031128102838000_566904.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak old/34_4_1_2002_01_2002010100_2002020100_20030904134037000_2180.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak old/34_4_1_2002_02_2002020100_2002030100_20030904135443000_380.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak old/34_4_1_2002_03_2002030100_2002033123_20030904144524000_2808.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak old/34_4_1_2002_04_2002033123_2002043023_20030904144750000_2324.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak old/34_4_1_2002_05_2002043023_2002053123_20030904144822000_2800.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak old/34_4_1_2002_06_2002053123_2002063023_20030904144745000_1740.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak old/34_4_1_2002_07_2002063023_2002073123_20030905060137000_1636.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak old/34_4_1_2002_08_2002073123_2002083123_20030905060245000_496.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak old/34_4_1_2002_09_2002083123_2002093023_20030905062359000_496.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak old/34_4_1_2002_10_2002093023_2002110100_20030905062236000_2988.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak old/34_4_1_2002_11_2002110100_2002120100_20030905062535000_2880.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak old/34_4_1_2002_12_2002120100_2003010100_20030905064939000_3256.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak old/34_4_1_2003_01_2003010100_2003020100_20030905100424000_4604.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak old/34_4_1_2003_02_2003020100_2003030100_20030905101213000_4692.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak old/34_4_1_2003_03_2003030100_2003033123_20030905101811000_4808.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak old/34_4_1_2003_04_2003033123_2003043023_20030905102351000_4300.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak old/34_4_1_2003_05_2003043023_2003053123_20030905102817000_4536.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak old/34_4_1_2003_06_2003053123_2003063023_20030905102919000_4740.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak old/34_4_1_2003_07_2003063023_2003073123_20030905110004000_4532.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak old/34_4_1_2003_08_2003073123_2003083123_20030905110051000_4564.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak old/34_4_1_2003_Uke 31_2003073123_2003080323_20031103124053000_4060.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak old/34_4_1_2003_Uke 32_2003080323_2003081023_20031103124506000_1372.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak old/34_4_1_2003_Uke 33_2003081023_2003081723_20031103124600000_1780.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak old/34_4_1_2003_Uke 34_2003081723_2003082423_20031103124643000_3660.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak old/34_4_1_2003_Uke 35_2003082423_2003083123_20031103124829000_3044.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak old/34_4_1_2003_Uke 36_2003083123_2003090723_20031103124909000_4496.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak old/34_4_1_2003_Uke 37_2003090723_2003091423_20031103145616000_4360.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak old/34_4_1_2003_Uke 38_2003091423_2003092123_20031103125034000_2380.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak old/34_4_1_2003_Uke 39_2003092123_2003092823_20031103125157000_4420.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak old/34_4_1_2003_Uke 40_2003092823_2003100523_20031103125249000_4520.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak old/34_4_1_2003_Uke 41_2003100523_2003101223_20031103125356000_4472.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak old/34_4_1_2003_Uke 42_2003101223_2003101923_20031103125504000_4172.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak old/34_4_1_2003_Uke 43_2003101923_2003102700_20031103125558000_4396.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak old/34_4_1_2003_Uke 44_2003102700_2003110300_20031103125703000_3616.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak old/34_4_1_2003_Uke 45_2003110300_2003111000_20031117120038000_563875.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak old/34_4_1_2003_Uke 46_2003111000_2003111700_20031121142732000_565216.exp
+/Users/tidemann/Documents/NTNU/devel/src/sg/data/sintef/../../../../data/sintef/raw//Skagerak old/34_4_1_2003_Uke 47_2003111700_2003112400_20031128104331000_566911.exp

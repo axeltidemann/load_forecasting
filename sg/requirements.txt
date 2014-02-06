@@ -1,0 +1,7 @@
+
+Required packages to get the code running:
+* python 2.7 (or possibly another 2.x, see note for scikits below)
+* numpy, scipy and matplotlib
+* distribute (successor of setuptools) (not for macports?): http://pypi.python.org/pypi/distribute#installation-instructions 
+* Pip (not macports?) http://www.pip-installer.org/en/latest/installing.html
+* scikits.timeseries from macports, pip or http://sourceforge.net/projects/pytseries/files/scikits.timeseries. Only for Python 2.6 in macports at the time of writing.

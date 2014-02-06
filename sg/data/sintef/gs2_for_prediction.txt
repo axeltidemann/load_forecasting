@@ -1,0 +1,262 @@
+/Users/boye/Smartgrid/data/sintef/raw/Buskerud/Innlest/133_4_2_2006010200_2006010900_20060110203859000_144086.exp
+/Users/boye/Smartgrid/data/sintef/raw/Buskerud/Innlest/133_4_2_2006010900_2006011600_20060117153217000_144312.exp
+/Users/boye/Smartgrid/data/sintef/raw/Buskerud/Innlest/133_4_2_2006011600_2006012300_20060124154601000_144524.exp
+/Users/boye/Smartgrid/data/sintef/raw/Buskerud/Innlest/133_4_2_2006012300_2006013000_20060131150137000_144765.exp
+/Users/boye/Smartgrid/data/sintef/raw/Buskerud/Innlest/133_4_2_2006013000_2006020600_20060208095805000_145006.exp
+/Users/boye/Smartgrid/data/sintef/raw/Buskerud/Innlest/133_4_2_2006020600_2006021300_20060214150025000_145206.exp
+/Users/boye/Smartgrid/data/sintef/raw/Buskerud/Innlest/133_4_2_2006021300_2006022000_20060222092841000_145462.EXP
+/Users/boye/Smartgrid/data/sintef/raw/Buskerud/Innlest/133_4_2_2006022000_2006022700_20060301090016000_145691.exp
+/Users/boye/Smartgrid/data/sintef/raw/Buskerud/Innlest/133_4_2_2006022700_2006030600_20060308094931000_145929.exp
+/Users/boye/Smartgrid/data/sintef/raw/Buskerud/Innlest/133_4_2_2006030600_2006031300_20060314150135000_146134.exp
+/Users/boye/Smartgrid/data/sintef/raw/Buskerud/Innlest/133_4_2_2006031300_2006032000_20060322102526000_146381.exp
+/Users/boye/Smartgrid/data/sintef/raw/Buskerud/Innlest/133_4_2_2006032000_2006032623_20060329084452000_146608.exp
+/Users/boye/Smartgrid/data/sintef/raw/Buskerud/Innlest/133_4_2_2006032623_2006040223_20060405093805000_146945.exp
+/Users/boye/Smartgrid/data/sintef/raw/Buskerud/Innlest/133_4_2_2006040223_2006040923_20060411140802000_147243.exp
+/Users/boye/Smartgrid/data/sintef/raw/Buskerud/Innlest/133_4_2_2006040923_2006041623_20060419114347000_147487.exp
+/Users/boye/Smartgrid/data/sintef/raw/Buskerud/Innlest/133_4_2_2006041623_2006042323_20060426090252000_147707.exp
+/Users/boye/Smartgrid/data/sintef/raw/Buskerud/Innlest/133_4_2_2006042323_2006043023_20060503114511000_147927.exp
+/Users/boye/Smartgrid/data/sintef/raw/Buskerud/Innlest/133_4_2_2006043023_2006050723_20060510081319000_148144.exp
+/Users/boye/Smartgrid/data/sintef/raw/Buskerud/Innlest/133_4_2_2006050723_2006051423_20060518092927000_148435.exp
+/Users/boye/Smartgrid/data/sintef/raw/Buskerud/Innlest/133_4_2_2006051423_2006052123_20060524082220000_148646.EXP
+/Users/boye/Smartgrid/data/sintef/raw/Buskerud/Innlest/133_4_2_2006052123_2006052823_20060531112351000_148869.exp
+/Users/boye/Smartgrid/data/sintef/raw/Buskerud/Innlest/133_4_2_2006052823_2006060423_20061019123840000_153385.exp
+/Users/boye/Smartgrid/data/sintef/raw/Buskerud/Innlest/133_4_2_2006060423_2006061123_20060614092444000_149338.exp
+/Users/boye/Smartgrid/data/sintef/raw/Buskerud/Innlest/133_4_2_2006061123_2006061823_20060621114617000_149604.exp
+/Users/boye/Smartgrid/data/sintef/raw/Buskerud/Innlest/133_4_2_2006061823_2006062523_20060628120431000_149854.exp
+/Users/boye/Smartgrid/data/sintef/raw/Buskerud/Innlest/133_4_2_2006062523_2006070223_20060705120148000_150104.EXP
+/Users/boye/Smartgrid/data/sintef/raw/Buskerud/Innlest/133_4_2_2006070223_2006070923_20060712113349000_150331.EXP
+/Users/boye/Smartgrid/data/sintef/raw/Buskerud/Innlest/133_4_2_2006070923_2006071623_20060719080406000_150560.EXP
+/Users/boye/Smartgrid/data/sintef/raw/Buskerud/Innlest/133_4_2_2006071623_2006072323_20060726101836000_150761.EXP
+/Users/boye/Smartgrid/data/sintef/raw/Buskerud/Innlest/133_4_2_2006072323_2006073023_20060802095341000_150951.EXP
+/Users/boye/Smartgrid/data/sintef/raw/Buskerud/Innlest/133_4_2_2006073023_2006080623_20060809114549000_151278.EXP
+/Users/boye/Smartgrid/data/sintef/raw/Buskerud/Innlest/133_4_2_2006080623_2006081323_20060816094906000_151485.EXP
+/Users/boye/Smartgrid/data/sintef/raw/Buskerud/Innlest/133_4_2_2006081323_2006082023_20060823092421000_151706.EXP
+/Users/boye/Smartgrid/data/sintef/raw/Buskerud/Innlest/133_4_2_2006082023_2006082723_20060830120241000_151913.EXP
+/Users/boye/Smartgrid/data/sintef/raw/Buskerud/Innlest/133_4_2_2006082723_2006090323_20060906111549000_152128.EXP
+/Users/boye/Smartgrid/data/sintef/raw/Buskerud/Innlest/133_4_2_2006090323_2006091023_20060913125841000_152342.EXP
+/Users/boye/Smartgrid/data/sintef/raw/Buskerud/Innlest/133_4_2_2006091023_2006091723_20060920113850000_152560.EXP
+/Users/boye/Smartgrid/data/sintef/raw/Buskerud/Innlest/133_4_2_2006091723_2006092423_20060927121123000_152752.EXP
+/Users/boye/Smartgrid/data/sintef/raw/Buskerud/Innlest/133_4_2_2006092423_2006100123_20061004095138000_152958.EXP
+/Users/boye/Smartgrid/data/sintef/raw/Buskerud/Innlest/133_4_2_2006100123_2006100823_20061011081004000_153149.EXP
+/Users/boye/Smartgrid/data/sintef/raw/Buskerud/Innlest/134_4_2_2006010200_2006010900_20060110203155000_144085.exp
+/Users/boye/Smartgrid/data/sintef/raw/Buskerud/Innlest/134_4_2_2006010900_2006011600_20060117153319000_144313.exp
+/Users/boye/Smartgrid/data/sintef/raw/Buskerud/Innlest/134_4_2_2006011600_2006012300_20060124154514000_144523.exp
+/Users/boye/Smartgrid/data/sintef/raw/Buskerud/Innlest/134_4_2_2006012300_2006013000_20060131150041000_144764.exp
+/Users/boye/Smartgrid/data/sintef/raw/Buskerud/Innlest/134_4_2_2006013000_2006020600_20060208095712000_145005.exp
+/Users/boye/Smartgrid/data/sintef/raw/Buskerud/Innlest/134_4_2_2006020600_2006021300_20060214145914000_145205.exp
+/Users/boye/Smartgrid/data/sintef/raw/Buskerud/Innlest/134_4_2_2006021300_2006022000_20060222092944000_145463.EXP
+/Users/boye/Smartgrid/data/sintef/raw/Buskerud/Innlest/134_4_2_2006022000_2006022700_20060301085913000_145690.exp
+/Users/boye/Smartgrid/data/sintef/raw/Buskerud/Innlest/134_4_2_2006022700_2006030600_20060308094843000_145928.exp
+/Users/boye/Smartgrid/data/sintef/raw/Buskerud/Innlest/134_4_2_2006030600_2006031300_20060314150326000_146135.exp
+/Users/boye/Smartgrid/data/sintef/raw/Buskerud/Innlest/134_4_2_2006031300_2006032000_20060322102424000_146380.exp
+/Users/boye/Smartgrid/data/sintef/raw/Buskerud/Innlest/134_4_2_2006032000_2006032623_20060329084252000_146607.exp
+/Users/boye/Smartgrid/data/sintef/raw/Buskerud/Innlest/134_4_2_2006032623_2006040223_20060405093858000_146946.exp
+/Users/boye/Smartgrid/data/sintef/raw/Buskerud/Innlest/134_4_2_2006040223_2006040923_20060411140703000_147242.exp
+/Users/boye/Smartgrid/data/sintef/raw/Buskerud/Innlest/134_4_2_2006040923_2006041623_20060419114247000_147486.exp
+/Users/boye/Smartgrid/data/sintef/raw/Buskerud/Innlest/134_4_2_2006041623_2006042323_20060426090057000_147706.exp
+/Users/boye/Smartgrid/data/sintef/raw/Buskerud/Innlest/134_4_2_2006042323_2006043023_20060503114409000_147926.exp
+/Users/boye/Smartgrid/data/sintef/raw/Buskerud/Innlest/134_4_2_2006043023_2006050723_20060510081226000_148143.exp
+/Users/boye/Smartgrid/data/sintef/raw/Buskerud/Innlest/134_4_2_2006050723_2006051423_20060518092706000_148434.exp
+/Users/boye/Smartgrid/data/sintef/raw/Buskerud/Innlest/134_4_2_2006051423_2006052123_20060524082127000_148645.EXP
+/Users/boye/Smartgrid/data/sintef/raw/Buskerud/Innlest/134_4_2_2006052123_2006052823_20060531112433000_148870.exp
+/Users/boye/Smartgrid/data/sintef/raw/Buskerud/Innlest/134_4_2_2006052823_2006060423_20061019123924000_153386.exp
+/Users/boye/Smartgrid/data/sintef/raw/Buskerud/Innlest/134_4_2_2006060423_2006061123_20060614092358000_149337.exp
+/Users/boye/Smartgrid/data/sintef/raw/Buskerud/Innlest/134_4_2_2006061123_2006061823_20060621114750000_149605.exp
+/Users/boye/Smartgrid/data/sintef/raw/Buskerud/Innlest/134_4_2_2006061823_2006062523_20060628120347000_149853.exp
+/Users/boye/Smartgrid/data/sintef/raw/Buskerud/Innlest/134_4_2_2006062523_2006070223_20060705120058000_150103.EXP
+/Users/boye/Smartgrid/data/sintef/raw/Buskerud/Innlest/134_4_2_2006070223_2006070923_20060712113303000_150330.EXP
+/Users/boye/Smartgrid/data/sintef/raw/Buskerud/Innlest/134_4_2_2006070923_2006071623_20060719080325000_150559.EXP
+/Users/boye/Smartgrid/data/sintef/raw/Buskerud/Innlest/134_4_2_2006071623_2006072323_20060726102330000_150762.EXP
+/Users/boye/Smartgrid/data/sintef/raw/Buskerud/Innlest/134_4_2_2006072323_2006073023_20060802095258000_150950.EXP
+/Users/boye/Smartgrid/data/sintef/raw/Buskerud/Innlest/134_4_2_2006073023_2006080623_20060809114859000_151279.EXP
+/Users/boye/Smartgrid/data/sintef/raw/Buskerud/Innlest/134_4_2_2006080623_2006081323_20060816094953000_151486.EXP
+/Users/boye/Smartgrid/data/sintef/raw/Buskerud/Innlest/134_4_2_2006081323_2006082023_20060823092811000_151707.EXP
+/Users/boye/Smartgrid/data/sintef/raw/Buskerud/Innlest/134_4_2_2006082023_2006082723_20060830120157000_151912.EXP
+/Users/boye/Smartgrid/data/sintef/raw/Buskerud/Innlest/134_4_2_2006082723_2006090323_20060906112855000_152133.EXP
+/Users/boye/Smartgrid/data/sintef/raw/Buskerud/Innlest/134_4_2_2006090323_2006091023_20060913125747000_152341.EXP
+/Users/boye/Smartgrid/data/sintef/raw/Buskerud/Innlest/134_4_2_2006091023_2006091723_20060920113806000_152559.EXP
+/Users/boye/Smartgrid/data/sintef/raw/Buskerud/Innlest/134_4_2_2006091723_2006092423_20060927120930000_152751.EXP
+/Users/boye/Smartgrid/data/sintef/raw/Buskerud/Innlest/134_4_2_2006092423_2006100123_20061004095249000_152959.EXP
+/Users/boye/Smartgrid/data/sintef/raw/Buskerud/Innlest/134_4_2_2006100123_2006100823_20061011080258000_153148.EXP
+/Users/boye/Smartgrid/data/sintef/raw/Buskerud/Innlest/Buskerud 2004/100_4_26_2003122900_2004010500_20040115144017000_101881.exp
+/Users/boye/Smartgrid/data/sintef/raw/Buskerud/Innlest/Buskerud 2004/111_4_26_2003122900_2004010500_20040115143850000_101879.exp
+/Users/boye/Smartgrid/data/sintef/raw/Buskerud/Innlest/Buskerud 2004/111_4_26_2004010500_2004011200_20040114122433000_101799.exp
+/Users/boye/Smartgrid/data/sintef/raw/Buskerud/Innlest/Buskerud 2004/133_4_2_2003110100_2004010100_20041116200616000_117743.exp
+/Users/boye/Smartgrid/data/sintef/raw/Buskerud/Innlest/Buskerud 2004/133_4_2_2004010100_2004033123_20041125082839000_118303.exp
+/Users/boye/Smartgrid/data/sintef/raw/Buskerud/Innlest/Buskerud 2004/133_4_2_2004010100_2004033123_20041125082924000_118304.exp
+/Users/boye/Smartgrid/data/sintef/raw/Buskerud/Innlest/Buskerud 2004/133_4_2_2004010100_2004033123_20041125082954000_118305.exp
+/Users/boye/Smartgrid/data/sintef/raw/Buskerud/Innlest/Buskerud 2004/133_4_2_2004033123_2004043023_20041130152653000_118518.exp
+/Users/boye/Smartgrid/data/sintef/raw/Buskerud/Innlest/Buskerud 2004/133_4_2_2004033123_2004043023_20041130152715000_118519.exp
+/Users/boye/Smartgrid/data/sintef/raw/Buskerud/Innlest/Buskerud 2004/133_4_2_2004033123_2004043023_20041130152738000_118520.exp
+/Users/boye/Smartgrid/data/sintef/raw/Buskerud/Innlest/Buskerud 2004/133_4_2_2004050223_2004053023_20040914081022000_113522.exp
+/Users/boye/Smartgrid/data/sintef/133_4_2_2004052323_2004053023_20040606140444000_109625_fixed.exp
+/Users/boye/Smartgrid/data/sintef/raw/Buskerud/Innlest/Buskerud 2004/133_4_2_2004053023_2004060623_20040608153237000_109776.exp
+/Users/boye/Smartgrid/data/sintef/raw/Buskerud/Innlest/Buskerud 2004/133_4_2_2004060623_2004061323_20040615210024000_110020.exp
+/Users/boye/Smartgrid/data/sintef/raw/Buskerud/Innlest/Buskerud 2004/133_4_2_2004061323_2004062023_20040622200933000_110258.exp
+/Users/boye/Smartgrid/data/sintef/raw/Buskerud/Innlest/Buskerud 2004/133_4_2_2004062023_2004062723_20040630140451000_110618.exp
+/Users/boye/Smartgrid/data/sintef/raw/Buskerud/Innlest/Buskerud 2004/133_4_2_2004062723_2004070423_20040707124641000_110889.exp
+/Users/boye/Smartgrid/data/sintef/raw/Buskerud/Innlest/Buskerud 2004/133_4_2_2004070423_2004071123_20040714194511000_111293.exp
+/Users/boye/Smartgrid/data/sintef/raw/Buskerud/Innlest/Buskerud 2004/133_4_2_2004071123_2004071823_20040721160124000_111527.exp
+/Users/boye/Smartgrid/data/sintef/raw/Buskerud/Innlest/Buskerud 2004/133_4_2_2004071823_2004072523_20040728130921000_111813.exp
+/Users/boye/Smartgrid/data/sintef/raw/Buskerud/Innlest/Buskerud 2004/133_4_2_2004072523_2004080123_20040804134157000_112014.exp
+/Users/boye/Smartgrid/data/sintef/raw/Buskerud/Innlest/Buskerud 2004/133_4_2_2004080123_2004080823_20040811150327000_112246.exp
+/Users/boye/Smartgrid/data/sintef/raw/Buskerud/Innlest/Buskerud 2004/133_4_2_2004080823_2004081523_20040818102441000_112417.exp
+/Users/boye/Smartgrid/data/sintef/raw/Buskerud/Innlest/Buskerud 2004/133_4_2_2004081523_2004082223_20040825102132000_112712.exp
+/Users/boye/Smartgrid/data/sintef/raw/Buskerud/Innlest/Buskerud 2004/133_4_2_2004082223_2004082923_20040901114731000_112930.exp
+/Users/boye/Smartgrid/data/sintef/raw/Buskerud/Innlest/Buskerud 2004/133_4_2_2004082923_2004090523_20040908061734000_113346.exp
+/Users/boye/Smartgrid/data/sintef/raw/Buskerud/Innlest/Buskerud 2004/133_4_2_2004090523_2004091223_20040915121940000_113708.exp
+/Users/boye/Smartgrid/data/sintef/raw/Buskerud/Innlest/Buskerud 2004/133_4_2_2004091223_2004091923_20040922123729000_114007.exp
+/Users/boye/Smartgrid/data/sintef/raw/Buskerud/Innlest/Buskerud 2004/133_4_2_2004091923_2004092623_20040929115032000_114634.exp
+/Users/boye/Smartgrid/data/sintef/raw/Buskerud/Innlest/Buskerud 2004/133_4_2_2004092623_2004100323_20041006123852000_115104.exp
+/Users/boye/Smartgrid/data/sintef/raw/Buskerud/Innlest/Buskerud 2004/133_4_2_2004100323_2004101023_20041013073729000_115924.exp
+/Users/boye/Smartgrid/data/sintef/raw/Buskerud/Innlest/Buskerud 2004/133_4_2_2004101023_2004101723_20041020120349000_116322.exp
+/Users/boye/Smartgrid/data/sintef/raw/Buskerud/Innlest/Buskerud 2004/133_4_2_2004101723_2004102423_20041026115856000_116729.exp
+/Users/boye/Smartgrid/data/sintef/raw/Buskerud/Innlest/Buskerud 2004/133_4_2_2004102423_2004110100_20041103121953000_117082.exp
+/Users/boye/Smartgrid/data/sintef/raw/Buskerud/Innlest/Buskerud 2004/133_4_2_2004110100_2004110800_20041110140620000_117497.exp
+/Users/boye/Smartgrid/data/sintef/raw/Buskerud/Innlest/Buskerud 2004/133_4_2_2004112200_2004112900_20041201125423000_118579.exp
+/Users/boye/Smartgrid/data/sintef/raw/Buskerud/Innlest/Buskerud 2004/133_4_2_2004112900_2004120600_20041207163046000_118937.exp
+/Users/boye/Smartgrid/data/sintef/raw/Buskerud/Innlest/Buskerud 2004/133_4_2_2004120600_2004121300_20041215105743000_119257.exp
+/Users/boye/Smartgrid/data/sintef/raw/Buskerud/Innlest/Buskerud 2004/133_4_2_2004121300_2004122000_20041222105318000_119684.exp
+/Users/boye/Smartgrid/data/sintef/raw/Buskerud/Innlest/Buskerud 2004/134_4_2_2003110100_2004010100_20041116202159000_117748.exp
+/Users/boye/Smartgrid/data/sintef/raw/Buskerud/Innlest/Buskerud 2004/134_4_2_2004050223_2004053023_20040914092225000_113532.exp
+/Users/boye/Smartgrid/data/sintef/raw/Buskerud/Innlest/Buskerud 2004/134_4_2_2004053023_2004060623_20040608153848000_109777.exp
+/Users/boye/Smartgrid/data/sintef/raw/Buskerud/Innlest/Buskerud 2004/134_4_2_2004060623_2004061323_20040615210546000_110021.exp
+/Users/boye/Smartgrid/data/sintef/raw/Buskerud/Innlest/Buskerud 2004/134_4_2_2004061323_2004062023_20040622201525000_110259.exp
+/Users/boye/Smartgrid/data/sintef/raw/Buskerud/Innlest/Buskerud 2004/134_4_2_2004062023_2004062723_20040630141203000_110619.exp
+/Users/boye/Smartgrid/data/sintef/raw/Buskerud/Innlest/Buskerud 2004/134_4_2_2004062723_2004070423_20040707125048000_110890.exp
+/Users/boye/Smartgrid/data/sintef/raw/Buskerud/Innlest/Buskerud 2004/134_4_2_2004070423_2004071123_20040714194940000_111294.exp
+/Users/boye/Smartgrid/data/sintef/raw/Buskerud/Innlest/Buskerud 2004/134_4_2_2004071123_2004071823_20040721155751000_111525.exp
+/Users/boye/Smartgrid/data/sintef/raw/Buskerud/Innlest/Buskerud 2004/134_4_2_2004071823_2004072523_20040728125025000_111811.exp
+/Users/boye/Smartgrid/data/sintef/raw/Buskerud/Innlest/Buskerud 2004/134_4_2_2004072523_2004080123_20040804134702000_112015.exp
+/Users/boye/Smartgrid/data/sintef/raw/Buskerud/Innlest/Buskerud 2004/134_4_2_2004080123_2004080823_20040811150731000_112247.exp
+/Users/boye/Smartgrid/data/sintef/raw/Buskerud/Innlest/Buskerud 2004/134_4_2_2004080823_2004081523_20040818102926000_112418.exp
+/Users/boye/Smartgrid/data/sintef/raw/Buskerud/Innlest/Buskerud 2004/134_4_2_2004081523_2004082223_20040825102542000_112713.exp
+/Users/boye/Smartgrid/data/sintef/raw/Buskerud/Innlest/Buskerud 2004/134_4_2_2004082223_2004082923_20040901115637000_112931.exp
+/Users/boye/Smartgrid/data/sintef/raw/Buskerud/Innlest/Buskerud 2004/134_4_2_2004082923_2004090523_20040908062318000_113347.exp
+/Users/boye/Smartgrid/data/sintef/raw/Buskerud/Innlest/Buskerud 2004/134_4_2_2004090523_2004091223_20040915122428000_113709.exp
+/Users/boye/Smartgrid/data/sintef/raw/Buskerud/Innlest/Buskerud 2004/134_4_2_2004091223_2004091923_20040922124337000_114008.exp
+/Users/boye/Smartgrid/data/sintef/raw/Buskerud/Innlest/Buskerud 2004/134_4_2_2004091923_2004092623_20040929120544000_114635.exp
+/Users/boye/Smartgrid/data/sintef/raw/Buskerud/Innlest/Buskerud 2004/134_4_2_2004092623_2004100323_20041006124433000_115105.exp
+/Users/boye/Smartgrid/data/sintef/raw/Buskerud/Innlest/Buskerud 2004/134_4_2_2004100323_2004101023_20041013074216000_115925.exp
+/Users/boye/Smartgrid/data/sintef/raw/Buskerud/Innlest/Buskerud 2004/134_4_2_2004101023_2004101723_20041020121134000_116323.exp
+/Users/boye/Smartgrid/data/sintef/raw/Buskerud/Innlest/Buskerud 2004/134_4_2_2004101723_2004102423_20041026120558000_116730.exp
+/Users/boye/Smartgrid/data/sintef/raw/Buskerud/Innlest/Buskerud 2004/134_4_2_2004102423_2004110100_20041103132747000_117090.exp
+/Users/boye/Smartgrid/data/sintef/raw/Buskerud/Innlest/Buskerud 2004/134_4_2_2004110100_2004110800_20041110141153000_117499.exp
+/Users/boye/Smartgrid/data/sintef/raw/Buskerud/Innlest/Buskerud 2004/134_4_2_2004112200_2004112900_20041201125840000_118580.exp
+/Users/boye/Smartgrid/data/sintef/raw/Buskerud/Innlest/Buskerud 2004/134_4_2_2004112900_2004120600_20041207164207000_118939.exp
+/Users/boye/Smartgrid/data/sintef/raw/Buskerud/Innlest/Buskerud 2004/134_4_2_2004120600_2004121300_20041215110243000_119258.exp
+/Users/boye/Smartgrid/data/sintef/raw/Buskerud/Innlest/Buskerud 2004/134_4_2_2004121300_2004122000_20041222105803000_119685.exp
+/Users/boye/Smartgrid/data/sintef/raw/Buskerud/Innlest/Buskerud 2005/133_4_2_2004110800_2004111500_20050302135943000_127246.exp
+/Users/boye/Smartgrid/data/sintef/raw/Buskerud/Innlest/Buskerud 2005/133_4_2_2004111500_2004112200_20041124153046000_118288.exp
+/Users/boye/Smartgrid/data/sintef/raw/Buskerud/Innlest/Buskerud 2005/133_4_2_2004122000_2004122700_20041228131449000_120099.exp
+/Users/boye/Smartgrid/data/sintef/raw/Buskerud/Innlest/Buskerud 2005/133_4_2_2004122700_2005010300_20050105094352000_120355.exp
+/Users/boye/Smartgrid/data/sintef/raw/Buskerud/Innlest/Buskerud 2005/133_4_2_2005010300_2005011000_20050302135148000_127245.exp
+/Users/boye/Smartgrid/data/sintef/raw/Buskerud/Innlest/Buskerud 2005/133_4_2_2005011000_2005011700_20050119104808000_123297.exp
+/Users/boye/Smartgrid/data/sintef/raw/Buskerud/Innlest/Buskerud 2005/133_4_2_2005011700_2005012400_20050126124709000_123671.exp
+/Users/boye/Smartgrid/data/sintef/raw/Buskerud/Innlest/Buskerud 2005/133_4_2_2005012400_2005013100_20050202122523000_124024.exp
+/Users/boye/Smartgrid/data/sintef/raw/Buskerud/Innlest/Buskerud 2005/133_4_2_2005013100_2005020700_20050209124751000_124885.exp
+/Users/boye/Smartgrid/data/sintef/raw/Buskerud/Innlest/Buskerud 2005/133_4_2_2005020700_2005021400_20050216130554000_125682.exp
+/Users/boye/Smartgrid/data/sintef/raw/Buskerud/Innlest/Buskerud 2005/133_4_2_2005021400_2005022100_20050222190523000_126395.exp
+/Users/boye/Smartgrid/data/sintef/raw/Buskerud/Innlest/Buskerud 2005/133_4_2_2005022100_2005022800_20050302105558000_127242.EXP
+/Users/boye/Smartgrid/data/sintef/raw/Buskerud/Innlest/Buskerud 2005/133_4_2_2005022800_2005030700_20050309111229000_127998.exp
+/Users/boye/Smartgrid/data/sintef/raw/Buskerud/Innlest/Buskerud 2005/133_4_2_2005030700_2005031400_20050316103257000_128844.exp
+/Users/boye/Smartgrid/data/sintef/raw/Buskerud/Innlest/Buskerud 2005/133_4_2_2005031400_2005032100_20050322143114000_129602.exp
+/Users/boye/Smartgrid/data/sintef/raw/Buskerud/Innlest/Buskerud 2005/133_4_2_2005032100_2005032723_20050331111606000_130618.exp
+/Users/boye/Smartgrid/data/sintef/raw/Buskerud/Innlest/Buskerud 2005/133_4_2_2005032723_2005040323_20050406100856000_131178.exp
+/Users/boye/Smartgrid/data/sintef/raw/Buskerud/Innlest/Buskerud 2005/133_4_2_2005040323_2005041023_20050413092304000_132103.exp
+/Users/boye/Smartgrid/data/sintef/raw/Buskerud/Innlest/Buskerud 2005/133_4_2_2005041023_2005041723_20050420092427000_132987.exp
+/Users/boye/Smartgrid/data/sintef/raw/Buskerud/Innlest/Buskerud 2005/133_4_2_2005041723_2005042423_20050427080722000_133776.exp
+/Users/boye/Smartgrid/data/sintef/raw/Buskerud/Innlest/Buskerud 2005/133_4_2_2005042423_2005050123_20050504091119000_134542.exp
+/Users/boye/Smartgrid/data/sintef/raw/Buskerud/Innlest/Buskerud 2005/133_4_2_2005050123_2005050823_20050510171105000_135340.exp
+/Users/boye/Smartgrid/data/sintef/raw/Buskerud/Innlest/Buskerud 2005/133_4_2_2005050823_2005051523_20050519122608000_136072.exp
+/Users/boye/Smartgrid/data/sintef/raw/Buskerud/Innlest/Buskerud 2005/133_4_2_2005051523_2005052223_20050525132910000_136348.exp
+/Users/boye/Smartgrid/data/sintef/raw/Buskerud/Innlest/Buskerud 2005/133_4_2_2005052223_2005052923_20050601094434000_136656.exp
+/Users/boye/Smartgrid/data/sintef/raw/Buskerud/Innlest/Buskerud 2005/133_4_2_2005052923_2005060523_20050607130725000_136937.exp
+/Users/boye/Smartgrid/data/sintef/raw/Buskerud/Innlest/Buskerud 2005/133_4_2_2005060523_2005061223_20050615104942000_137197.exp
+/Users/boye/Smartgrid/data/sintef/raw/Buskerud/Innlest/Buskerud 2005/133_4_2_2005061223_2005061923_20050622101340000_137413.exp
+/Users/boye/Smartgrid/data/sintef/raw/Buskerud/Innlest/Buskerud 2005/133_4_2_2005061923_2005062623_20050629093122000_137635.exp
+/Users/boye/Smartgrid/data/sintef/raw/Buskerud/Innlest/Buskerud 2005/133_4_2_2005062623_2005070323_20050706085506000_137881.exp
+/Users/boye/Smartgrid/data/sintef/raw/Buskerud/Innlest/Buskerud 2005/133_4_2_2005070323_2005071023_20050713092823000_138113.exp
+/Users/boye/Smartgrid/data/sintef/raw/Buskerud/Innlest/Buskerud 2005/133_4_2_2005071023_2005071723_20050720091430000_138313.exp
+/Users/boye/Smartgrid/data/sintef/raw/Buskerud/Innlest/Buskerud 2005/133_4_2_2005071723_2005072423_20050727094407000_138514.exp
+/Users/boye/Smartgrid/data/sintef/raw/Buskerud/Innlest/Buskerud 2005/133_4_2_2005072423_2005073123_20050803085414000_138701.exp
+/Users/boye/Smartgrid/data/sintef/raw/Buskerud/Innlest/Buskerud 2005/133_4_2_2005073123_2005080723_20050810081104000_138905.exp
+/Users/boye/Smartgrid/data/sintef/raw/Buskerud/Innlest/Buskerud 2005/133_4_2_2005080723_2005081423_20050817093443000_139118.exp
+/Users/boye/Smartgrid/data/sintef/raw/Buskerud/Innlest/Buskerud 2005/133_4_2_2005081423_2005082123_20050824122308000_139340.exp
+/Users/boye/Smartgrid/data/sintef/raw/Buskerud/Innlest/Buskerud 2005/133_4_2_2005082123_2005082823_20050831114737000_139556.exp
+/Users/boye/Smartgrid/data/sintef/raw/Buskerud/Innlest/Buskerud 2005/133_4_2_2005082823_2005090423_20050907090431000_139789.exp
+/Users/boye/Smartgrid/data/sintef/raw/Buskerud/Innlest/Buskerud 2005/133_4_2_2005090423_2005091123_20050914085907000_140000.exp
+/Users/boye/Smartgrid/data/sintef/raw/Buskerud/Innlest/Buskerud 2005/133_4_2_2005091123_2005091823_20050921085343000_140206.exp
+/Users/boye/Smartgrid/data/sintef/raw/Buskerud/Innlest/Buskerud 2005/133_4_2_2005091823_2005092523_20050928111920000_140510.exp
+/Users/boye/Smartgrid/data/sintef/raw/Buskerud/Innlest/Buskerud 2005/133_4_2_2005092523_2005100223_20051005084123000_140765.exp
+/Users/boye/Smartgrid/data/sintef/raw/Buskerud/Innlest/Buskerud 2005/133_4_2_2005100223_2005100923_20051012085436000_141009.exp
+/Users/boye/Smartgrid/data/sintef/raw/Buskerud/Innlest/Buskerud 2005/133_4_2_2005100923_2005101623_20051018131132000_141207.exp
+/Users/boye/Smartgrid/data/sintef/raw/Buskerud/Innlest/Buskerud 2005/133_4_2_2005101623_2005102323_20051026091715000_141438.exp
+/Users/boye/Smartgrid/data/sintef/raw/Buskerud/Innlest/Buskerud 2005/133_4_2_2005102323_2005103100_20051102101829000_141679.exp
+/Users/boye/Smartgrid/data/sintef/raw/Buskerud/Innlest/Buskerud 2005/133_4_2_2005103100_2005110700_20051109091014000_141892.EXP
+/Users/boye/Smartgrid/data/sintef/raw/Buskerud/Innlest/Buskerud 2005/133_4_2_2005110700_2005111400_20051116104841000_142196.exp
+/Users/boye/Smartgrid/data/sintef/raw/Buskerud/Innlest/Buskerud 2005/133_4_2_2005111400_2005112100_20051123085653000_142406.exp
+/Users/boye/Smartgrid/data/sintef/raw/Buskerud/Innlest/Buskerud 2005/133_4_2_2005112100_2005112800_20051130100630000_142620.exp
+/Users/boye/Smartgrid/data/sintef/raw/Buskerud/Innlest/Buskerud 2005/133_4_2_2005112800_2005120500_20051207093629000_142863.exp
+/Users/boye/Smartgrid/data/sintef/raw/Buskerud/Innlest/Buskerud 2005/133_4_2_2005120500_2005121200_20051214100220000_143181.exp
+/Users/boye/Smartgrid/data/sintef/raw/Buskerud/Innlest/Buskerud 2005/133_4_2_2005121200_2005121900_20051221094245000_143402.exp
+/Users/boye/Smartgrid/data/sintef/raw/Buskerud/Innlest/Buskerud 2005/133_4_2_2005121900_2005122600_20051228095252000_143632.exp
+/Users/boye/Smartgrid/data/sintef/raw/Buskerud/Innlest/Buskerud 2005/133_4_2_2005122600_2006010200_20060104123913000_143855.exp
+/Users/boye/Smartgrid/data/sintef/raw/Buskerud/Innlest/Buskerud 2005/134_4_2_2004110800_2004111500_20050302145610000_127258.exp
+/Users/boye/Smartgrid/data/sintef/raw/Buskerud/Innlest/Buskerud 2005/134_4_2_2004111500_2004112200_20041124154411000_118289.exp
+/Users/boye/Smartgrid/data/sintef/raw/Buskerud/Innlest/Buskerud 2005/134_4_2_2004122000_2004122700_20041228135601000_120102.exp
+/Users/boye/Smartgrid/data/sintef/raw/Buskerud/Innlest/Buskerud 2005/134_4_2_2004122700_2005010300_20050105095225000_120356.exp
+/Users/boye/Smartgrid/data/sintef/raw/Buskerud/Innlest/Buskerud 2005/134_4_2_2005010300_2005011000_20050302145114000_127257.exp
+/Users/boye/Smartgrid/data/sintef/raw/Buskerud/Innlest/Buskerud 2005/134_4_2_2005011000_2005011700_20050119105729000_123298.exp
+/Users/boye/Smartgrid/data/sintef/raw/Buskerud/Innlest/Buskerud 2005/134_4_2_2005011700_2005012400_20050126125208000_123672.exp
+/Users/boye/Smartgrid/data/sintef/raw/Buskerud/Innlest/Buskerud 2005/134_4_2_2005012400_2005013100_20050202122929000_124025.exp
+/Users/boye/Smartgrid/data/sintef/raw/Buskerud/Innlest/Buskerud 2005/134_4_2_2005013100_2005020700_20050209124141000_124883.exp
+/Users/boye/Smartgrid/data/sintef/raw/Buskerud/Innlest/Buskerud 2005/134_4_2_2005020700_2005021400_20050216131056000_125683.exp
+/Users/boye/Smartgrid/data/sintef/raw/Buskerud/Innlest/Buskerud 2005/134_4_2_2005021400_2005022100_20050222191201000_126396.exp
+/Users/boye/Smartgrid/data/sintef/raw/Buskerud/Innlest/Buskerud 2005/134_4_2_2005022100_2005022800_20050302114728000_127243.EXP
+/Users/boye/Smartgrid/data/sintef/raw/Buskerud/Innlest/Buskerud 2005/134_4_2_2005022800_2005030700_20050309114544000_127999.exp
+/Users/boye/Smartgrid/data/sintef/raw/Buskerud/Innlest/Buskerud 2005/134_4_2_2005030700_2005031400_20050316104820000_128845.exp
+/Users/boye/Smartgrid/data/sintef/raw/Buskerud/Innlest/Buskerud 2005/134_4_2_2005031400_2005032100_20050322141521000_129598.exp
+/Users/boye/Smartgrid/data/sintef/raw/Buskerud/Innlest/Buskerud 2005/134_4_2_2005032100_2005032723_20050331112155000_130621.exp
+/Users/boye/Smartgrid/data/sintef/raw/Buskerud/Innlest/Buskerud 2005/134_4_2_2005032723_2005040323_20050406101543000_131179.exp
+/Users/boye/Smartgrid/data/sintef/raw/Buskerud/Innlest/Buskerud 2005/134_4_2_2005040323_2005041023_20050413105030000_132126.exp
+/Users/boye/Smartgrid/data/sintef/raw/Buskerud/Innlest/Buskerud 2005/134_4_2_2005041023_2005041723_20050420093123000_132988.exp
+/Users/boye/Smartgrid/data/sintef/raw/Buskerud/Innlest/Buskerud 2005/134_4_2_2005041723_2005042423_20050427081417000_133777.exp
+/Users/boye/Smartgrid/data/sintef/raw/Buskerud/Innlest/Buskerud 2005/134_4_2_2005042423_2005050123_20050504091826000_134543.exp
+/Users/boye/Smartgrid/data/sintef/raw/Buskerud/Innlest/Buskerud 2005/134_4_2_2005050123_2005050823_20050510171535000_135341.exp
+/Users/boye/Smartgrid/data/sintef/raw/Buskerud/Innlest/Buskerud 2005/134_4_2_2005050823_2005051523_20050519123518000_136073.exp
+/Users/boye/Smartgrid/data/sintef/raw/Buskerud/Innlest/Buskerud 2005/134_4_2_2005051523_2005052223_20050525135509000_136350.exp
+/Users/boye/Smartgrid/data/sintef/raw/Buskerud/Innlest/Buskerud 2005/134_4_2_2005052223_2005052923_20050601095035000_136657.exp
+/Users/boye/Smartgrid/data/sintef/raw/Buskerud/Innlest/Buskerud 2005/134_4_2_2005052923_2005060523_20050607131732000_136938.exp
+/Users/boye/Smartgrid/data/sintef/raw/Buskerud/Innlest/Buskerud 2005/134_4_2_2005060523_2005061223_20050615104123000_137196.exp
+/Users/boye/Smartgrid/data/sintef/raw/Buskerud/Innlest/Buskerud 2005/134_4_2_2005061223_2005061923_20050622102332000_137414.exp
+/Users/boye/Smartgrid/data/sintef/raw/Buskerud/Innlest/Buskerud 2005/134_4_2_2005061923_2005062623_20050629091951000_137634.exp
+/Users/boye/Smartgrid/data/sintef/raw/Buskerud/Innlest/Buskerud 2005/134_4_2_2005062623_2005070323_20050706091156000_137884.exp
+/Users/boye/Smartgrid/data/sintef/raw/Buskerud/Innlest/Buskerud 2005/134_4_2_2005070323_2005071023_20050713095415000_138115.exp
+/Users/boye/Smartgrid/data/sintef/raw/Buskerud/Innlest/Buskerud 2005/134_4_2_2005071023_2005071723_20050720085307000_138311.exp
+/Users/boye/Smartgrid/data/sintef/raw/Buskerud/Innlest/Buskerud 2005/134_4_2_2005071723_2005072423_20050727095938000_138515.exp
+/Users/boye/Smartgrid/data/sintef/raw/Buskerud/Innlest/Buskerud 2005/134_4_2_2005072423_2005073123_20050803092611000_138707.exp
+/Users/boye/Smartgrid/data/sintef/raw/Buskerud/Innlest/Buskerud 2005/134_4_2_2005073123_2005080723_20050810083939000_138915.exp
+/Users/boye/Smartgrid/data/sintef/raw/Buskerud/Innlest/Buskerud 2005/134_4_2_2005080723_2005081423_20050817092405000_139115.exp
+/Users/boye/Smartgrid/data/sintef/raw/Buskerud/Innlest/Buskerud 2005/134_4_2_2005081423_2005082123_20050824121521000_139339.exp
+/Users/boye/Smartgrid/data/sintef/raw/Buskerud/Innlest/Buskerud 2005/134_4_2_2005082123_2005082823_20050831120051000_139557.exp
+/Users/boye/Smartgrid/data/sintef/raw/Buskerud/Innlest/Buskerud 2005/134_4_2_2005082823_2005090423_20050907091659000_139790.exp
+/Users/boye/Smartgrid/data/sintef/raw/Buskerud/Innlest/Buskerud 2005/134_4_2_2005090423_2005091123_20050914084419000_139998.exp
+/Users/boye/Smartgrid/data/sintef/raw/Buskerud/Innlest/Buskerud 2005/134_4_2_2005091123_2005091823_20050921093126000_140217.exp
+/Users/boye/Smartgrid/data/sintef/raw/Buskerud/Innlest/Buskerud 2005/134_4_2_2005091823_2005092523_20050928115800000_140514.exp
+/Users/boye/Smartgrid/data/sintef/raw/Buskerud/Innlest/Buskerud 2005/134_4_2_2005092523_2005100223_20051005085150000_140767.exp
+/Users/boye/Smartgrid/data/sintef/raw/Buskerud/Innlest/Buskerud 2005/134_4_2_2005100223_2005100923_20051012084324000_141006.exp
+/Users/boye/Smartgrid/data/sintef/raw/Buskerud/Innlest/Buskerud 2005/134_4_2_2005100923_2005101623_20051018132325000_141210.exp
+/Users/boye/Smartgrid/data/sintef/raw/Buskerud/Innlest/Buskerud 2005/134_4_2_2005101623_2005102323_20051026092621000_141439.exp
+/Users/boye/Smartgrid/data/sintef/raw/Buskerud/Innlest/Buskerud 2005/134_4_2_2005102323_2005103100_20051102103149000_141680.exp
+/Users/boye/Smartgrid/data/sintef/raw/Buskerud/Innlest/Buskerud 2005/134_4_2_2005103100_2005110700_20051109085910000_141889.EXP
+/Users/boye/Smartgrid/data/sintef/raw/Buskerud/Innlest/Buskerud 2005/134_4_2_2005110700_2005111400_20051116105844000_142201.exp
+/Users/boye/Smartgrid/data/sintef/raw/Buskerud/Innlest/Buskerud 2005/134_4_2_2005111400_2005112100_20051123090425000_142407.exp
+/Users/boye/Smartgrid/data/sintef/raw/Buskerud/Innlest/Buskerud 2005/134_4_2_2005112100_2005112800_20051130101630000_142621.exp
+/Users/boye/Smartgrid/data/sintef/raw/Buskerud/Innlest/Buskerud 2005/134_4_2_2005112800_2005120500_20051207091857000_142860.exp
+/Users/boye/Smartgrid/data/sintef/raw/Buskerud/Innlest/Buskerud 2005/134_4_2_2005120500_2005121200_20051214101302000_143182.exp
+/Users/boye/Smartgrid/data/sintef/raw/Buskerud/Innlest/Buskerud 2005/134_4_2_2005121200_2005121900_20051221093149000_143399.exp
+/Users/boye/Smartgrid/data/sintef/raw/Buskerud/Innlest/Buskerud 2005/134_4_2_2005121900_2005122600_20051228095932000_143633.exp
+/Users/boye/Smartgrid/data/sintef/raw/Buskerud/Innlest/Buskerud 2005/134_4_2_2005122600_2006010200_20060104125234000_143858.exp
+/Users/boye/Smartgrid/data/sintef/raw/Buskerud/Innlest/Buskerud 2005/140_4_2_2005011700_2005012400_20050128104005000_123736.exp
+/Users/boye/Smartgrid/data/sintef/raw/Buskerud/Innlest/Buskerud 2005/140_4_2_2005090423_2005091123_20050922134809000_140249.exp

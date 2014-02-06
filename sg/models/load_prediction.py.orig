@@ -1,0 +1,329 @@
+"""Initiates models, runs them through a genetic algorithm to find the
+optimal parameters, and tests the models in a production setting."""
+
+import random
+from datetime import timedelta as dt
+import itertools as it
+import math
+import sys
+import optparse
+import os
+import time
+import cPickle as pickle
+
+from pyevolve import GAllele
+import numpy as np
+import matplotlib.pyplot as plt
+from matplotlib.backends.backend_pdf import PdfPages
+import scipy
+import pandas as pd
+import Oger
+
+import sg.utils
+import sg.utils.genemapper as gm
+from sg.utils.timer import SimpleTimer
+from sg.utils import get_path, Normalizer
+from sg.data.sintef.create_full_temp_data import data as read_temperatures
+import sg.data.sintef.userloads as ul
+import sg.data.bchydro as bc
+from model import Model
+from ga import run_GA, ga_options
+import esn
+import pdb
+
+def float_err_handler(type, flag):
+    print >>sys.stderr, "================================================"
+    print >>sys.stderr, "==================== ERROR ====================="
+    print >>sys.stderr, "==================== ERROR ====================="
+    print >>sys.stderr, "Floating point error (%s), with flag %s" % (type, flag)
+    print >>sys.stderr, "==================== ERROR ====================="
+    print >>sys.stderr, "==================== ERROR ====================="
+    print >>sys.stderr, "================================================"
+    sys.stderr.flush()
+    raise RuntimeError("oh no!")
+
+class LPDataset(object):
+    def __init__(self, options):
+        self.user_id = self._get_userid(options)
+        self.bc_data = options.bc_data
+        self.total_load = options.total_load
+        self.rng = np.random.RandomState(options.data_seed)
+        (raw_train, raw_test) = self._prepare_dataset()
+        max_train_length = self._get_max_train_length() + dt(hours=48)
+        self._train_data = sg.data.Dataset(raw_train, max_train_length, dt(hours=24))
+        self._test_data = sg.data.Dataset(raw_test, max_train_length, dt(hours=24))
+        self._train_periods = self.rng.randint(0, self._train_data.num_periods, 
+                                               options.num_trials)
+        self.normalize_data = True
+
+    def train_data_iterator(self):
+        """Returns an iterator that, when called, returns a tuple containing
+        (training data input, correct output) for each training period. The
+        input includes a 24-hour weather "forecast"."""
+        def iterator():
+            for period in self.train_periods:
+                data = self._train_data.get_period(period).copy()
+                yield self._prep_dataset(data)
+        return iterator
+
+    def test_data_iterator(self):
+        """Returns an iterator that, when called, returns a tuple containing
+        (test data input, correct output) for each day of the test set. The
+        input includes a 24-hour weather "forecast"."""
+        def iterator():
+            for period in range(self._test_data.num_periods):
+                data = self._test_data.get_period(period).copy()
+                yield self._prep_dataset(data)
+        return iterator
+
+    def  _prep_dataset(self, data, predict_steps=24):
+        """Prepare a dataset containing 'Load' and 'Temperature': normalize
+        temp and load.  Move the last predict_steps timesteps of the load to a
+        separate series. Return (data meant for input, correct output, (temp
+        normalizer, load normalizer))."""
+        temp_norm = Normalizer(data['Temperature'])
+        load_norm = Normalizer(data['Load'])
+        data['Temperature'] = temp_norm.normalized
+        data['Load'] = load_norm.normalized
+        data_out = data['Load'][-predict_steps:].copy()
+        data['Load'][-predict_steps:] = np.nan
+        return (data, data_out, (temp_norm, load_norm))
+
+    def _get_max_train_length(self):
+        """Return max length of a training period. Should correspond to the
+        highest allowed value for the hindsight genome, or in case of R-tree,
+        to the entire dataset."""
+        return dt(hours=672)
+    
+    def _join_temp_and_load(self, temps, loads, period):
+        """Given temp and load time series and a period, return a
+        two-dimensional array containing temps and loads for the given
+        period."""
+        # Temperature and load readings may start and end at different times.
+        (l, t) = loads.align(temps, join="inner", axis=0)
+        frame = pd.concat((t, l['Load']), axis=1)
+        frame = frame.rename(columns={0:"Temperature", 1:"Load"})
+        return frame[period[0]:period[1]]
+
+    def _prepare_dataset(self):
+        """Return datasets for the experiment periods containing loads and
+        temperatures for the given user, or for all users in the experiment if
+        total_load is True."""
+        temps = read_temperatures()
+        print "User ID is %d." % self.user_id
+        loads = ul.tempfeeder_exp()[self.user_id]
+        return [self._join_temp_and_load(temps, loads, period) 
+                for period in ul.experiment_periods()]
+
+    def _get_userid(self, options):
+        if options.random_user:
+            return random.choice(ul.tempfeeder_exp().user_ids)
+        return options.userid
+
+    @property
+    def desc(self):
+        """A short description of the data set."""
+        return "user_%d" % self.user_id
+
+    @property
+    def train_periods(self):
+        """The start dates for the selected training data."""
+        return self._train_periods
+
+
+class LPTotalDataset(LPDataset):
+    def _prepare_dataset(self):
+        """Return datasets for the experiment periods containing the total load
+        for all users in the experiment."""
+        print "Using total load rather than per-user load."
+        temps = read_temperatures()
+        loads = pd.concat(ul.total_experiment_load())
+        return [self._join_temp_and_load(temps, loads, period) 
+                for period in ul.experiment_periods()]
+
+    @property
+    def desc(self):
+        """A short description of the data set (e.g. user ID or "total")."""
+        return "total_load"
+
+
+class BCHydroDataset(LPDataset):
+    def _prepare_dataset(self):
+        """Return datasets for the experiment periods containing the total load
+        for all users in the experiment."""
+        load = bc.load()
+        data = pd.DataFrame({'Load': load, 'Temperature': 0})
+        test_period_starts = "2010-03-15 00:00:00"
+        (train, test) = (data[:test_period_starts], data[test_period_starts:])
+        return (train, test)
+
+    @property
+    def desc(self):
+        """A short description of the data set."""
+        return "bc_hydro_no_temperatures"
+
+
+class ModelCreator(object):
+    def get_dataset(self, options):
+        """This function should create the an instance of a dataset class
+        according to the selected model and user options."""
+        if options.bc_data:
+            return BCHydroDataset(options)
+        elif options.total_load:
+            return LPTotalDataset(options)
+        else:
+            return LPDataset(options)
+
+    def get_model(self, options):
+        """This is where the models are defined. The models are passed to the
+        GA engine for evolution of the optimal set of parameters. Afterwards,
+        the models are tested, and performance is measured."""
+        raise NotImplementedError("This should be implemented in a subclass.")
+        
+def data_options(parser=None):
+    """Add data-related options to the parser. If no parser is provided, one
+    will be created."""
+    if parser is None:
+            parser = optparse.OptionParser()
+    parser.add_option("--userid", dest="userid", type="long", help="User/meter ID", default=55864860)
+    parser.add_option("--random-user", dest="random_user", action="store_true", help="Ignore the userid argument, pick a random user ID instead", default=False)
+    parser.add_option("--total-load", dest="total_load", action="store_true", help="Use total load for all meters", default=False)
+    parser.add_option("--bc-data", dest="bc_data", action="store_true", help="Use BC Hydro data set with constant temperature", default=False)
+    parser.add_option("--data-seed", dest="data_seed", type="int", help="Random seed used for selecting training periods", default=random.randrange(1, 2**16))
+    return parser
+
+def prediction_options(parser=None):
+    """Add prediction-related options to the parser. If no parser is provided, one
+    will be created."""
+    if parser is None:
+            parser = optparse.OptionParser()
+    parser.add_option("--seed", dest="seed", type="int", help="Evolution random seed", default=random.randrange(1, 2**16))
+    parser.add_option("--out-dir", dest="out_dir", help="Output directory for log files etc", default=".")
+    parser.add_option("--out-postfix", dest="out_postfix", help="Postfix for log files etc", default=str(os.getpid()))
+    parser.add_option("--save-plot", dest="save_plot", action="store_true", help="Save the plot of testset prediction to PDF", default=False)
+    parser.add_option("--no-show-plot", dest="no_show_plot", action="store_true", help="Create PDF plot of testset prediction, but don't show on screen", default=False)
+    parser.add_option("--no-plot", dest="no_plot", action="store_true", help="Do not create plots whatsoever (suitable for running simulations without display)", default=False)
+    parser.add_option("--no-cleaning", dest="no_cleaning", action="store_true", help="Disable smoothing and cleaning of input data", default=False)
+    return parser
+
+def get_options():
+    parser = prediction_options()
+    parser = ga_options(parser)
+    parser = data_options(parser)
+    (options, args) = parser.parse_args()
+    return options
+    
+def test_genome(genome, model):
+    """Run genome on test data. Return target values, indices of the start of
+    each 24-hr prediction, and a list of 24-hr predictions."""
+    loci = model.loci
+    target = pd.TimeSeries()
+    predictions = []
+    #pred_indices = []
+    hindsight = model.genome[loci.hindsight]
+    test_iter = model.dataset.test_data_iterator()
+    test_number = 1
+    for (data_in, data_out, normalizers) in test_iter():
+        cln_data = data_in if model.cleaning_disabled else \
+          model.clean_func(data_in, genome, loci)
+        model_out = model.train_and_predict_func(cln_data, genome,
+                                                 loci, model.day)
+        error = model.error_func(model_out, data_out)
+        print "Error for test at %s: %f" % (str(model_out.index[0]), error)
+        test_number += 1
+        target = target.combine_first(normalizers[1].expand(data_out))
+        predictions.append(normalizers[1].expand(model_out))
+        #pred_indices.append(range(start, start + day))
+    return target, predictions
+
+def _save_test_prediction(options, target, 
+                          predictions, data_desc):
+    path = get_path(options, "test_series_%s" % data_desc, "pickle")
+    with open(path, "a+") as f:
+        pickle.dump((target, predictions), f)
+
+def calc_error(predictions, target, error_func):
+    return error_func(np.concatenate(predictions, axis=0), target)
+
+def plot_test_prediction(options, target, predictions, 
+                         data_desc, error_func):
+    save_plot = options.save_plot
+    if save_plot:
+        pp_path = get_path(options, "prediction_%s" % data_desc, "pdf")
+        pp = PdfPages(pp_path)
+    error = calc_error(predictions, target, error_func)
+    if np.any(target == 0):
+        mapestr = "no MAPE due to 0's in observations"
+    else:
+        mapestr = 'MAPE = %3.2f' % calc_error(predictions, target, 
+                                              sg.utils.mape)
+    title = 'Prediction through test phase, %s, %i days, error with model ' \
+      'specified func = %3.2f, NRMSE = %3.2f, %s' % \
+      (data_desc, len(predictions), error, 
+       calc_error(predictions, target, Oger.utils.nrmse), mapestr)
+    print "%s." % title
+    plt.figure()
+    plt.title(title)
+    target.plot(style='b', label='Target')
+    pred_fmt = 'r-'
+    predictions[0].plot(style=pred_fmt, label='Prediction')
+    for i in range(1, len(predictions)):
+        predictions[i].plot(style=pred_fmt, label='_nolegend_')
+    plt.legend(loc=3)
+    if save_plot:
+        pp.savefig()
+        pp.close()
+    if not options.no_show_plot:
+        plt.show()
+
+def _run_models(models, dataset, options):
+    data_desc = dataset.desc
+    for model in models:
+        run_GA(model, options)
+        real_genome = model.genome
+        genome = gm.map_to_alleles(real_genome)
+        print "Best genome found during evolution: ", real_genome[:]
+        print "Best genome found shown as alleles: ", genome[:]
+        target, predictions = test_genome(genome, model)
+        _save_test_prediction(options, target, predictions, data_desc)
+        error = calc_error(predictions, target, model.error_func)
+        print "Error on test phase for best genome found, " \
+          "%s, %i days: %5.4f" % (data_desc, len(predictions), error)
+        if not options.no_plot:
+            plot_test_prediction(options, target, predictions, 
+                                 data_desc, model.error_func)
+
+def _print_sim_context(options):
+    """Print some info about the context in which the simulatotion was
+    performed."""
+    print "Command line was:", " ".join(sys.argv)
+    print "Process ID is: %d" % os.getpid()
+    sys.stdout.write("hg identify: ")
+    sys.stdout.flush()
+    os.system("hg identify")
+    sys.stdout.write("hg status: ")
+    sys.stdout.flush()
+    os.system("hg status")
+    print "\nUsing random seed %d" % options.seed
+
+def run(model_creator): 
+    """Main entry point for specific models. model_creator is an instance of a
+    class used to set up the model and the data."""
+    timer = SimpleTimer()
+    options = get_options()
+    prev_handler = np.seterrcall(float_err_handler)
+    prev_err = np.seterr(all='call')
+    random.seed(options.seed)
+    np.random.seed(options.seed)
+    dataset = model_creator.get_dataset(options)
+    model = model_creator.get_model(options)
+    model.dataset = dataset
+    model.day = 24
+    model.cleaning_disabled = options.no_cleaning
+    _run_models([model], dataset, options)
+    ul.tempfeeder_exp().close()
+    
+if __name__ == "__main__":
+    print "You should run one of the model-specific programs (e.g. "\
+      "load_prediction_esn) instead of this."
+

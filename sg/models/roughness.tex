@@ -1,0 +1,105 @@
+\documentclass[a4paper,10pt]{report}
+\usepackage[latin1]{inputenc}
+\usepackage{amssymb,amsmath,amsfonts}
+\usepackage[landscape]{geometry}
+\usepackage{nopageno}
+
+\pagestyle{plain} 
+
+\begin{document}
+
+\title{Roughness Calculation}
+
+Utgangspunkt, $x^n$ indikerer nte-derivert:
+\begin{align}
+B_{i, k}^{n} &= \frac{k}{t_{i+k} - t_{i}}B_{i,k-1}^{n-1} - \frac{k}{t_{i+k+1} - t_{i+1}}B_{i+1,k-1}^{n-1}
+\end{align}
+
+Ved $k=3$:
+\begin{align}
+B_{i, 3}^{'''} &= \frac{3}{t_{i+3} - t_i}B_{i,2}^{''} - \frac{3}{t_{i+4} - t_{i+1}}B_{i+1,2}^{''} \label{3rd}\\
+B_{i,2}^{''} &= \frac{2}{t_{i+2} - t_i}B_{i,2-1}^{2-1} - \frac{2}{t_{i+2+1} - t_{i+1}}B_{i+1,2-1}^{2-1} \notag \\
+              &= \frac{2}{t_{i+2} - t_i}B_{i,1}^{'} - \frac{2}{t_{i+3} - t_{i+1}}B_{i+1,1}^{'} \label{2nd}\\
+B_{i+1,2}^{''} &= \frac{2}{t_{i+1+2} - t_{i+1}}B_{i+1,2-1}^{2-1} - \frac{2}{t_{i+1+2+1} - t_{i+1+1}}B_{i+1+1,2-1}^{2-1} \notag \\
+                 &= \frac{2}{t_{i+3} - t_{i+1}}B_{i+1,1}^{'} - \frac{2}{t_{i+4} - t_{i+2}}B_{i+2,1}^{'}  \\
+B_{i,1}^{'} &= \frac{1}{t_{i+1} - t_{i}}B_{i,1-1}^{1-1} - \frac{1}{t_{i+1+1} - t_{i+1}}B_{i+1,1-1}^{1-1} \notag \\
+             &= \frac{1}{t_{i+1} - t_{i}}B_{i,0} - \frac{1}{t_{i+2} - t_{i+1}}B_{i+1,0} \\
+B_{i+1,1}^{'} &= \frac{1}{t_{i+1+1} - t_{i+1}}B_{i+1,1-1}^{1-1} - \frac{1}{t_{i+1+1+1} - t_{i+1+1}}B_{i+1+1,1-1}^{1-1} \notag \\
+                 &= \frac{1}{t_{i+2} - t_{i+1}}B_{i+1,0} - \frac{1}{t_{i+3} - t_{i+2}}B_{i+2,0} \\
+B_{i+2,1}^{'} &= \frac{1}{t_{i+2+1} - t_{i+2}}B_{i+2,1-1}^{1-1} - \frac{1}{t_{i+2+1+1} - t_{i+2+1}}B_{i+2+1,1-1}^{1-1} \notag \\
+                 &= \frac{1}{t_{i+3} - t_{i+2}}B_{i+2,0} - \frac{1}{t_{i+4} - t_{i+3}}B_{i+3,0} \label{1st}
+\end{align}
+
+Setter inn \ref{2nd} - \ref{1st} i \ref{3rd} og løser ut:
+\begin{align*}
+B_{i, 3}^{'''} &= \frac{3}{t_{i+3} - t_i}\left[\frac{2}{t_{i+2} - t_i}\left(\frac{1}{t_{i+1} - t_{i}}B_{i,0} - \frac{1}{t_{i+2} - t_{i+1}}B_{i+1,0}\right) - \frac{2}{t_{i+3} - t_{i+1}}\left(\frac{1}{t_{i+2} - t_{i+1}}B_{i+1,0} - \frac{1}{t_{i+3} - t_{i+2}}B_{i+2,0}\right)\right] \notag \\
+               &- \frac{3}{t_{i+4} - t_{i+1}}\left[\frac{2}{t_{i+3} - t_{i+1}}\left(\frac{1}{t_{i+2} - t_{i+1}}B_{i+1,0} - \frac{1}{t_{i+3} - t_{i+2}}B_{i+2,0}\right) - \frac{2}{t_{i+4} - t_{i+2}}\left(\frac{1}{t_{i+3} - t_{i+2}}B_{i+2,0} - \frac{1}{t_{i+4} - t_{i+3}}B_{i+3,0}\right)\right] \notag \\
+ \notag \\
+               &= \frac{3}{t_{i+3} - t_i}\frac{2}{t_{i+2} - t_i}\left(\frac{1}{t_{i+1} - t_{i}}B_{i,0} - \frac{1}{t_{i+2} - t_{i+1}}B_{i+1,0}\right) - \frac{3}{t_{i+3} - t_i}\frac{2}{t_{i+3} - t_{i+1}}\left(\frac{1}{t_{i+2} - t_{i+1}}B_{i+1,0} - \frac{1}{t_{i+3} - t_{i+2}}B_{i+2,0}\right) \notag \\
+               &- \frac{3}{t_{i+4} - t_{i+1}}\frac{2}{t_{i+3} - t_{i+1}}\left(\frac{1}{t_{i+2} - t_{i+1}}B_{i+1,0} - \frac{1}{t_{i+3} - t_{i+2}}B_{i+2,0}\right) + \frac{3}{t_{i+4} - t_{i+1}}\frac{2}{t_{i+4} - t_{i+2}}\left(\frac{1}{t_{i+3} - t_{i+2}}B_{i+2,0} - \frac{1}{t_{i+4} - t_{i+3}}B_{i+3,0}\right)  \notag \\
+ \notag \\
+               &= \frac{3}{t_{i+3} - t_i}\frac{2}{t_{i+2} - t_i}\frac{1}{t_{i+1} - t_{i}}B_{i,0} - \frac{3}{t_{i+3} - t_i}\frac{2}{t_{i+2} - t_i}\frac{1}{t_{i+2} - t_{i+1}}B_{i+1,0} \notag \\
+               &- \frac{3}{t_{i+3} - t_i}\frac{2}{t_{i+3} - t_{i+1}}\frac{1}{t_{i+2} - t_{i+1}}B_{i+1,0} + \frac{3}{t_{i+3} - t_i}\frac{2}{t_{i+3} - t_{i+1}}\frac{1}{t_{i+3} - t_{i+2}}B_{i+2,0} \notag \\
+               &- \frac{3}{t_{i+4} - t_{i+1}}\frac{2}{t_{i+3} - t_{i+1}}\frac{1}{t_{i+2} - t_{i+1}}B_{i+1,0} + \frac{3}{t_{i+4} - t_{i+1}}\frac{2}{t_{i+3} - t_{i+1}}\frac{1}{t_{i+3} - t_{i+2}}B_{i+2,0} \notag \\
+               &+ \frac{3}{t_{i+4} - t_{i+1}}\frac{2}{t_{i+4} - t_{i+2}}\frac{1}{t_{i+3} - t_{i+2}}B_{i+2,0} - \frac{3}{t_{i+4} - t_{i+1}}\frac{2}{t_{i+4} - t_{i+2}}\frac{1}{t_{i+4} - t_{i+3}}B_{i+3,0}  \notag \\
+ \notag \\
+               &= \frac{6}{(t_{i+3} - t_i)(t_{i+2} - t_i)(t_{i+1} - t_{i})}B_{i,0} \notag \\
+               &- \frac{6}{t_{i+2} - t_{i+1}} \left( \frac{1}{(t_{i+3} - t_i)(t_{i+2} - t_i)} + \frac{1}{(t_{i+3} - t_i)(t_{i+3} - t_{i+1})} + \frac{1}{(t_{i+4} - t_{i+1})(t_{i+3} - t_{i+1})} \right) B_{i+1,0} \notag \\
+               &+ \frac{6}{t_{i+3} - t_{i+2}} \left( \frac{1}{(t_{i+3} - t_i)(t_{i+3} - t_{i+1})} + \frac{1}{(t_{i+4} - t_{i+1})(t_{i+3} - t_{i+1})} + \frac{1}{(t_{i+4} - t_{i+1})(t_{i+4} - t_{i+2})} \right) B_{i+2,0} \notag \\
+               &- \frac{6}{(t_{i+4} - t_{i+1})(t_{i+4} - t_{i+2})(t_{i+4} - t_{i+3})}B_{i+3,0} \\
+\end{align*}
+
+Dette gir til slutt:
+\begin{align*}
+B_{i, 3}^{'''} &= c_0B_{i,0} + c_1 B_{i+1,0} + c_2 B_{i+2,0} + c_3 B_{i+3,0} \text{\qquad hvor:} \\
+c_0 &= \frac{6}{(t_{i+3} - t_i)(t_{i+2} - t_i)(t_{i+1} - t_{i})} \\
+c_1 &= - \frac{6}{t_{i+2} - t_{i+1}} \left( \frac{1}{(t_{i+3} - t_i)(t_{i+2} - t_i)} + \frac{1}{(t_{i+3} - t_i)(t_{i+3} - t_{i+1})} + \frac{1}{(t_{i+4} - t_{i+1})(t_{i+3} - t_{i+1})} \right) \\
+c_2 &= \frac{6}{t_{i+3} - t_{i+2}} \left( \frac{1}{(t_{i+3} - t_i)(t_{i+3} - t_{i+1})} + \frac{1}{(t_{i+4} - t_{i+1})(t_{i+3} - t_{i+1})} + \frac{1}{(t_{i+4} - t_{i+1})(t_{i+4} - t_{i+2})} \right) \\
+c_3 &= - \frac{6}{(t_{i+4} - t_{i+1})(t_{i+4} - t_{i+2})(t_{i+4} - t_{i+3})} \\
+\end{align*}
+
+Siden $B_{i,0} = 1$ kun for $t_i \le x < t_{i+1}$ og $0$ ellers, gir dette:
+\begin{align*}
+B_{i, 3}^{'''} &= \left\{ \begin{array}{l@{\quad:\quad}l}
+               c_0 &  t_i \leq x < t_{i+1}  \\
+               c_1 & t_{i+1} \leq x < t_{i+2}  \\
+               c_2 & t_{i+2} \leq x < t_{i+3}  \\
+               c_3 & t_{i+3} \leq x < t_{i+4}  \end{array} \right. \\
+\end{align*}
+
+\section*{Beregning av roughness (Chen et al.)}
+
+Vi ønsker å finne et uttrykk for (bruker $x$ heller enn $t$ som variabel):
+\begin{align*}
+R &= \int{D^2\vec{\phi}(x)D^2\vec{\phi}(x)^T \,\mathrm{d}x}
+\end{align*}
+
+Siden $\vec{\phi}$ er en kolonne-vektor, dette gir en $K \times K$ matrise med elementer:
+\begin{align*}
+R(i,j) &= \int{\phi_i^{''}(x) \phi_j^{''}(x) \,\mathrm{d}x}
+\end{align*}
+
+Hvis vi antar tredjegrads B-splines og lar $u = \phi_i^{''} = B_{i,3}^{''}$ og $v = \phi_j^{'} = B_{j, 3}^{'}$, så får vi vha ``integration by parts'':
+\begin{align*}
+R(i,j) &= \int{\phi_i^{''}(x) \phi_j^{''}(x) \,\mathrm{d}x} \\
+        &= \int{uv^{'}\,\mathrm{d}x} \\
+        &= uv - \int{u^{'}v\,\mathrm{d}x} \\
+        &= \phi_i^{''} \phi_j^{'} - \int{\phi_i^{'''}\phi_j^{'}\,\mathrm{d}x}
+\end{align*}
+
+som for $a < t_i < t_{i+4} < b$ gir det bestemte integralet
+\begin{align*}
+\int_{a}^b{\phi_i^{''}(x) \phi_j^{''}(x) \,\mathrm{d}x}  &= [\phi_i^{''} \phi_j^{'}]_{a}^{b} - \int_{a}^b{\phi_i^{'''}\phi_j^{'}\,\mathrm{d}x} \\
+  &= [\phi_i^{''} \phi_j^{'}]_{a}^{b} - c_0 \int_{t_i}^{t_{i+1}}{\phi_j^{'}\,\mathrm{d}x}
+      - c_1 \int_{t_{i+1}}^{t_{i+2}}{\phi_j^{'}\,\mathrm{d}x}
+      - c_2 \int_{t_{i+2}}^{t_{i+3}}{\phi_j^{'}\,\mathrm{d}x}
+      - c_3 \int_{t_{i+3}}^{t_{i+4}}{\phi_j^{'}\,\mathrm{d}x} \\
+  &= [\phi_i^{''} \phi_j^{'}]_{a}^{b} - c_0 [\phi_j]_{t_i}^{t_{i+1}}
+      - c_1 [\phi_j]_{t_{i+1}}^{t_{i+2}}
+      - c_2 [\phi_j]_{t_{i+2}}^{t_{i+3}}
+      - c_3 [\phi_j]_{t_{i+3}}^{t_{i+4}}
+\end{align*}
+
+\end{document}
+
+

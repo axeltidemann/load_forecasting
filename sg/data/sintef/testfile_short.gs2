@@ -1,0 +1,53 @@
+##Start-message
+#Id=PD-gs2exp -> LogNo: 2724
+#Message-type=Settlement-data
+#Version=1.2
+#Time=2006-01-10.20:46:36
+#To=9999
+#From=981915550
+#GMT-reference=1
+#Description=Verdier fra 'MVS Buskerud Kraft Nett'
+
+
+##Time-series
+#Start=2006-01-02.00:00:00
+#Stop=2006-01-08.24:00:00
+#Step=0000-00-00.01:00:00
+#Unit=kWh
+#Installation=16807             
+#Plant=3
+#Meter-location=1
+#Value=<
+ 0//0
+ 1.285//0
+ 0//0
+ 1.285//0
+ 0//0
+ 1.285//0
+ 0//0
+>
+#No-of-values=168
+#Sum=204.321
+#Description=4041 "ENERGI"
+
+##Time-series
+#Start=2006-01-02.00:00:00
+#Stop=2006-01-08.24:00:00
+#Step=0000-00-00.01:00:00
+#Unit=kWh
+#Installation=282475249         
+#Plant=3
+#Meter-location=1
+#Value=<
+ 2.2//0
+ 2.5//0
+ 2.8//0
+ 3.9//0
+>
+#No-of-values=168
+#Sum=464.5
+#Description=4041 "ENERGI"
+
+##End-message
+#Id=PD-gs2exp -> LogNo: 2724
+
