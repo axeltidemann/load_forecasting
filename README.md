@@ -13,5 +13,5 @@ If you use this software, please cite:
   year =         2015}
 ```
 
-Because of data property issues, we can only publish two datasets: GEFCOM 2012 and BCHydro. They are in the data.zip file. You will have to arrange the path to these data files accordingly in the source code. For installation instructions, see the getting_started.pdf. 
+Because of data property issues, we can only publish two datasets: GEFCOM 2012 and BCHydro. They are in the data.zip file. You will have to arrange the path to these data files accordingly in the source code. For installation instructions, see getting_started.pdf. 
 
