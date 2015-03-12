@@ -3,5 +3,15 @@ load-forecasting
 
 A framework for load forecasting, where seasonal cycles are removed from the input signal. A genetic algorithm is used to parameterize various forecasting models.
 
-Note: accessing the data files does not work currently - there is one dataset we cannot publish. This will be resolved shortly, and we will make the others available. However, all the other source code
-is available, and it should be (relatively) straightforward to use the system with another dataset. 
+If you use this software, please cite:
+
+```
+@Article{hoverstadr:_three_stage_approac_load_forec,
+  author =       {Boye Annfelt Høverstad and Axel Tidemann and Helge Langseth and Pinar {\"O}zt{\"u}rk},
+  title =        {Short term load forecasting with seasonal decomposition using evolution for parameter tuning},
+  journal =      {IEEE Transactions on Smart Grid},
+  year =         2015}
+```
+
+Because of data property issues, we can only publish two datasets: GEFCOM 2012 and BCHydro. They are in the data.zip file. You will have to arrange the path to these data files accordingly in the source code. For installation instructions, see the getting_started.pdf. 
+
