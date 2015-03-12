@@ -3,6 +3,8 @@ import collections
 import matplotlib.pyplot as plt
 import scipy
 import numpy as np
+from scipy import interpolate
+import pandas as pd
 
 def binomialcoefficient(n, k):
     """Binomial coefficient from Wikipedia. Probably slow, but will do when n
@@ -169,6 +171,135 @@ def bsplinefunc(knots, points):
         return pt
     return c
 
+class SplineEnvelope(object):
+    def __init__(self, series, period):
+        """Set up the envelope around 'series', using a spline that interpolates
+        the max and min values with each 'period'. 'period' can be any
+        code accepted as a frequency by Pandas.Grouper, such as 'D',
+        'W', 'Q', 'A': daily, weekly, quarterly, yearly
+        ("Annual"). 'series' is assumed to be a Pandas timeseries
+        (i.e. a Series with datetime index).
+
+        """
+        self._series = series
+        grouped = series.groupby(pd.Grouper(freq=period)) # Grouper requires Pandas >= 0.14.0
+        self._xall = self._to_xcoords(self._series)
+        self._lower_interp, self._lower_points = self._find_envelope(grouped, 'lower')
+        self._upper_interp, self._upper_points = self._find_envelope(grouped, 'upper')
+
+    def _adjust_envelope(self, points, cmp_op):
+        """Create interpolating envelope based on boundary points 'points'."""
+        # """Based on the initial boundary points 'points', adjust the envelope
+        # such that it is below (above) every point in self._series,
+        # according to comparison operation 'cmp_op', and by more than a
+        # numerical tolerance.
+
+        # """
+        points_ext = self._extend(points)
+        x = self._to_xcoords(points_ext)
+        interpolator = interpolate.InterpolatedUnivariateSpline(x, points_ext.values)
+        envelope = interpolator(self._xall)
+        outside = cmp_op(envelope, self._series)
+        untolerated = np.logical_not(np.isclose(envelope, self._series))
+        misses = np.where(np.logical_and(outside, untolerated))[0]
+        # This part, which makes sure every data point is inside the
+        # envelope, didn't work too well. It tends to include two or
+        # more adjacent points, which in turn makes for a large
+        # derivative and a nasty-looking envelope.
+        # if len(misses) > 0:
+        #     print "Including these misses in interpolation points:", misses
+        #     points = points.combine_first(self._series[misses])
+        #     return self._adjust_envelope(points, cmp_op)
+        return interpolator, points_ext
+        
+    def _find_envelope(self, grouped, which):
+        """Find the upper or lower envelope of the series after grouping."""
+        if which == 'lower':
+            trans = lambda x : x == x.min()
+            cmp_op = np.greater
+        else:
+            trans = lambda x : x == x.max()
+            cmp_op = np.less
+        points = self._series[np.where(grouped.transform(trans))[0]]
+        return self._adjust_envelope(points, cmp_op)
+
+    def _extend(self, points):
+        """Return a new series where the endpoints have been extended to include
+        the start and end times of the original timeseries. 
+
+        """
+        # Make sure not to include an endpoint if it is already in the
+        # series: duplicates will break the spline interpolation
+        # routine.
+        subseries = []
+        if points.index[0] != self._series.first_valid_index():
+            subseries.append(pd.Series(points.iloc[0], index=[self._series.first_valid_index()]))
+        subseries.append(points)
+        if points.index[-1] != self._series.last_valid_index():
+            subseries.append(pd.Series(points.iloc[-1], index=[self._series.last_valid_index()]))
+        return pd.concat(subseries)
+    
+    def _to_xcoords(self, points):
+        """Return array containing x coordinates for 'points',
+        relative to the start of 'self._series'.
+
+        Assumes temporal resolution of series is << seconds.
+
+        """
+        x0 = self._series.first_valid_index()
+        return points.index.map(lambda x : (x - x0).total_seconds())
+
+    def lower_envelope(self, points):
+        """Evaluate the lower envelope spline for the series 'points'."""
+        return pd.Series(self._lower_interp(self._to_xcoords(points)),
+                         index=points.index)
+
+    def upper_envelope(self, points):
+        """Evaluate the upper envelope spline for the series 'points'."""
+        return pd.Series(self._upper_interp(self._to_xcoords(points)),
+                         index=points.index)
+
+    def get_interpolation_points(self):
+        """Return the points used in interpolation"""
+        return self._lower_points, self._upper_points
+
+    def flip(self, series=None):
+        """Return 'series', or self._series if 'series' is None, flipped
+        relative to the envelope.
+
+        """
+        if series is None:
+            series = self._series
+        lower = self.lower_envelope(series)
+        upper = self.upper_envelope(series)
+        return upper - (series - lower)
+
+def create_and_plot_envelope(series, period):
+    import matplotlib.pyplot as plt
+    splenv = SplineEnvelope(series, period)
+    if period == 'A':
+        upsampled = series
+    else:
+        upsampled = series.resample('Min')
+    lower = splenv.lower_envelope(upsampled)
+    upper = splenv.upper_envelope(upsampled)
+    flipped = splenv.flip(series)
+    points = splenv.get_interpolation_points()
+    axis_sub = series.plot(style='b')
+    axis_sub.lines[-1].set_label('Original data')
+    axis_sub = lower.plot(style='c')
+    axis_sub.lines[-1].set_label('Envelope')
+    axis_sub = upper.plot(style='c')
+    axis_sub.lines[-1].set_label('_nolegend_')
+    axis_sub = points[0].plot(style='kx')
+    axis_sub.lines[-1].set_label('Interpolation points')
+    axis_sub = points[1].plot(style='kx')
+    axis_sub.lines[-1].set_label('_nolegend_')
+    axis_sub = flipped.plot(style='r--')
+    axis_sub.lines[-1].set_label('Inverted timeseries')
+    plt.legend()
+    return splenv
+    
 def bsplinederivfunc(knots, points, nderiv):
     """Given knots and control points, returns a closure that will calculate
     the nderiv'th derivative of the B-spline curve or surface using Cox-de Boor

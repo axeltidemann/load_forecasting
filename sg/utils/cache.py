@@ -38,7 +38,7 @@ class ATimeCache(object):
         value = self._cache.pop(key)
         self._cache[key] = value
         return value
-        
+
     def __setitem__(self, key, value):
         if self._cache.has_key(key):
             self._cache.pop(key)
@@ -50,6 +50,13 @@ class ATimeCache(object):
 
     def __str__(self):
         return self.cache.__str__()
+
+    def __iter__(self):
+        # Iterate directly on the underlying dict, rather than on this
+        # class, in order to change the order of cached items (as
+        # opposed to []/__getitem__, which will reinsert an item on top
+        # of the stack whenever it is looked up.
+        return iter(self._cache)
 
 if __name__ == "__main__":
     from unittest import main

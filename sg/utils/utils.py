@@ -10,6 +10,49 @@ from scipy.linalg import qr
 from numpy.linalg import solve, inv
 from numpy import dot
 import matplotlib.pyplot as plt
+import pandas as pd
+
+def add_shadowscatter(axes, x, y, z, **kwargs):
+    '''Add "shadow" projections on each plane to an existing scatter
+    plot. Disables autoscaling, otherwise it is impossible to position
+    the projections on each "wall" (the axis limits will be automatically
+    readjusted).
+
+    '''
+    ones = np.ones(len(x))
+    mrgx, mrgy, mrgz = axes.margins()
+    side = 0 if axes.elev > 0 else 1
+    offset = -1 if side == 0 else 1
+    xy_plane = (ones + offset * mrgz) * axes.get_zlim()[side]
+
+    side = 0 if 0 < axes.azim < 180 else 1
+    offset = -1 if side == 0 else 1
+    xz_plane = (ones + offset * mrgy) * axes.get_ylim()[side]
+
+    side = 0 if abs(axes.azim) < 90 else 1
+    offset = -1 if side == 0 else 1
+    yz_plane = (ones + offset * mrgx) * axes.get_xlim()[side]
+
+    axes.autoscale(enable=False)
+    mykwargs = {'depthshade': False, 'alpha': 1, 'marker': '+', 'c':'0.25'}
+    for key in mykwargs.viewkeys() - kwargs.viewkeys():
+        kwargs[key] = mykwargs[key]
+    axes.scatter3D(x, y, xy_plane, **kwargs)
+    axes.scatter3D(x, xz_plane, z, **kwargs)
+    axes.scatter3D(yz_plane, y, z, **kwargs)
+    pkwargs = {'color':'0', 'linestyle':'dotted', 'alpha': 1}
+    for i in range(len(x)):
+        axes.plot([x[i], x[i]], [y[i], y[i]], [z[i], xy_plane[0]], **pkwargs)
+        axes.plot([x[i], x[i]], [y[i], xz_plane[0]], [z[i], z[i]], **pkwargs)
+        axes.plot([x[i], yz_plane[0]], [y[i], y[i]], [z[i], z[i]], **pkwargs)
+    return axes
+
+
+def fahrenheit_to_celsius(deg_f):
+    return (deg_f - 32) * 5./9
+
+def celsius_to_fahrenheit(deg_c):
+    return deg_c * 9./5 + 32
 
 def get_path(options, base, extension):
     """Return a path, using out_dir and out_postfix from options. The final
@@ -82,23 +125,61 @@ def safe_shallow_flatten(l):
         else:
             yield el
 
+def _slow_pinball_error(quantile_forecasts, observed):
+    """This is the slow but readable version of the pinball error. Should
+    give the same results as pinball_error below.
+
+    """
+    
+    loss = 0
+    for qf, y in zip(quantile_forecasts, observed):
+        for a, qa in zip(np.linspace(0.01, 0.99, 99), qf):
+            loss += (1 - a) * (qa - y) if qa > y else a * (y - qa)
+    return loss / (len(observed) * 99)
+
+def pinball_error(quantile_forecasts, observed):
+    """Pinball error function for quantile forecasts, as defined here:
+    http://robjhyndman.com/hyndsight/gefcom2014/
+
+    """
+    if len(observed.shape) == 1:
+        observed = observed.copy()
+        observed.shape += (1,)
+    diff = quantile_forecasts - observed
+    quantiles = np.linspace(0.01, 0.99, 99).reshape(1,99)
+    above = diff * (1 - quantiles)
+    below = -diff * quantiles
+    results = np.empty(diff.shape)
+    mask = diff > 0
+    results[mask] = above[mask]
+    not_mask = np.logical_not(mask)
+    results[not_mask] = below[not_mask]
+    return results.mean()
+
+def mean_absolute_error(forecasted, observed):
+    return np.mean(np.abs(forecasted.flatten() - observed.flatten()))
+
+mae = mean_absolute_error
+
 def mean_absolute_percent_error(forecasted, observed):
     """Mean absolute percentage error is an error measure typically used when
     comparing forecaster performance."""
     if np.any(observed == 0):
         raise ValueError("Don't know how to calculate MAPE when the " \
-                         "observed value is 0.") 
-    all_errors = abs((observed - forecasted) / observed)
-    return all_errors.sum() / len(observed) * 100
+                         "observed value is 0.")
+    all_errors = np.abs(observed.flatten() - forecasted.flatten()) / observed.flatten()
+    return all_errors.mean() * 100
 
 def mean_absolute_percent_error_skip_zeros(forecasted, observed):
     """Mean absolute percentage error is an error measure typically used when
     comparing forecaster performance. This variation calculates MAPE only for
     the entries where the observed value is non-zero. It returns a tuple (MAPE,
     fraction_nonzero_elements)"""
-    nz = np.where(observed != 0)[0]
-    all_errors = abs((observed[nz] - forecasted[nz]) / observed[nz])
-    return (all_errors.sum() / len(nz) * 100, float(len(nz)) / len(observed))
+    fflat = forecasted.flatten()
+    oflat = observed.flatten()
+    nz = np.where(oflat != 0)[0]
+    mapesz = mean_absolute_percent_error(fflat[nz], oflat[nz])
+    return mapesz, float(len(nz)) / len(oflat)
 
 def mean_absolute_percent_error_plus_one(forecasted, observed, divadd=1.0):
     """Mean absolute percentage error is an error measure typically used when
@@ -250,8 +331,13 @@ def hook_chainer(old_hook, new_hook):
         new_hook(states, input, timestep)
     return chainer
 
-def calc_error(predictions, target, error_func):
-    return np.mean([error_func(p, target[p.index]) for p in predictions])
+def concat_and_calc_error(predictions, target, error_func):
+    all_preds = pd.concat(predictions)
+    assert len(all_preds.index) == len(target.index),\
+           'List of predictions did not match target. '\
+           'Predictions missing or overlap?'
+    assert(np.all(all_preds.index == target.index))
+    return error_func(all_preds.values, target.values)
 
 def calc_median_error(predictions, target, error_func):
     return np.median([error_func(p, target[p.index]) for p in predictions])
@@ -308,6 +394,48 @@ def ask_user(prompt, default_yes=True):
     if answer in no:
         return False
     raise LogicError("Bug in code, you should not have come here.")
+
+
+def n_fold_random(n_samples, n_folds, rng=None):
+    '''Taken from Oger n_fold_random, just added support for supplying the
+    random number generator as input argument.
+
+    n_fold_random(n_samples, n_folds) -> train_indices, test_indices
+    
+    Return indices to do random n_fold cross_validation. Two lists are returned, with n_folds elements each.
+        - train_indices contains the indices of the dataset used for training
+        - test_indices contains the indices of the dataset used for testing
+
+    '''
+    import mdp
+    
+    if n_folds <= 1:
+        raise Exception('Number of folds should be larger than one.')
+
+    if n_folds > n_samples:
+        raise Exception('Number of folds (%d) cannot be larger than the number of samples (%d).'%(n_folds, n_samples))
+
+    if rng is None:
+        randperm = mdp.numx.random.permutation(n_samples)
+    else:
+        randperm = rng.permutation(n_samples)
+    train_indices, test_indices = [], []
+    foldsize = int(mdp.numx.floor(float(n_samples) / n_folds))
+
+    for fold in range(n_folds):
+        # Select the sample indices used for testing
+        test_indices.append(randperm[fold * foldsize:foldsize * (fold + 1)])
+        # Select the rest for training
+        train_indices.append(mdp.numx.array(mdp.numx.setdiff1d(randperm, test_indices[-1])))
+    return train_indices, test_indices
+
+def normalized_weighted_mean(data, weights):
+    '''Normalize weights so they sum to one, then use the result to estimate
+    the weighted mean of the data.
+
+    '''
+    nw = weights / weights.sum()
+    return (data * nw).sum(axis=1)
 
 
 if __name__ == "__main__":

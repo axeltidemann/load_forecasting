@@ -14,9 +14,9 @@ def daily_average(data, genome, loci, prediction_steps):
 
 
 class DailyAverageModelCreator(lpah.HourlyAverageModelCreator):
-    def _get_transformer(self):
+    def _get_transform(self):
         return daily_average
 
 
 if __name__ == "__main__":
-    load_prediction.run(DailyAverageModelCreator())
+    load_prediction.run(DailyAverageModelCreator)

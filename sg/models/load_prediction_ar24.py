@@ -9,42 +9,18 @@ from model import Model
 import arima
 import load_cleansing
 import load_prediction
+import load_prediction_ar
 
-class ARHourByHourModelCreator(load_prediction.ModelCreator):
-    def get_model(self, options):
-        """Sets up for evolution of the ARIMA model."""    
-        alleles = pu.AllelesWithOperators()
-        alleles.add(pu.make_int_gene(1, 1, 8, 1)) # 'AR' backshift (p)
-        self.add_hindsight(alleles)
-        self.add_cleaning(options, alleles)        
-        loci_list = ['AR_order', 'hindsight']
-        if not options.no_cleaning:
-            loci_list += ['t_smooth', 'l_smooth', 't_zscore', 'l_zscore']
-        loci = sg.utils.Enum(*loci_list)    
-        return Model(self.__class__.__name__, 
-                     genes=alleles, 
-                     error_func=self._get_error_func(options),
-                     transformer=arima.hourbyhour_ar_ga,
-                     loci=loci)
+class ARHourByHourModelCreator(load_prediction_ar.ARModelCreator):
+    def _get_transform(self):
+        return arima.hourbyhour_ar_ga
 
-class ARHourByHourBitmapModelCreator(load_prediction.ModelCreator):
-    def get_model(self, options):
-        """Sets up for evolution of the ARIMA model."""    
-        alleles = pu.AllelesWithOperators()
-        alleles.add(pu.make_bitmap_gene(24*7)) # AR lags bitmap 
-        alleles.add(pu.make_bitmap_gene(24*7)) # AR lags bitmap 
-        self.add_hindsight(alleles)
-        self.add_cleaning(options, alleles)        
-        loci_list = ['lags_temp', 'lags_load', 'hindsight']
-        if not options.no_cleaning:
-            loci_list += ['t_smooth', 'l_smooth', 't_zscore', 'l_zscore']
-        loci = sg.utils.Enum(*loci_list)
-        return Model(self.__class__.__name__, 
-                     genes=alleles, 
-                     error_func=self._get_error_func(options),
-                     transformer=arima.bitmapped_hourbyhour_ar_ga,
-                     loci=loci)
+
+class ARHourByHourBitmapModelCreator(load_prediction_ar.ARBitmapModelCreator):
+    def _get_transform(self):
+        return arima.bitmapped_hourbyhour_ar_ga
+
 
 if __name__ == "__main__":
-    load_prediction.run(ARHourByHourModelCreator())
+    load_prediction.run(ARHourByHourModelCreator)
     #load_prediction.run(ARHourByHourBitmapModelCreator())

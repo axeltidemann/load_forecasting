@@ -36,7 +36,7 @@ children() {
     ps -o pid,ppid,command | grep "[0-9][0-9]*[[:space:]]\+$$" | awk '{print $1}'
 }
 
-for dataset in "" _total-load _bc-data; do
+for dataset in _gef-data _gef-temp-data; do
     if [ -z "$dataset" ]; then
         ymax=0.7
     elif [ "$dataset" == "_total-load" ]; then
@@ -44,16 +44,16 @@ for dataset in "" _total-load _bc-data; do
     else
         ymax=0.009
     fi
-    for model in wavelet arima arima_24 bmparima esn CBR; do
-	clean=_no-cleaning # Axl: Everything is without cleaning. To avoid errors in the following loop (cleaning
+    for model in ar; do
+	clean="" #_no-cleaning # Axl: Everything is without cleaning. To avoid errors in the following loop (cleaning
                            # and subtract can not be in the same parameter, since they both exist in the filename), 
 	                   # this is where the clean parameter loop should be.
-        for subtract in "" _subtract-weekly-pattern _subtract-daily-pattern; do
+        for subtract in _subtract-weekly-pattern ; do
             # Find the relevant log files. Using 'find' to ensure regexp search
             # rather than full wildcard matching on the '*' in the filename.
             GREP=bzgrep
             ext=txt.bz2
-            pattern="./output_${model}_run_[0-9]*${dataset}${subtract}${clean}_100_0" # Axl note: _100_0 was added. 
+            pattern="./output_${model}_run_[0-9]*${dataset}${subtract}${clean}_100_0_zone_1" # Axl note: _100_0 was added. 
             logs=`find . -regex "$pattern.${ext}"`
             if [ -z "$logs" ]; then
                 echo -e "\nNo matches for $pattern.${ext}, trying non-compressed files."

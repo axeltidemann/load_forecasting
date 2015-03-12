@@ -51,7 +51,7 @@ def process_data(data_in, genome, model, loci):
     for preproc in model.preprocessors:
         data_now = preproc(data_now, genome, loci, model.day)
     model_out = model.transformer(data_now, genome, loci, model.day)
-    for postproc in model.postprocessors:
+    for postproc in reversed(model.postprocessors):
         model_out = postproc(model_out, genome, loci)
     return model_out
     
@@ -76,8 +76,9 @@ def _fitness(indiv):
         except KeyError:
             _cache_mutex.release()
             model_out = process_data(data_in, genome, model, loci)
-            assert(np.all(model_out.index == data_out.index))
-            error = model.error_func(model_out, data_out)
+            
+            assert(np.all(model_out.index == data_out.index))            
+            error = model.error_func(model_out.values, data_out.values)
             _cache_mutex.acquire()
             _cache[key] = error
         _cache_mutex.release()
@@ -107,8 +108,12 @@ def _fitness(indiv):
     else:
         error = test_loop()
     error = float(error) / num_trials
-    #print "AR length %d got error %f." % (genome[loci.AR_order], error)
-    return _error_to_fitness(error)
+    fitness = _error_to_fitness(error)
+    if np.isnan(fitness):
+        print >>sys.stderr, "Evaluation resulted in NaN fitness. Setting " \
+            "to 0 to avoid propagation during fitness scaling."
+        fitness = 0
+    return fitness
 
 def print_best_genome(ga_engine):
     best = ga_engine.bestIndividual()
@@ -251,7 +256,7 @@ def run_GA(model, options=None):
 
     if options.MPI:
         from sg.utils.pyevolve_mpi import SimpleMPIGA
-        ga = SimpleMPIGA(genome, seed=options.seed)
+        ga = SimpleMPIGA(model, genome, seed=options.seed)
         if not is_mpi_slave(options):
             print "MPI-distributed evolution with %d hosts." % ga.nhosts
             _print_mpi_info()

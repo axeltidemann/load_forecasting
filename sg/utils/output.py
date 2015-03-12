@@ -7,6 +7,7 @@ import glob
 import re
 import os
 import datetime
+import sys
 
 import matplotlib.pyplot as plt
 from mpl_toolkits.mplot3d import Axes3D
@@ -15,7 +16,7 @@ import numpy as np
 import Oger
 import pandas as pd
 
-from utils import calc_error, plot_target_predictions
+from utils import concat_and_calc_error, plot_target_predictions
 import sg.models.load_prediction as load_prediction
 import sg.models.load_prediction_esn as load_prediction_esn
 import sg.models.esn as esn
@@ -24,8 +25,11 @@ from sg.globals import SG_SIM_PATH
 def load_pickled_prediction(path):
     """Load a pickled prediction from the given path. The result is a "double
     tuple": (target, (prediction_day_1, ..., prediction_day_n))."""
-    with open(path, "r") as f:
-        return pickle.load(f)
+    # pickle.load() fails when trying to unpickle files pickled with an
+    # older version of pandas.
+    # with open(path, "r") as f:
+    #    return pickle.load(f)
+    return pd.read_pickle(path)
 
 def plot_pickled_prediction(path):
     plot_target_predictions(*load_pickled_prediction(path))
@@ -52,8 +56,8 @@ def split_and_validate(datasets, split_point=0.5,
     [(error_l, error_r), ((target_l, predictions_l), (target_r, predictions_r))), ...].
     """
     split_sets = [split_dataset(dataset, split_point) for dataset in datasets]
-    return [((calc_error(split[0][1], split[0][0], error_func), 
-              calc_error(split[1][1], split[1][0], error_func)), 
+    return [((concat_and_calc_error(split[0][1], split[0][0], error_func), 
+              concat_and_calc_error(split[1][1], split[1][0], error_func)), 
               split) for split in split_sets]
 
 def sort_data_by_validation_error(datasets, split_point=0.5, 
@@ -82,6 +86,7 @@ def sort_paths_by_validation_error(paths, split_point=0.5,
     return with_paths
 
 def matching_paths(*wildcards):
+    #print >>sys.stderr, 'Searching for paths matching:', wildcards
     paths = glob.glob(wildcards[0])
     for wc in wildcards[1:]:
         paths = [path for path in paths if re.search(wc, path) is not None]

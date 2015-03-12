@@ -26,7 +26,7 @@ _TEMP_DATA = os.path.join(SG_DATA_PATH, "eklima", "Telemark",
 _PATH_TO_HERE = os.path.dirname(os.path.abspath(__file__))
 
 def data():
-    temp = pd.load(os.path.join(_PATH_TO_HERE, 'temp_data.pickle'))
+    temp = pd.read_pickle(os.path.join(_PATH_TO_HERE, 'temp_data.pickle'))
     temp = temp.sort_index().asfreq("H")
     # Extended periods with failed readings, replace with Gvarv
     temp['2004-11-11 14:00':'2004-11-21 23:00'] = np.nan
@@ -39,16 +39,18 @@ def data():
     # temp['2006-12-19 06:00':'2006-12-21 03:00'] = np.nan
     gvarv = xml.parse(_TEMP_DATA)[temp.index[0]:].asfreq("H")
     gvarv_aligned = temp.align(gvarv, join="left")[1]
-    filled = np.where(np.isnan(temp), gvarv_aligned, temp)
-    filled = filled.interpolate()
-    filled.name = "Temperature"
-    # Interpolata away a couple of outliers and zero-recordings, or leave to
+    # np.where returned a Pandas Timeseries with old Numpy, but now
+    # returns an ndarray. Therefore we need to reassign to temp.
+    temp[:] = np.where(np.isnan(temp), gvarv_aligned, temp)
+    temp = temp.interpolate()
+    temp.name = "Temperature"
+    # Interpolate away a couple of outliers and zero-recordings, or leave to
     # cleansing?
-    # filled['2004-11-29 08:00'] = np.nan
-    # filled['2005-11-30 00:00':'2005-11-30 02:00'] = np.nan
-    # filled['2006-10-27 09:00'] = np.nan
-    # filled = filled.interpolate()
-    return filled
+    # temp['2004-11-29 08:00'] = np.nan
+    # temp['2005-11-30 00:00':'2005-11-30 02:00'] = np.nan
+    # temp['2006-10-27 09:00'] = np.nan
+    # temp = temp.interpolate()
+    return temp
     
 if __name__ == "__main__":
     data = data()

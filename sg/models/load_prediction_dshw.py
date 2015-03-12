@@ -12,44 +12,28 @@ import load_cleansing
 import load_prediction
 
 class DSHWModelCreator(load_prediction.ModelCreator):
-    def get_model(self, options):
+    def _add_transform_genes(self):
         """Sets up for evolution of the DSHW model."""
-        alleles = pu.AllelesWithOperators()
-        self.add_hindsight(alleles)
-        alleles.add(pu.make_real_gene(1, 0, 1, .1), weight=1) # alpha
-        alleles.add(pu.make_real_gene(1, 0, 1, .1), weight=1) # beta
-        alleles.add(pu.make_real_gene(1, 0, 1, .1), weight=1) # gamma
-        alleles.add(pu.make_real_gene(1, 0, 1, .1), weight=1) # omega
-        alleles.add(pu.make_real_gene(1, 0, 1, .1), weight=1) # phi
-        self.add_cleaning(options, alleles)
-        loci_list = ['hindsight', 'alpha', 'beta', 'gamma', 'omega', 'phi']
-        if not options.no_cleaning:
-            loci_list += ['t_smooth', 'l_smooth', 't_zscore', 'l_zscore']
-        loci = sg.utils.Enum(*loci_list)
-        transformer=arima.dshw
-        return Model(self.__class__.__name__, 
-                     genes=alleles, 
-                     error_func=self._get_error_func(options),
-                     transformer=transformer,
-                     loci=loci)
+        self._alleles.add(pu.make_real_gene(1, 0, 1, .1), weight=1) # alpha
+        self._alleles.add(pu.make_real_gene(1, 0, 1, .1), weight=1) # beta
+        self._alleles.add(pu.make_real_gene(1, 0, 1, .1), weight=1) # gamma
+        self._alleles.add(pu.make_real_gene(1, 0, 1, .1), weight=1) # omega
+        self._alleles.add(pu.make_real_gene(1, 0, 1, .1), weight=1) # phi
+        self._loci_list += ['alpha', 'beta', 'gamma', 'omega', 'phi']
+
+    def _get_transform(self):
+        return arima.dshw
+
 
 class AutoDSHWModelCreator(load_prediction.ModelCreator):
-    def get_model(self, options):
+    def _add_transform_genes(self):
         """Sets up for evolution of the DSHW model."""
-        alleles = pu.AllelesWithOperators()
-        self.add_hindsight(alleles)
-        self.add_cleaning(options, alleles)
-        loci_list = ['hindsight']
-        if not options.no_cleaning:
-            loci_list += ['t_smooth', 'l_smooth', 't_zscore', 'l_zscore']
-        loci = sg.utils.Enum(*loci_list)
-        transformer=arima.auto_dshw
-        return Model(self.__class__.__name__, 
-                     genes=alleles, 
-                     error_func=self._get_error_func(options),
-                     transformer=transformer,
-                     loci=loci)
+        pass
+
+    def _get_transform(self):
+        return arima.auto_dshw
+
 
 if __name__ == "__main__":
-    load_prediction.run(DSHWModelCreator())
+    load_prediction.run(DSHWModelCreator)
     #load_prediction.run(AutoDSHWModelCreator())

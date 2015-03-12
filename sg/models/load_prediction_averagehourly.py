@@ -21,24 +21,14 @@ def hourly_average(data, genome, loci, prediction_steps):
                          index=data.index[-prediction_steps:])
 
 class HourlyAverageModelCreator(load_prediction.ModelCreator):
-    def _get_transformer(self):
-        return hourly_average
-        
-    def get_model(self, options):
+    def _add_transform_genes(self):
         """Sets up for evolution of the ARIMA model."""
-        alleles = pu.AllelesWithOperators()
-        self.add_hindsight(alleles)
-        alleles.add(pu.make_real_gene(1, 0, 1, 0.1)) # Dummy to make 1D crossover work in Pyevolve
-        self.add_cleaning(options, alleles)
-        loci_list = ['hindsight', 'crossover_dummy']
-        if not options.no_cleaning:
-            loci_list += ['t_smooth', 'l_smooth', 't_zscore', 'l_zscore']
-        loci = sg.utils.Enum(*loci_list)
-        return Model(self.__class__.__name__, 
-                     genes=alleles, 
-                     error_func=self._get_error_func(options),
-                     transformer=self._get_transformer(),
-                     loci=loci)
+        self._alleles.add(pu.make_real_gene(1, 0, 1, 0.1)) # Dummy to make 1D crossover work in Pyevolve
+        self._loci_list += ['crossover_dummy']
+
+    def _get_transform(self):
+        return hourly_average
+
 
 if __name__ == "__main__":
-    load_prediction.run(HourlyAverageModelCreator())
+    load_prediction.run(HourlyAverageModelCreator)

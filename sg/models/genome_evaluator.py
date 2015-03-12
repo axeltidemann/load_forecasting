@@ -4,6 +4,7 @@ input."""
 import sys
 import ast
 import traceback
+import random
 
 import matplotlib.pyplot as plt
 
@@ -12,15 +13,18 @@ import sg.utils
 import ga
 import sg.data.sintef.userloads as ul
 import load_prediction as lp
-from load_prediction_CBR import *
 from load_prediction_ar import *
 from load_prediction_ar24 import *
 from load_prediction_arima import *
 from load_prediction_dshw import *
 from load_prediction_esn import *
 from load_prediction_esn24 import *
-from load_prediction_wavelet import *
-from load_prediction_wavelet24 import *
+try:
+    from load_prediction_CBR import *
+    from load_prediction_wavelet import *
+    from load_prediction_wavelet24 import *
+except ImportError:
+    print >>sys.stderr, "Genome evaluator can't import CBR/wavelet modules, probably some of the dependencies are not installed."
 
 options = None
 def get_options():
@@ -62,13 +66,13 @@ def gene_test_loop(model):
             print "Evaluating genome on test set: ", indiv[:]
             sys.stdout.flush()
             try:
-                (target, predictions) = lp.test_genome(indiv, model)
+                (target, predictions) = lp.parallel_test_genome(indiv, model) if options.parallel else lp.test_genome(indiv, model)
             except Exception, e:
                 print >>sys.stderr, "Exception raised, failed to evaluate genome."
                 tb = "  " + traceback.format_exc(limit=50)[:-1]
                 print >>sys.stderr, tb.replace("\n", "\n  ")
                 continue
-            error = sg.utils.calc_error(predictions, target, model.error_func)
+            error = sg.utils.concat_and_calc_error(predictions, target, model.error_func)
             print "Error on test phase: {}".format(error)
             if options.plot:
                 sg.utils.plot_target_predictions(target, predictions)
@@ -91,15 +95,11 @@ def run():
     np.seterr(under='ignore')
     random.seed(options.seed)
     np.random.seed(options.seed)
-    model_creator = eval(options.model + "()")
-    model = model_creator.get_model(lp.options)
-    model.dataset = model_creator.get_dataset(options)
-    model.day = options.num_predictions
-    model.preprocessors, model.postprocessors = \
-      lp.get_pre_post_processors(model.dataset)
-    lp._print_sim_context(model.dataset)
+    model_creator = eval(options.model + "(options)")
+    model = model_creator.get_model()
+    lp._print_sim_context(model._dataset)
     print "Number of training sequences: %d" % options.num_trials 
-    print "Start days of training sequences:", model.dataset.train_periods_desc
+    print "Start days of training sequences:", model._dataset.train_periods_desc
     gene_test_loop(model)
     ul.tempfeeder_exp().close()
 

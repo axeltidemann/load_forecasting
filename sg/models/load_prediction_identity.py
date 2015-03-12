@@ -20,21 +20,13 @@ def null_transformer(data, genome, loci, prediction_steps):
                          index=data.index[-prediction_steps:])
 
 class IdentityModelCreator(load_prediction.ModelCreator):
-    def get_model(self, options):
+    def _add_transform_genes(self):
         """Sets up for evolution of a system without transformer."""    
-        alleles = pu.AllelesWithOperators()
-        self.add_hindsight(alleles)
-        self.add_cleaning(options, alleles)        
-        loci_list = ['hindsight']
-        if not options.no_cleaning:
-            loci_list += ['t_smooth', 'l_smooth', 't_zscore', 'l_zscore']
-        loci = sg.utils.Enum(*loci_list)    
-        return Model(self.__class__.__name__, 
-                     genes=alleles, 
-                     error_func=self._get_error_func(options),
-                     transformer=identity_transformer,
-                     loci=loci)
+        pass
+
+    def _get_transform(self):
+        return identity_transformer
 
 
 if __name__ == "__main__":
-    load_prediction.run(IdentityModelCreator())
+    load_prediction.run(IdentityModelCreator)

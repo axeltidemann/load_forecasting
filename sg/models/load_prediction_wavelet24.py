@@ -13,29 +13,26 @@ import load_cleansing
 import load_prediction
 
 class WaveletHourByHourModelCreator(load_prediction.ModelCreator):
-    def get_model(self, options):
+    def _add_transform_genes(self):
         """This is where the models are defined. The models are passed to the
         GA engine for evolution of the optimal set of parameters. Afterwards,
         the models are tested, and performance is measured."""
         
-        alleles = pu.AllelesWithOperators()
-        alleles.add(pu.make_int_gene(1, 1, 10, 1)) # Scale
-        alleles.add(pu.make_choice_gene(1, [2])) # Aj, in the paper 2 gives best results.
+        self._alleles.add(pu.make_int_gene(1, 1, 10, 1)) # Scale
+        self._alleles.add(pu.make_choice_gene(1, [2])) # Aj, in the paper 2 gives best results.
         gene = pu.make_choice_gene(1, [i for i in self._hindsight_days])
-        alleles.add(gene, weight=1)
-        self.add_cleaning(options, alleles)
+        self._alleles.add(gene, weight=1)
         
         if options.no_cleaning:
-            loci = sg.utils.Enum('scale', 'Aj', 'hindsight')
+            loci = sg.utils.Enum('scale', 'Aj')
         else:
-            loci = sg.utils.Enum('scale', 'Aj', 'hindsight', 't_smooth', 
+            loci = sg.utils.Enum('scale', 'Aj', 't_smooth', 
                                  'l_smooth', 't_zscore', 'l_zscore')
 
-        return Model(self.__class__.__name__, 
-                     genes=alleles, 
-                     error_func=self._get_error_func(options),
-                     transformer=wavelet.hourbyhour_multiscale_prediction_ga,
-                     loci=loci)
+
+    def _get_transform(self):
+        return wavelet.hourbyhour_multiscale_prediction_ga
+
 
 if __name__ == "__main__":
-    load_prediction.run(WaveletHourByHourModelCreator())
+    load_prediction.run(WaveletHourByHourModelCreator)

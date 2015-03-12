@@ -65,5 +65,5 @@ for f in $INPUT; do
     else
         GREP=grep
     fi
-    $GREP "$KEYWORD" $f |$TAIL;
+    $GREP "$KEYWORD" "$f" |$TAIL;
 done |sed -e's/.*\[//; s/\]$//'

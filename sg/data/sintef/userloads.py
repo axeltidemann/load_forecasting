@@ -227,6 +227,22 @@ def total_experiment_load():
     loads = tempfeeder_exp()
     return total_load_in_experiment_periods(loads, loads.user_ids)
 
+def fix_temperatures(data):
+    '''The temperature readings contain bogus data in the period June 17
+    12:00 - June 18 08:00 (inclusive). Return a series where these have
+    been replaced by the mean of the temperatures 24 hours before and
+    after.
+
+    '''
+    start = '2006-06-17 12:00'
+    end =  '2006-06-18 08:00'
+    period = data[start:end].index
+    new_data = data.copy()
+    twentyfour = datetime.timedelta(hours=24)
+    for day in period:
+        new_data[day] = (data[day + twentyfour] + data[day - twentyfour]) / 2
+    return new_data
+
 def add_temperatures(loads, period):
     """Given data frame with loads and status code, drop the status code and
     add temperatures in the given period. Temperatures come primarily from GS2

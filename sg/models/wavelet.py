@@ -65,22 +65,53 @@ def _collect_coefficients(data, genome, loci):
 
     return a
 
-def hourbyhour_multiscale_prediction_ga(data, genome, loci, prediction_steps, spinup=0):
-    prediction = [ multiscale_prediction(data.ix[i::prediction_steps], genome, loci, 1)
-                   for i in range(prediction_steps) ]
-    return pd.concat(prediction)
+
+def vector_linear_prediction(data, genome, loci, prediction_steps, spinup=0):
+    for i in range(len(data)-prediction_steps,len(data)):
+        data['Load'][i] = linear(data[i%prediction_steps:i+1:prediction_steps], genome, loci, 1)
+
+    return data['Load'][-prediction_steps:]
+
+def iterative_linear_prediction(data, genome, loci, prediction_steps, spinup=0):
+    for i in range(len(data)-prediction_steps,len(data)):
+        data['Load'][i] = linear_prediction(data[:i+1], genome, loci, 1)
+
+    return data['Load'][-prediction_steps:]
+
+def linear_prediction(data, genome, loci, prediction_steps):
+    a = np.vstack([data['Load'][:-prediction_steps],
+                   data['Temperature'][:-prediction_steps],
+                   np.ones(len(data[:-prediction_steps]))]).T
+    b = data['Load'][prediction_steps:-prediction_steps]
+    (x,_,_,_) = np.linalg.lstsq(a[:-prediction_steps],b)
+    return pd.Series(data=np.dot(a[-prediction_steps:],x), 
+                     index=data.index[-prediction_steps:])
+
+def vector_multiscale_prediction(data, genome, loci, prediction_steps, spinup=0):
+    for i in range(len(data)-prediction_steps,len(data)):
+        data['Load'][i] = multiscale_prediction(data[i%prediction_steps:i+1:prediction_steps], genome, loci, 1)
+
+    return data['Load'][-prediction_steps:]
+
+def iterative_multiscale_prediction(data, genome, loci, prediction_steps, spinup=0):
+    for i in range(len(data)-prediction_steps,len(data)):
+        data['Load'][i] = multiscale_prediction(data[:i+1], genome, loci, 1)
+
+    return data['Load'][-prediction_steps:]
 
 def multiscale_prediction(data, genome, loci, prediction_steps, spinup=0):
-    hindsight = 2**math.floor(math.log(genome[loci.hindsight], 2))
+    hindsight = int(2**math.floor(math.log(genome[loci.hindsight], 2)))
     data = data[-hindsight-prediction_steps:]
-    a = _collect_coefficients(data[:-prediction_steps], genome, loci)
 
+    a = _collect_coefficients(data[:-prediction_steps], genome, loci)
+    
     b = data['Load'][2**genome[loci.scale]+prediction_steps:-prediction_steps]
 
-    (x, residuals, rank, s) = np.linalg.lstsq(a[:-prediction_steps],b)
+    (x,_,_,_) = np.linalg.lstsq(a[:-prediction_steps],b)
 
-    return pd.TimeSeries(data=np.dot(a,x)[-prediction_steps:], 
-                         index=data.index[-prediction_steps:])
+    return pd.Series(data=np.dot(a[-prediction_steps:],x), 
+                     index=data.index[-prediction_steps:])
+    
 
 def _get_test_period(data):
     test_days = np.where(np.isnan(data['Load']))[0]

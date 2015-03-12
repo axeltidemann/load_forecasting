@@ -165,30 +165,17 @@ class WaveletCBRModelCreator(load_prediction.ModelCreator):
         else:
             return RTreeDataset(options, 31)
     
-    def get_model(self, options):
-        alleles = pu.AllelesWithOperators()
-        alleles.add(pu.make_int_gene(1, 2, 11, 1)) # Dimension
-        # alleles.add(pu.make_real_gene(1, 0, 1, 0.05)) # Weight
-        # alleles.add(pu.make_int_gene(1, 1024, 2048, 50)) # Boolean mask
-        self.add_hindsight(alleles)
-        self.add_cleaning(options, alleles)
+    def _add_transform_genes(self):
+        self._alleles.add(pu.make_int_gene(1, 2, 11, 1)) # Dimension
+        # self._alleles.add(pu.make_real_gene(1, 0, 1, 0.05)) # Weight
+        # self._alleles.add(pu.make_int_gene(1, 1024, 2048, 50)) # Boolean mask
+        self._loci_list += ['dimension'] #, 'weight', 'mask', 
+        if not self._options.no_cleaning:
+            #wavelet.set_local_cleaning_func(self._get_cleansing_function(options), model)
+            raise NotImplementedError("CBR with cleaning not updated to work with pipeline model for cleaning.")
 
-        loci_list = ['dimension', #'weight', 'mask', 
-                     'hindsight']
-        if not options.no_cleaning:
-            raise NotImplementedError("CBR with cleaning not updated to work with pipeline model for cleaning.") 
-            loci_list += ['t_smooth', 'l_smooth', 't_zscore', 'l_zscore']
-        loci = sg.utils.Enum(*loci_list)
-
-        model = Model(self.__class__.__name__, 
-                      genes=alleles, 
-                      error_func=Oger.utils.rmse,
-                      transformer=wavelet.retrieve,
-        #                      clean_func=_dummy_cleaner, 
-                      loci=loci)
-        if not options.no_cleaning:
-            wavelet.set_local_cleaning_func(self._get_cleansing_function(options), model)
-        return model
+    def _get_transform(self):
+        return wavelet.retrieve
 
 if __name__ == "__main__":
-    load_prediction.run(WaveletCBRModelCreator())
+    load_prediction.run(WaveletCBRModelCreator)

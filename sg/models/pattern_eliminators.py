@@ -1,3 +1,5 @@
+import copy
+
 import pandas as pd
 import numpy as np
 import functools
@@ -106,7 +108,35 @@ class WeeklyPatternEliminator(DailyPatternEliminator):
                              self._deviation_cols)
 
 
-class Pipeliner(): 
+class Pipeliner():
+    """Wrapper that facilitates preprocessing and postprocessing where state
+    is saved in the preprocessing step and subsequently used in the
+    postprocessing.
+
+    """
+    def __init__(self, dataset):
+        pass
+    
+    # Go via an extra function in superclass to make inheritance work,
+    # since functools.partial explicitly calls this class.
+    def _preprocess_super(self, data_in, genome, loci, prediction_steps):
+        return self.preprocess(data_in, genome, loci, prediction_steps)
+
+    def preprocess(self, data_in, genome, loci, prediction_steps):
+        raise NotImplementedError()
+
+    def _postprocess_super(self, data_out, genome, loci):
+        return self.postprocess(data_out, genome, loci)
+
+    def postprocess(self, data_out, genome, loci):
+        raise NotImplementedError()
+        
+    def get_callbacks(self):
+        return (functools.partial(Pipeliner._preprocess_super, self),
+                functools.partial(Pipeliner._postprocess_super, self))
+
+
+class PatternPipeliner(Pipeliner):
     """Wrapper that allows for typical pattern elimination in the preprocessing
     stage of a processing pipeline, and reversal in the postprocessing
     step. The challenge is that the mean, which is subtracted from the input
@@ -114,46 +144,53 @@ class Pipeliner():
     postprocessing step. We thus need to save some state in the preprocessing
     which can be accessed in the postprocessing."""
     def __init__(self, dataset):
-        self._estimator = self._make_estimator(dataset)
+        Pipeliner.__init__(self, dataset)
+        self._dataset = dataset
         self._eliminator = None
+        self._data_pre, _ = self._dataset.get_pre_post_processors()
+        if not self._data_pre:
+            self._estimator = self._make_estimator(self._dataset.train_data)
 
-    def eliminate(self, data_in, genome, loci, prediction_steps):
+    def preprocess(self, data_in, genome, loci, prediction_steps):
+        if self._data_pre:
+            pattern_data = self._dataset.train_data.copy()
+            for preproc in self._data_pre:
+                pattern_data = preproc(pattern_data, genome, loci, prediction_steps)
+            self._estimator = self._make_estimator(pattern_data)
+
         self._eliminator = self._make_eliminator(data_in)
         return self._eliminator.as_deviation_from_typical_day()
     
-    def add_typical(self, data_out, genome, loci):
+    def postprocess(self, data_out, genome, loci):
         return self._eliminator.add_typical_day_to_series(data_out)
-        
-    def get_callbacks(self):
-        return (functools.partial(Pipeliner.eliminate, self),
-                functools.partial(Pipeliner.add_typical, self))
 
     
-class DailyPatternPipeliner(Pipeliner):
-    def _make_estimator(self, dataset):
-        return DailyPatternEstimator(dataset.train_data)
+class DailyPatternPipeliner(PatternPipeliner):
+    def _make_estimator(self, pattern_data):
+        return DailyPatternEstimator(pattern_data)
     
     def _make_eliminator(self, data_in):
         return DailyPatternEliminator(data_in, self._estimator.typical_day)
 
     
-class WeeklyPatternPipeliner(Pipeliner):
-    def _make_estimator(self, dataset):
-        return WeeklyPatternEstimator(dataset.train_data)
+class WeeklyPatternPipeliner(PatternPipeliner):
+    def _make_estimator(self, pattern_data):
+        return WeeklyPatternEstimator(pattern_data)
     
     def _make_eliminator(self, data_in):
         return WeeklyPatternEliminator(data_in, self._estimator.typical_day)
 
 
-class MixedPatternPipeliner(): 
+class MixedPatternPipeliner(Pipeliner): 
     """Electricity consumption has both weekly and daily seasonality, but
     temperature has only daily seasonality. This pipeliner uses a daily
     pipeliner for temperature and a weekly pipeliner for load."""
     def __init__(self, dataset):
+        Pipeliner.__init__(self, dataset)
         self._temp_pattern = DailyPatternPipeliner(dataset)
         self._load_pattern = WeeklyPatternPipeliner(dataset)
 
-    def eliminate(self, data_in, genome, loci, prediction_steps):
+    def preprocess(self, data_in, genome, loci, prediction_steps):
         temp_elim = self._temp_pattern.eliminate(data_in, genome, loci, 
                                                  prediction_steps)
         load_elim = self._load_pattern.eliminate(data_in, genome, loci, 
@@ -161,23 +198,30 @@ class MixedPatternPipeliner():
         return pd.DataFrame({"Temperature": temp_elim["Temperature"],
                              "Load": load_elim["Load"]})
     
-    def add_typical(self, data_out, genome, loci):
+    def postprocess(self, data_out, genome, loci):
         return self._load_pattern._eliminator.add_typical_day_to_series(data_out)
         
-    def get_callbacks(self):
-        return (functools.partial(MixedPatternPipeliner.eliminate, self),
-                functools.partial(MixedPatternPipeliner.add_typical, self))
-    
 
-# def _make_pattern_eliminator(dataset, estimator_class, eliminator_class):
-#     estimator = estimator_class(dataset.train_data)
-#     def eliminate(data_in, genome, loci, prediction_steps):
-#         elim = eliminator_class(data_in, estimator.typical_day)
-#         return elim.as_deviation_from_typical_day()
-#     def revert(data_out, genome, loci):
-#         elim = eliminator_class(data_out, estimator.typical_day)
-#         return elim.revert_to_full_signal(data_out)
-#     return eliminate, revert
+class DiffPipeliner(Pipeliner):
+    def preprocess(self, data_in, genome, loci, prediction_steps):
+        self._init_val = data_in['Load'].ix[-1-prediction_steps]
+        return data_in.diff()[1:]
+    
+    def postprocess(self, data_out, genome, loci):
+        data_out.ix[0] += self._init_val
+        for i in range(1, len(data_out)):
+            data_out.ix[i] += data_out.ix[i-1]
+        return data_out
+        
+class StandardizerPipeliner(Pipeliner):
+    def preprocess(self, data_in, genome, loci, prediction_steps):
+        self._std = data_in.std()
+        self._mean = data_in.mean()
+        return (data_in - self._mean)/self._std
+    
+    def postprocess(self, data_out, genome, loci):
+        return data_out * self._std['Load'] + self._mean['Load']
+
 
 def make_daily_pattern_eliminator(dataset):
     return DailyPatternPipeliner(dataset).get_callbacks()
@@ -187,3 +231,9 @@ def make_weekly_pattern_eliminator(dataset):
 
 def make_mixed_pattern_eliminator(dataset):
     return MixedPatternPipeliner(dataset).get_callbacks()
+
+def make_diff_pipeliner(dataset):
+    return DiffPipeliner(dataset).get_callbacks()
+
+def make_standardizer_pipeliner(dataset):
+    return StandardizerPipeliner(dataset).get_callbacks()

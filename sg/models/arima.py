@@ -6,7 +6,8 @@ try:
     import rpy2.robjects as ro
     from rpy2.robjects.packages import importr
     from rpy2.robjects.numpy2ri import numpy2ri
-except ImportError:
+except ImportError as ie:
+    print ie
     # rpy2 not trivial to install on Vilje ("R was not built as a library")
     print "rpy2 not installed, R-based predictors won't work."
 
@@ -223,7 +224,7 @@ def ar(data, lags_2d, prediction_steps, stride=1, out_cols=[0]):
 
 def _ar_ga_with_lags(data, genome, loci, prediction_steps, lags_2d):
     pred, _ = ar(
-        data[-genome[loci.hindsight]-prediction_steps:].values, 
+        data[max(-len(data), -genome[loci.hindsight]-prediction_steps):].values, 
         lags_2d, 
         prediction_steps,
         out_cols=[data.columns.tolist().index('Load')])
@@ -232,75 +233,127 @@ def _ar_ga_with_lags(data, genome, loci, prediction_steps, lags_2d):
     pred.shape = (pred.shape[0],) # TimeSeries expects 1D data.
     return pd.TimeSeries(data=pred, index=data[-prediction_steps:].index)
 
-def _lags_from_order(order, dim):
-    """Create a list of 'dim' lists of lags [1,...,order]."""
-    lags_1d = np.arange(1, order + 1)
-    lags_nd = [lags_1d for _ in range(dim)]
-    return lags_nd
-
-def _lags_from_order_ga(genome, loci):
-    """Create a list of 'dim' lists of lags [1,...,order]."""
-    return _lags_from_order(genome[loci.AR_order], dim=2)
-
-def _lags_from_bitmap(bitmaps):
-    """Create a list of n lists of lags, each list based on a bitmap in the list
-    'bitmaps'."""
-    largest_bmp = max([len(bmp) for bmp in bitmaps])
-    all_lags = np.arange(1, largest_bmp + 1)
-    return [all_lags[np.where(bmp == 1)[0]] for bmp in bitmaps]
-
-def _lags_from_bitmap_ga(data, genome, loci):
-    """Create a list of n lists of lags, each list based on a bitmap in the list
-    'bitmaps'."""
-    lags_2d = _lags_from_bitmap(
-        [np.array(genome[loci.lags_temp]), np.array(genome[loci.lags_load])])
+def _check_column_order(data, lags_2d):
     columns = data.columns.tolist()
     load_idx = columns.index('Load')
     temp_idx = columns.index('Temperature')
-    if load_idx == 0 and temp_idx == 1:
+    if load_idx == 1 and temp_idx == 0:
         lags_2d = [lags_2d[1], lags_2d[0]]
-    elif load_idx != 1 or temp_idx != 0:
+    elif load_idx != 0 or temp_idx != 1:
         raise RuntimeError("Data columns not as expected by AR bitmap function.")
     return lags_2d
 
+def lags_from_order_ga(data, genome, loci):
+    lags_2d = [np.arange(1, genome[loci.AR_order] + 1),
+               np.arange(0, genome[loci.EXO_order] + 1)]
+    return _check_column_order(data, lags_2d)
+    
+def lags_from_bitmap_ga(data, genome, loci):
+    """Create a list of n lists of lags, each list based on a bitmap in the list
+    'bitmaps'."""
+    lags_2d = [np.where(genome[loci.AR_lags] == 1)[0] + 1,
+               np.where(genome[loci.EXO_lags] == 1)[0]]
+    return _check_column_order(data, lags_2d)
+
 def ar_ga(data, genome, loci, prediction_steps):
-    lags_2d = _lags_from_order_ga(genome, loci)
+    lags_2d = lags_from_order_ga(data, genome, loci)
     return _ar_ga_with_lags(data, genome, loci, prediction_steps, lags_2d)
 
 def bitmapped_ar_ga(data, genome, loci, prediction_steps):
-    lags_2d = _lags_from_bitmap_ga(data, genome, loci)
+    lags_2d = lags_from_bitmap_ga(data, genome, loci)
     return _ar_ga_with_lags(data, genome, loci, prediction_steps, lags_2d)
 
-def _hourbyhour_ar_ga_with_lags(data, genome, loci, prediction_steps, lags_2d):
-    original = data['Load'][-prediction_steps:].copy()
-    for step in range(prediction_steps):
-        start = len(data) - genome[loci.hindsight] - prediction_steps
-        end = len(data) - prediction_steps + step + 1
-        pred, _ = ar(
-            data[start:end].values, 
+def vector_ar(data, lags_2d, prediction_steps, out_cols=[0]):
+    '''Vector version of AR. All columns not listed in out_cols is assumed
+    to be exo variables, hence observable also in the prediction period.
+
+    '''
+    prediction = []
+    ar_params = []
+    for step in range(prediction_steps, 0, -1):
+        end = len(data) - step + 1
+        pred, arp = ar(
+            data[:end], 
             lags_2d, 
             1,
-            stride=24,
-            out_cols=[data.columns.tolist().index('Load')])
-        data_idx = len(data) - prediction_steps + step
-        # Fill the actual data series, since the bitmapped version may depend
-        # on data in the last 24 hours (which are NaN when we enter this
-        # function).
-        data['Load'][data_idx] = pred[0]
-    prediction = data['Load'][-prediction_steps:].copy()
-    data['Load'][-prediction_steps:] = original
-    return prediction
+            stride=prediction_steps,
+            out_cols=out_cols)
+        prediction.append(pred[0,0])
+        ar_params.append(arp)
+        for out_col in out_cols:
+            lags_2d[out_col] += 1 # Shift AR lags to avoid dependence on previous model estimates.
+    return prediction, ar_params
+
+def _hourbyhour_ar_ga_with_lags(data, genome, loci, prediction_steps, lags_2d):
+    ar_col = data.columns.tolist().index('Load')
+    start = max(0, len(data) - genome[loci.hindsight] - prediction_steps)
+    prediction, _ = vector_ar(data[start:].values, lags_2d, prediction_steps, [ar_col])
+    return pd.TimeSeries(data=prediction, index=data[-prediction_steps:].index)
 
 def hourbyhour_ar_ga(data, genome, loci, prediction_steps):
-    lags_2d = [lags * 24 for lags in _lags_from_order_ga(genome, loci)]
+    lags_2d = lags_from_order_ga(data, genome, loci)
     return _hourbyhour_ar_ga_with_lags(
         data, genome, loci, prediction_steps, lags_2d)
 
 def bitmapped_hourbyhour_ar_ga(data, genome, loci, prediction_steps):
-    lags_2d = _lags_from_bitmap_ga(data, genome, loci)
+    lags_2d = lags_from_bitmap_ga(data, genome, loci)
     return _hourbyhour_ar_ga_with_lags(
         data, genome, loci, prediction_steps, lags_2d)
     
 if __name__ == "__main__":
     from unittest import main
     main(module="test_" + __file__[:-3])
+
+# def ar2(data, exo, data_lags, exo_lags):
+#     '''Calculate autoregressive parameters for the given lags. Returns AR
+#     params for subsequent prediction. Regression coefficients are
+#     calculated for all columns of 'data', and none of the columns in
+#     'exo'. Lags should contain one list of lags for each variable in the
+#     dataset. Lag 0 is now, so in order to e.g. predict the load 6 hours
+#     ahead, using the two last observed hours of load plus the
+#     temperature forecast for the prediction hour, set lags to:
+#        data_lags = [[6, 7, 8]]
+#        exo_lags = [[0]].
+
+#     '''
+#     all_lags = data_lags + exo_lags
+#     ar_order = int(np.concatenate(all_lags).max())
+#     num_obs = data.shape[0]
+#     N = num_obs - ar_order
+#     if N < 1:
+#         raise ValueError(
+#             "Invalid input data: AR order (%d) higher than number of observations (%d)." % \
+#             (ar_order, num_obs))
+#     p = sum([len(lags) for lags in all_lags])
+#     design = np.empty((N, p+1))
+#     observed = np.empty((N, data.shape[1]))
+#     offset = 0
+#     for variable in range(len(data_lags)):
+#         for lags, col in zip(data_lags, range(len(data_lags))):
+#         nlags = len(lags)
+#         if nlags > 0:
+#             for (i, j) in zip(range(N), 
+#                               range(start_at_stride_mult, first_pred_idx, stride)):
+#                 design[i, offset:offset+nlags] = data[j - lags, col]
+#                 observed[i, :] = data[j, out_cols]
+#         offset += nlags
+
+#     design[:, p] = 1
+#     ar_params = np.linalg.lstsq(design, observed)[0]
+    
+#     observed_next_day = data[-prediction_steps:].copy()
+#     design = np.empty(p + 1)
+#     for i in range(first_pred_idx, data.shape[0], stride):
+#         offset = 0
+#         for lags, col in zip(lags_2d, range(len(lags_2d))):
+#             nlags = len(lags)
+#             if nlags > 0:
+#                 design[offset:offset+nlags] = data[i-lags, col]
+#                 offset += nlags
+#         design[-1] = 1
+#         data[i, out_cols] = np.dot(design, ar_params)
+#     prediction = data[-prediction_steps:, out_cols].copy()
+#     data[-prediction_steps:] = observed_next_day
+#     return prediction, ar_params
+
+    

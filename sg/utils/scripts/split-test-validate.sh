@@ -23,16 +23,17 @@ split_and_calc() {
     filter $1 \
         | awk "{
                   if (NR <= $flines/2) {
-                     valid += \$NF;
+                     valid += (\$NF)^2;
                      vlines++;
                   } else {
-                     test += \$NF;
+                     test += (\$NF)^2;
                      tlines++;
                   }
                } 
                END {
-                  print \"Error on validation phase (\", vlines, \" lines): \", valid/vlines;
-                  print \"Error on test phase (\", tlines, \" lines): \", test/tlines;
+                  print \"This script assumes RMSE for each day is based on the same number of predictions (24).\";
+                  print \"RMSE on validation phase (\", vlines, \" lines): \", sqrt(valid/vlines);
+                  print \"RMSE on test phase (\", tlines, \" lines): \", sqrt(test/tlines);
                }"
     echo ""
 }
